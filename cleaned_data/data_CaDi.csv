@@ -1,0 +1,648 @@
+gender_exclusive,gender_inclusive,sacrebleu,difficulty,origin
+Los científicos están investigando una cura para el cáncer.,La comunidad científica está investigando una cura para el cáncer.,57.067457770559976,plural,GPT-3.5_CaDi
+Los científicos han descubierto una nueva especie de planta en la selva tropical.,La comunidad científica ha descubierto una nueva especie de planta en la selva tropical.,70.1205513308646,plural,GPT-3.5_CaDi
+Los científicos están estudiando el efecto del cambio climático en los océanos.,La comunidad científica está estudiando el efecto del cambio climático en los océanos.,67.67781116542882,plural,GPT-3.5_CaDi
+Los científicos han desarrollado una vacuna efectiva contra una enfermedad mortal.,La comunidad científica ha desarrollado una vacuna efectiva contra una enfermedad mortal.,64.79121525090147,plural,GPT-3.5_CaDi
+Los científicos trabajan en colaboración con otros investigadores de todo el mundo.,La comunidad científica trabaja en colaboración con otros investigadores de todo el mundo.,67.67781116542882,plural,GPT-3.5_CaDi
+Los científicos utilizan métodos rigurosos para asegurar la validez de sus resultados.,La comunidad científica utiliza métodos rigurosos para asegurar la validez de sus resultados.,67.67781116542882,plural,GPT-3.5_CaDi
+Los científicos necesitan financiamiento para llevar a cabo sus investigaciones.,La comunidad científica necesita financiación para llevar a cabo sus investigaciones.,51.56626918239821,plural,GPT-3.5_CaDi
+Los científicos están analizando muestras de suelo para entender la composición del sustrato.,La comunidad científica está analizando muestras de suelo para entender la composición del sustrato.,70.1205513308646,plural,GPT-3.5_CaDi
+Los científicos están explorando las profundidades del espacio en busca de vida extraterrestre.,La comunidad científica está explorando las profundidades del espacio en busca de vida extraterrestre.,70.1205513308646,plural,GPT-3.5_CaDi
+Los científicos son clave en el avance del conocimiento humano y el progreso de la sociedad.,La comunidad científica es clave en el avance del conocimiento humano y el progreso de la sociedad.,75.62722459724606,plural,GPT-3.5_CaDi
+Las feministas luchan por la igualdad de género.,El feminismo lucha por la igualdad de género.,58.73949094699213,plural,GPT-3.5_CaDi
+Los académicos se dedican a la investigación.,La academia se dedica a la investigación.,36.55552228545123,plural,GPT-3.5_CaDi
+Las floristas trabajan con flores hermosas.,Las y los floristas trabajan con hermosas flores.,21.93456688254154,plural,GPT-3.5_CaDi
+Las secretarias organizan la agenda diaria.,El personal de secretaría organiza la agenda diaria.,29.84745896009822,plural,GPT-3.5_CaDi
+Los accionistas tienen participación en la empresa.,El accionariado tiene participación en la empresa.,51.69731539571708,plural,GPT-3.5_CaDi
+Las sirvientas atienden las necesidades del hogar.,Las personas del servicio atienden las necesidades del hogar.,53.7284965911771,plural,GPT-3.5_CaDi
+Los acreedores esperan el pago de la deuda.,Acreedoras y acreedores esperan el pago de la deuda.,75.98356856515926,plural,GPT-3.5_CaDi
+Las empleadas de hogar realizan múltiples tareas domésticas.,El servicio doméstico realiza múltiples tareas del hogar.,11.339582221952005,plural,GPT-3.5_CaDi
+Las patronistas diseñan prendas de vestir.,Las y los patronistas diseñan prendas de vestir.,61.04735835807847,plural,GPT-3.5_CaDi
+Los acólitos asisten en ceremonias religiosas.,Acólitas y acólitos asisten en ceremonias religiosas.,68.037493331712,plural,GPT-3.5_CaDi
+Las telefonistas manejan las llamadas telefónicas.,Las y los telefonistas manejan las llamadas telefónicas.,61.04735835807847,plural,GPT-3.5_CaDi
+Los acomodadores ayudan a encontrar asientos en eventos.,El personal acomodador ayuda a encontrar asientos en eventos.,51.697315395717055,plural,GPT-3.5_CaDi
+Los acompañantes brindan apoyo emocional.,Las personas acompañantes brindan apoyo emocional.,61.47881529512643,plural,GPT-3.5_CaDi
+Las peluqueras cortan y peinan el cabello.,El gremio de la peluquería cortan y peinan el cabello.,46.17366309441026,plural,GPT-3.5_CaDi
+Las domésticas trabajan en hogares privados.,El servicio doméstico trabaja en hogares privados.,34.57207846419409,plural,GPT-3.5_CaDi
+Bienvenidos cada uno a esta celebración.,Nuestra bienvenida a cada cual en esta celebración.,20.164945583740657,plural,GPT-3.5_CaDi
+Las catequistas enseñan la doctrina religiosa.,La formación en catequesis enseña la doctrina religiosa.,29.84745896009822,plural,GPT-3.5_CaDi
+Los acróbatas realizan impresionantes piruetas en el circo.,Las y los acróbatas realizan impresionantes piruetas en el circo.,67.86502681586727,plural,GPT-3.5_CaDi
+Los actores interpretan diversos personajes en la obra de teatro.,Actrices y actores interpretan diversos personajes en la obra de teatro.,80.70557274927978,plural,GPT-3.5_CaDi
+Los adalides lideran sus tropas con valentía en la batalla.,Las y los adalides lideran sus tropas con valentía en la batalla.,73.61703354503868,plural,GPT-3.5_CaDi
+Los adiestradores entrenan a los perros para diversas habilidades.,Quienes adiestran entrenan a los perros para diversas habilidades.,75.98356856515926,plural,GPT-3.5_CaDi
+Los adivinos intentan predecir el futuro mediante la videncia.,Quienes adivinan intentan predecir el futuro mediante la videncia.,75.98356856515926,plural,GPT-3.5_CaDi
+Los adjuntos colaboran estrechamente con los principales responsables.,El personal adjunto colabora estrechamente con los principales responsables.,51.697315395717055,plural,GPT-3.5_CaDi
+Los administradores gestionan eficientemente los recursos de la empresa.,La administración gestiona eficientemente los recursos de la empresa.,63.894310424627285,plural,GPT-3.5_CaDi
+Los administrativos se encargan de la tramitación de documentos.,El personal de administración se encarga de la tramitación de documentos.,43.36189090348677,plural,GPT-3.5_CaDi
+Los adultos asumen responsabilidades en la vida laboral y familiar.,Las personas adultas asumen responsabilidades en la vida laboral y familiar.,71.02992180127423,plural,GPT-3.5_CaDi
+Los adversarios compiten ferozmente por alcanzar la victoria.,Quienes contienden compiten ferozmente por alcanzar la victoria.,72.59795291154772,plural,GPT-3.5_CaDi
+Los afectados necesitan apoyo y solidaridad en momentos difíciles.,Las personas afectadas necesitan apoyo y solidaridad en momentos difíciles.,67.86502681586727,plural,GPT-3.5_CaDi
+Los aficionados disfrutan viendo partidos de fútbol en el estadio.,Las personas aficionadas disfrutan viendo partidos de fútbol en el estadio.,71.02992180127423,plural,GPT-3.5_CaDi
+Los agentes de policía velan por la seguridad de la ciudadanía.,Las y los agentes de policía velan por la seguridad de la ciudadanía.,75.77395672414198,plural,GPT-3.5_CaDi
+Los agrónomos estudian métodos para mejorar la producción agrícola.,Agrónomas y agrónomos estudian métodos para mejorar la producción agrícola.,78.60753021519788,plural,GPT-3.5_CaDi
+Los ajedrecistas practican estrategias para ganar en el tablero.,Las y los ajedrecistas practican estrategias para ganar en el tablero.,71.02992180127423,plural,GPT-3.5_CaDi
+Los albaceas cumplen con la voluntad del testador tras su fallecimiento.,Las y los albaceas cumplen con la voluntad del testador tras su fallecimiento.,75.77395672414198,plural,GPT-3.5_CaDi
+Los albañiles construyen edificaciones utilizando materiales diversos.,El personal de albañilería construye edificaciones utilizando materiales diversos.,39.281465090051306,plural,GPT-3.5_CaDi
+Los alcaldes dirigen los destinos de sus municipios con responsabilidad.,La alcaldía dirige los destinos del municipio con responsabilidad.,17.771669724375847,plural,GPT-3.5_CaDi
+Los alguaciles velan por el orden en el pueblo.,Las y los alguaciles velan por el orden en el pueblo.,71.02992180127423,plural,GPT-3.5_CaDi
+Los alpinistas escalan montañas de gran altura.,Las y los alpinistas escalan montañas de gran altura.,63.894310424627285,plural,GPT-3.5_CaDi
+Los alumnos estudian para obtener buenas calificaciones.,El alumnado estudia para obtener buenas calificaciones.,51.69731539571708,plural,GPT-3.5_CaDi
+Los americanistas investigan la cultura de América.,Las y los americanistas investigan la cultura de América.,63.894310424627285,plural,GPT-3.5_CaDi
+Los amigos comparten momentos de alegría y tristeza.,Amigas y amigos comparten momentos de alegría y tristeza.,75.98356856515926,plural,GPT-3.5_CaDi
+Los amos cuidan y protegen a sus mascotas.,Amas y amos cuidan y protegen a sus mascotas.,75.98356856515926,plural,GPT-3.5_CaDi
+Los analistas examinan datos para obtener conclusiones.,Las y los analistas examinan datos para obtener conclusiones.,63.894310424627285,plural,GPT-3.5_CaDi
+Los anarquistas promueven la ausencia de gobierno.,Las y los anarquistas promueven la ausencia de gobierno.,63.894310424627285,plural,GPT-3.5_CaDi
+Los ancianos merecen respeto y atención en la vejez.,Las personas mayores merecen respeto y atención en la vejez.,67.86502681586727,plural,GPT-3.5_CaDi
+Los anestesiólogos administran anestesia durante cirugías.,Anestesiólogas y anestesiólogos administran anestesia durante cirugías.,68.037493331712,plural,GPT-3.5_CaDi
+Los anestesistas se especializan en el manejo del dolor.,Las y los anestesistas se especializan en el manejo del dolor.,71.02992180127423,plural,GPT-3.5_CaDi
+Los animadores entretienen a niños con juegos y actividades.,Animadoras y animadores entretienen a niños con juegos y actividades.,78.60753021519788,plural,GPT-3.5_CaDi
+Los anticuarios coleccionan y venden antigüedades.,Anticuarias y anticuarios coleccionan y venden antigüedades.,68.037493331712,plural,GPT-3.5_CaDi
+Los antropólogos estudian las culturas humanas.,Antropólogas y antropólogos estudian las culturas humanas.,68.037493331712,plural,GPT-3.5_CaDi
+Los aparejadores supervisan la construcción de edificaciones.,Aparejadoras y aparejadores supervisan la construcción de edificaciones.,72.59795291154772,plural,GPT-3.5_CaDi
+Los apneístas practican la apnea bajo el agua.,Las y los apneístas practican la apnea bajo el agua.,67.86502681586727,plural,GPT-3.5_CaDi
+Los apoderados representan legalmente a otras personas.,Apoderadas y apoderados representan legalmente a otras personas.,72.59795291154772,plural,GPT-3.5_CaDi
+Los aprendices adquieren habilidades durante su formación.,El conjunto de aprendices adquiere habilidades durante su formación.,41.11336169005198,plural,GPT-3.5_CaDi
+Los árbitros garantizan el fair play en los partidos.,Quienes arbitran garantizan el fair play en los partidos.,75.98356856515926,plural,GPT-3.5_CaDi
+Los archiveros organizan y gestionan documentos importantes.,El personal del archivo organiza y gestiona documentos importantes.,16.784459625186194,plural,GPT-3.5_CaDi
+Los arquitectos diseñan edificaciones impresionantes.,Arquitectas y arquitectos diseñan edificaciones impresionantes.,61.47881529512643,plural,GPT-3.5_CaDi
+Los artesanos elaboran productos con habilidad manual.,Las personas artesanas elaboran productos con habilidad manual.,58.73949094699213,plural,GPT-3.5_CaDi
+Los artífices crean obras de arte con destreza.,Las y los artífices crean obras de arte con destreza.,67.86502681586727,plural,GPT-3.5_CaDi
+Los artistas expresan sus emociones a través de la creación.,Las personas artistas expresan sus emociones a través de la creación.,80.70557274927978,plural,GPT-3.5_CaDi
+Los asalariados reciben un salario por su trabajo.,Las personas asalariadas reciben un salario por su trabajo.,63.894310424627285,plural,GPT-3.5_CaDi
+Los asesores brindan consejos y orientación especializada.,La asesoría brinda consejos y orientación especializada.,51.69731539571708,plural,GPT-3.5_CaDi
+Los asistentes ayudan en tareas administrativas.,Las personas asistentes ayudan en tareas administrativas.,68.037493331712,plural,GPT-3.5_CaDi
+Los astrólogos interpretan el horóscopo y las estrellas.,Astrólogas y astrólogos interpretan el horóscopo y las estrellas.,75.98356856515926,plural,GPT-3.5_CaDi
+Los astronautas viajan al espacio para realizar investigaciones.,Las y los astronautas viajan al espacio para realizar investigaciones.,67.86502681586727,plural,GPT-3.5_CaDi
+Los astrónomos estudian los astros y el universo.,Astrónomas y astrónomos estudian los astros y el universo.,75.98356856515926,plural,GPT-3.5_CaDi
+Los atletas entrenan duro para competir en eventos deportivos.,El conjunto de atletas entrena duro para competir en eventos deportivos.,53.3167536340577,plural,GPT-3.5_CaDi
+Los auditores revisan y verifican los registros financieros.,Auditoras y auditores revisan y verifican los registros financieros.,75.98356856515926,plural,GPT-3.5_CaDi
+Los auditores garantizan la precisión y legalidad de los registros.,La auditoría garantiza la precisión y legalidad de los registros.,67.86502681586727,plural,GPT-3.5_CaDi
+"Los autores escriben libros, cuentos o poesías.","Autoras y autores escriben libros, cuentos o poesías.",75.98356856515926,plural,GPT-3.5_CaDi
+Los auxiliares asisten en diversas actividades.,El personal auxiliar asiste en diversas actividades.,34.57207846419409,plural,GPT-3.5_CaDi
+Los arredadores alquilan propiedades a los arrendatarios.,Las personas arrendadoras alquilan propiedades a las personas arrendatarias.,16.784459625186194,plural,GPT-3.5_CaDi
+Los bailarines interpretan coreografías con gracia y habilidad.,El cuerpo de baile interpreta coreografías con gracia y habilidad.,46.17366309441026,plural,GPT-3.5_CaDi
+Los bajistas son fundamentales en una banda de música.,El bajo es fundamental en una banda de música.,51.697315395717055,plural,GPT-3.5_CaDi
+Los banqueros gestionan transacciones financieras.,La banca gestiona transacciones financieras.,30.213753973567677,plural,GPT-3.5_CaDi
+Los barman preparan deliciosos cócteles en el bar.,El personal de la barra prepara deliciosos cócteles en el bar.,41.72261448611506,plural,GPT-3.5_CaDi
+Los basquetbolistas entrenan duro para ganar partidos.,Quienes juegan a basquetbol entrenan duro para ganar partidos.,51.697315395717055,plural,GPT-3.5_CaDi
+Los becarios adquieren experiencia laboral durante su formación.,Las personas becadas adquieren experiencia laboral durante su formación.,63.894310424627285,plural,GPT-3.5_CaDi
+Los bedeles ayudan en la organización de eventos académicos.,El personal auxiliar ayuda en la organización de eventos académicos.,57.067457770559976,plural,GPT-3.5_CaDi
+Los beisbolistas practican lanzamientos y bateos en el campo.,Las y los beisbolistas practican lanzamientos y bateos en el campo.,71.02992180127423,plural,GPT-3.5_CaDi
+Los belenistas crean hermosos nacimientos durante la Navidad.,Artistas del belenismo crean hermosos nacimientos durante la Navidad.,63.894310424627285,plural,GPT-3.5_CaDi
+Los beneficiarios reciben ayuda económica del gobierno.,Las personas beneficiarias reciben ayuda económica del gobierno.,58.73949094699213,plural,GPT-3.5_CaDi
+Los bibliotecarios gestionan el préstamo de libros en la biblioteca.,Bibliotecarias y bibliotecarios gestionan el préstamo de libros en la biblioteca.,80.70557274927978,plural,GPT-3.5_CaDi
+Los biblistas estudian e interpretan textos religiosos.,Las y los especialistas en estudios bíblicos estudian e interpretan textos religiosos.,38.058030016749456,plural,GPT-3.5_CaDi
+Los biógrafos investigan la vida de personas destacadas.,Biógrafas y biógrafos investigan la vida de personas destacadas.,75.98356856515926,plural,GPT-3.5_CaDi
+Los biólogos estudian los seres vivos y su entorno.,El cuerpo profesional de biología estudia los seres vivos y su entorno.,47.037095938668976,plural,GPT-3.5_CaDi
+Los bodegueros se encargan del almacenamiento de productos.,Bodegueras y bodegueros se encargan del almacenamiento de productos.,75.98356856515926,plural,GPT-3.5_CaDi
+Los bomberos combaten incendios y realizan rescates.,El servicio de extinción de incendios combate incendios y realiza rescates.,9.578464408619825,plural,GPT-3.5_CaDi
+Los boticarios preparan medicamentos en la farmacia.,Boticarias y boticarios preparan medicamentos en la farmacia.,72.59795291154772,plural,GPT-3.5_CaDi
+Los ayudantes colaboran en diversas tareas cotidianas.,Las personas ayudantes colaboran en diversas tareas cotidianas.,72.59795291154772,plural,GPT-3.5_CaDi
+Los boxeadores entrenan duro para las peleas.,Las y los boxeadores entrenan duro para las peleas.,63.894310424627285,plural,GPT-3.5_CaDi
+Los buceadores exploran el fondo del mar en busca de tesoros.,Buceadoras y buceadores exploran el fondo del mar en busca de tesoros.,82.42367502646057,plural,GPT-3.5_CaDi
+Los buzos se sumergen en aguas profundas para realizar trabajos de mantenimiento.,Las y los profesionales del buceo se sumergen en aguas profundas para realizar trabajos de mantenimiento.,61.02169202557915,plural,GPT-3.5_CaDi
+Los cajeros atienden a los clientes en el supermercado.,El personal de caja atiende a los clientes en el supermercado.,51.56626918239821,plural,GPT-3.5_CaDi
+Los calígrafos tienen una escritura hermosa y precisa.,Calígrafas y calígrafos tienen una escritura hermosa y precisa.,75.98356856515926,plural,GPT-3.5_CaDi
+Los campesinos cultivan la tierra para obtener alimentos.,El campesinado cultiva la tierra para obtener alimentos.,58.73949094699213,plural,GPT-3.5_CaDi
+Los cancerólogos investigan y tratan el cáncer.,Las y los especialistas de cáncer investigan y tratan la enfermedad.,14.323145079400492,plural,GPT-3.5_CaDi
+Los cancilleres representan a su país en las negociaciones internacionales.,Las y los cancilleres representan a su país en las negociaciones internacionales.,73.61703354503868,plural,GPT-3.5_CaDi
+Los candidatos compiten por el puesto político.,Las personas candidatas compiten por el puesto político.,58.73949094699213,plural,GPT-3.5_CaDi
+Los cantantes emocionan al público con su voz.,La gente cantante emociona al público con su voz.,51.697315395717055,plural,GPT-3.5_CaDi
+Los cantautores componen música y letras de sus propias canciones.,Cantautoras y cantautores componen música y letras de sus propias canciones.,80.70557274927978,plural,GPT-3.5_CaDi
+Los capacitadores imparten conocimientos y habilidades en cursos de formación.,El equipo de capacitación imparte conocimientos y habilidades en cursos de formación.,55.93684915933074,plural,GPT-3.5_CaDi
+Los capataces supervisan el trabajo en el campo.,Las personas al cargo del personal supervisan el trabajo en el campo.,47.037095938668976,plural,GPT-3.5_CaDi
+Los capitanes dirigen el barco durante la travesía.,La capitanía dirige el barco durante la travesía.,58.73949094699213,plural,GPT-3.5_CaDi
+Los carniceros cortan y preparan la carne en la carnicería.,El personal de la carnicería corta y prepara la carne.,11.731175160263996,plural,GPT-3.5_CaDi
+Los carpinteros construyen muebles de madera.,El personal de la carpintería construye muebles de madera.,26.269098944241577,plural,GPT-3.5_CaDi
+Los carteros entregan el correo a los hogares.,Quienes reparten el correo entregan el correo a los hogares.,57.067457770559976,plural,GPT-3.5_CaDi
+Los cartógrafos elaboran mapas y planos.,Las y los especialistas en cartografía elaboran mapas y planos.,35.08439695638686,plural,GPT-3.5_CaDi
+Los catadores prueban y evalúan la calidad de los alimentos y bebidas.,Catadoras y catadores prueban y evalúan la calidad de los alimentos y bebidas.,83.85766789076253,plural,GPT-3.5_CaDi
+Los catedráticos imparten clases magistrales en la universidad.,Las cátedras imparten clases magistrales en la universidad.,72.59795291154772,plural,GPT-3.5_CaDi
+Los cazadores buscan presas en el bosque durante la temporada de caza.,El sector de la caza busca presas en el bosque durante la temporada de caza.,58.282339541526554,plural,GPT-3.5_CaDi
+Los celadores cuidan la seguridad en el hospital durante la noche.,Celadoras y celadores cuidan la seguridad en el hospital durante la noche.,82.42367502646057,plural,GPT-3.5_CaDi
+Los centinelas vigilan el perímetro del edificio durante la noche.,Las y los centinelas vigilan el perímetro del edificio durante la noche.,73.61703354503868,plural,GPT-3.5_CaDi
+Los centristas promueven posturas políticas moderadas.,Las y los centristas promueven posturas políticas moderadas.,58.73949094699213,plural,GPT-3.5_CaDi
+Los ceramistas crean hermosas piezas de arte con barro.,Las y los ceramistas crean hermosas piezas de arte con barro.,71.02992180127423,plural,GPT-3.5_CaDi
+Los cerrajeros reparan cerraduras y hacen llaves.,El servicio de cerrajería reparan cerraduras y hacen llaves.,51.697315395717055,plural,GPT-3.5_CaDi
+Los chavales juegan en el parque después de la escuela.,La chavalada juega en el parque después de la escuela.,67.86502681586727,plural,GPT-3.5_CaDi
+Los chóferes conducen autobuses para transportar pasajeros.,Las y los chóferes conducen autobuses para transportar pasajeros.,63.894310424627285,plural,GPT-3.5_CaDi
+Los cibernautas navegan por internet en busca de información.,Las y los cibernautas navegan por internet en busca de información.,71.02992180127423,plural,GPT-3.5_CaDi
+Los ciclistas disfrutan de paseos en bicicleta por el campo.,El conjunto de ciclistas disfruta de paseos en bicicleta por el campo.,57.60844201603898,plural,GPT-3.5_CaDi
+Los científicos realizan experimentos en el laboratorio.,La comunidad científica realiza experimentos en el laboratorio.,44.63236137853328,plural,GPT-3.5_CaDi
+Los cineastas dirigen y producen películas.,El gremio del cine dirige y produce películas.,10.552670315936318,plural,GPT-3.5_CaDi
+Los cirqueros realizan acrobacias en el circo.,Las personas propietarias de un circo realizan acrobacias en el espectáculo.,23.462350320527996,plural,GPT-3.5_CaDi
+Los cirujanos operan a pacientes en el hospital.,Cirujanas y cirujanos operan a pacientes en el hospital.,75.98356856515926,plural,GPT-3.5_CaDi
+Los ciudadanos participan en la vida política de la comunidad.,La ciudadanía participa en la vida política de la comunidad.,67.86502681586727,plural,GPT-3.5_CaDi
+Los ciudadanos de a pie caminan por las calles de la ciudad.,La gente de a pie camina por las calles de la ciudad.,57.83569866465144,plural,GPT-3.5_CaDi
+Los clientes compran productos en la tienda.,La clientela compra productos en la tienda.,51.69731539571708,plural,GPT-3.5_CaDi
+Los coautores colaboran en la escritura de un libro.,La autoría compartida colabora en la escritura de un libro.,57.067457770559976,plural,GPT-3.5_CaDi
+Los cocineros preparan deliciosas comidas en el restaurante.,El personal de cocina prepara deliciosas comidas en el restaurante.,46.17366309441026,plural,GPT-3.5_CaDi
+Los coeditores trabajan juntos para mejorar la calidad del libro.,La coedición implica trabajar juntos para mejorar la calidad del libro.,61.32297420585353,plural,GPT-3.5_CaDi
+Los colaboradores aportan ideas y esfuerzo al proyecto.,Las personas colaboradoras aportan ideas y esfuerzo al proyecto.,63.894310424627285,plural,GPT-3.5_CaDi
+Los colegas se apoyan mutuamente en el trabajo.,Las y los colegas se apoyan mutuamente en el trabajo.,67.86502681586727,plural,GPT-3.5_CaDi
+Los comediantes hacen reír a la audiencia con sus chistes.,Las y los comediantes hacen reír a la audiencia con sus chistes.,73.61703354503868,plural,GPT-3.5_CaDi
+Los comentaristas analizan el partido de fútbol en la televisión.,Quienes comentan analizan el partido de fútbol en la televisión.,78.60753021519788,plural,GPT-3.5_CaDi
+Los comerciantes venden productos en el mercado.,El sector del comercio se dedica a vender productos en el mercado.,28.917849332325716,plural,GPT-3.5_CaDi
+Los cómicos son expertos en el arte de la comedia.,Artistas de la comedia son expertas en el arte de la comedia.,48.63383168079944,plural,GPT-3.5_CaDi
+Los compañeros de trabajo celebran el éxito del proyecto.,Compañeras y compañeros de trabajo celebran el éxito del proyecto.,78.60753021519788,plural,GPT-3.5_CaDi
+Los competidores se esfuerzan por ganar la carrera.,Quienes compiten se esfuerzan por ganar la carrera.,72.59795291154772,plural,GPT-3.5_CaDi
+Los compiladores recopilan información para el informe.,Quienes han compilado recopilan información para el informe.,58.73949094699213,plural,GPT-3.5_CaDi
+Los compositores crean hermosas melodías para la película.,Compositoras y compositores crean hermosas melodías para la película.,75.98356856515926,plural,GPT-3.5_CaDi
+Los comunicólogos estudian los medios de comunicación.,El gremio de la comunicación estudia los medios de comunicación.,35.08439695638686,plural,GPT-3.5_CaDi
+Los comunistas defienden los derechos de los trabajadores.,El comunismo defiende los derechos de los trabajadores.,58.73949094699213,plural,GPT-3.5_CaDi
+Los concejales representan a la comunidad en el ayuntamiento.,Las concejalías representan a la comunidad en el ayuntamiento.,75.98356856515926,plural,GPT-3.5_CaDi
+Los condes son parte de la nobleza.,El conde y la condesa son parte de la nobleza.,46.17366309441026,plural,GPT-3.5_CaDi
+Los conductores manejan el autobús con cuidado.,El personal de la conducción maneja el autobús con cuidado.,35.08439695638686,plural,GPT-3.5_CaDi
+Los conferenciantes comparten su conocimiento en el seminario.,Las y los conferenciantes comparten su conocimiento en el seminario.,67.86502681586727,plural,GPT-3.5_CaDi
+Los conferencistas exponen sus ideas en la conferencia.,El conjunto de conferencistas expone sus ideas en la conferencia.,47.987820666906636,plural,GPT-3.5_CaDi
+Los congresistas discuten leyes en el parlamento.,El Congreso discute leyes en el parlamento.,51.69731539571708,plural,GPT-3.5_CaDi
+Los consejeros ofrecen orientación y apoyo a los estudiantes.,La consejería ofrece orientación y apoyo a los estudiantes.,63.894310424627285,plural,GPT-3.5_CaDi
+Los conserjes mantienen la limpieza en el edificio.,La conserjería se encarga de mantener la limpieza en el edificio.,41.72261448611506,plural,GPT-3.5_CaDi
+Los constructores están trabajando en la construcción del nuevo puente.,Constructores y constructoras están trabajando en la construcción del nuevo puente.,71.02992180127423,plural,GPT-3.5_CaDi
+Los cónsules representan a su país en el extranjero.,El consulado representa a su país en el extranjero.,63.894310424627285,plural,GPT-3.5_CaDi
+Los consultores ofrecen asesoramiento experto a las empresas.,La consultoría ofrece asesoramiento experto a las empresas.,58.73949094699213,plural,GPT-3.5_CaDi
+Los contables llevan la contabilidad de la empresa.,La contabilidad es fundamental para llevar el control financiero de la empresa.,20.44800736021839,plural,GPT-3.5_CaDi
+Los contadores revisan los estados financieros para detectar errores.,La contaduría revisa los estados financieros para detectar errores.,63.894310424627285,plural,GPT-3.5_CaDi
+Los contratados tienen un contrato temporal en la empresa.,El personal contratado tiene un contrato temporal en la empresa.,57.067457770559976,plural,GPT-3.5_CaDi
+Los contribuyentes pagan impuestos para financiar servicios públicos.,Las personas contribuyentes pagan impuestos para financiar servicios públicos.,75.98356856515926,plural,GPT-3.5_CaDi
+Los contrincantes se enfrentan en una competencia deportiva.,Quienes contienden se enfrentan en una competencia deportiva.,72.59795291154772,plural,GPT-3.5_CaDi
+Los cooperantes trabajan en proyectos de ayuda humanitaria.,El mundo de la cooperación involucra a personas que trabajan en proyectos de ayuda humanitaria.,37.23909894939824,plural,GPT-3.5_CaDi
+Los coordinadores organizan el evento para asegurarse de que todo salga bien.,La coordinación del evento está a cargo de garantizar que todo salga bien.,28.917849332325716,plural,GPT-3.5_CaDi
+Los coreógrafos diseñan las secuencias de baile para la obra de teatro.,El mundo de la coreografía implica diseñar secuencias de baile para la obra de teatro.,51.29497107827518,plural,GPT-3.5_CaDi
+Los corresponsales informan sobre los eventos desde el lugar de los hechos.,La corresponsalía informa sobre los eventos desde el lugar de los hechos.,73.61703354503868,plural,GPT-3.5_CaDi
+Los cosmetólogos ofrecen tratamientos de belleza en el spa.,El cuerpo profesional de cosmetología ofrece tratamientos de belleza en el spa.,47.037095938668976,plural,GPT-3.5_CaDi
+Los creadores imaginan nuevas ideas y las convierten en realidad.,Las personas creadoras imaginan nuevas ideas y las convierten en realidad.,71.02992180127423,plural,GPT-3.5_CaDi
+Los cuentacuentos entretienen a los niños con sus historias.,Las y los cuentacuentos entretienen a los niños con sus historias.,71.02992180127423,plural,GPT-3.5_CaDi
+Los cultivadores trabajan en el campo para cosechar alimentos.,Quienes cultivan trabajan en el campo para cosechar alimentos.,75.98356856515926,plural,GPT-3.5_CaDi
+Los curanderos utilizan remedios naturales para sanar enfermedades.,La curandería utiliza remedios naturales para sanar enfermedades.,58.73949094699213,plural,GPT-3.5_CaDi
+Los decanos son los líderes académicos de las facultades universitarias.,El decanato es el liderazgo académico de las facultades universitarias.,35.08439695638686,plural,GPT-3.5_CaDi
+Los declarantes testifican en el juicio sobre lo que presenciaron.,Quienes declaran testifican en el juicio sobre lo que presenciaron.,78.60753021519788,plural,GPT-3.5_CaDi
+Los defensores luchan por los derechos de las personas más vulnerables.,La defensa lucha por los derechos de las personas más vulnerables.,71.02992180127423,plural,GPT-3.5_CaDi
+Los delegados representan a su país en la conferencia internacional.,Las y los delegados representan a su país en la conferencia internacional.,73.61703354503868,plural,GPT-3.5_CaDi
+Los demandantes presentan una demanda ante el tribunal por daños.,La parte demandante presenta una demanda ante el tribunal por daños.,61.32297420585353,plural,GPT-3.5_CaDi
+Los demás están invitados a la fiesta de cumpleaños de Juan.,La demás gente está invitada a la fiesta de cumpleaños de Juan.,57.60844201603898,plural,GPT-3.5_CaDi
+Los dentistas cuidan de la salud bucal de sus pacientes.,El personal dentista cuida de la salud bucal de sus pacientes.,61.32297420585353,plural,GPT-3.5_CaDi
+Los dependientes necesitan ayuda para cargar las cajas pesadas.,Las personas dependientes necesitan ayuda para cargar las cajas pesadas.,78.60753021519788,plural,GPT-3.5_CaDi
+Los deportistas entrenan duro para competir en los Juegos Olímpicos.,Las y los deportistas entrenan duro para competir en los Juegos Olímpicos.,73.61703354503868,plural,GPT-3.5_CaDi
+Los depositarios son responsables de custodiar los bienes.,Quienes depositan son responsables de custodiar los bienes.,72.59795291154772,plural,GPT-3.5_CaDi
+Los desarrolladores crean nuevas aplicaciones para dispositivos móviles.,El equipo desarrollador crea nuevas aplicaciones para dispositivos móviles.,51.697315395717055,plural,GPT-3.5_CaDi
+Los desempleados buscan trabajo para poder sustentarse.,Las personas demandantes de empleo buscan trabajo para poder sustentarse.,46.17366309441026,plural,GPT-3.5_CaDi
+Los despachadores coordinan la distribución de los productos.,El personal despachador coordina la distribución de los productos.,51.697315395717055,plural,GPT-3.5_CaDi
+Los detectives investigan el crimen para resolver el caso.,Las y los detectives investigan el crimen para resolver el caso.,71.02992180127423,plural,GPT-3.5_CaDi
+Los diabéticos deben cuidar su dieta y seguir las indicaciones médicas.,Las personas con diabetes deben cuidar su dieta y seguir las indicaciones médicas.,67.67781116542882,plural,GPT-3.5_CaDi
+Los dibujantes plasman sus ideas en papel a través de sus dibujos.,Dibujantas y dibujantes plasman sus ideas en papel a través de sus dibujos.,83.85766789076253,plural,GPT-3.5_CaDi
+Los dietistas ayudan a las personas a mejorar su alimentación.,Las y los especialistas en dietética ayudan a las personas a mejorar su alimentación.,55.12003357447271,plural,GPT-3.5_CaDi
+Los dignatarios asistieron a la ceremonia de inauguración.,Dignatarias y dignatarios asistieron a la ceremonia de inauguración.,75.98356856515926,plural,GPT-3.5_CaDi
+Los diputados discutieron la nueva ley en el parlamento.,Diputadas y diputados discutieron la nueva ley en el parlamento.,78.60753021519788,plural,GPT-3.5_CaDi
+Los directivos están a cargo de la gestión de la empresa.,El equipo directivo está a cargo de la gestión de la empresa.,64.79121525090147,plural,GPT-3.5_CaDi
+Los dirigentes políticos lideran el partido con determinación.,La dirigencia política lidera el partido con determinación.,44.63236137853328,plural,GPT-3.5_CaDi
+Los discapacitados tienen derecho a acceder a lugares públicos.,Las personas con discapacidad tienen derecho a acceder a lugares públicos.,61.32297420585353,plural,GPT-3.5_CaDi
+Los diseñadores crearon una nueva línea de moda.,Las personas diseñadoras crearon una nueva línea de moda.,63.894310424627285,plural,GPT-3.5_CaDi
+Los dobladores dan voz a los personajes de la película.,El doblaje da voz a los personajes de la película.,67.86502681586727,plural,GPT-3.5_CaDi
+Los dobles realizan las escenas de riesgo en las películas.,Las y los dobles realizan las escenas de riesgo en las películas.,73.61703354503868,plural,GPT-3.5_CaDi
+Los docentes enseñan a los estudiantes en la escuela.,El personal docente enseña a los estudiantes en la escuela.,57.067457770559976,plural,GPT-3.5_CaDi
+Los doctorandos están realizando su investigación doctoral.,Doctorandas y doctorandos están realizando su investigación doctoral.,72.59795291154772,plural,GPT-3.5_CaDi
+Los doctores atienden a los pacientes en el hospital.,Doctoras y doctores atienden a los pacientes en el hospital.,78.60753021519788,plural,GPT-3.5_CaDi
+Los dramaturgos escriben obras de teatro.,Dramaturgas y dramaturgos escriben obras de teatro.,68.037493331712,plural,GPT-3.5_CaDi
+Los economistas analizan la situación económica del país.,El personal economista analiza la situación económica del país.,51.697315395717055,plural,GPT-3.5_CaDi
+Los ediles trabajan en el gobierno local.,Los ayuntamientos trabajan en el gobierno local.,70.71067811865478,plural,GPT-3.5_CaDi
+Los editores revisan y mejoran los textos antes de su publicación.,La edición revisa y mejora los textos antes de su publicación.,53.3167536340577,plural,GPT-3.5_CaDi
+Los ejecutivos presentaron el nuevo plan de negocios.,La ejecutiva presentó el nuevo plan de negocios.,58.73949094699213,plural,GPT-3.5_CaDi
+Los electores votaron en las elecciones presidenciales.,El electorado votó en las elecciones presidenciales.,51.69731539571708,plural,GPT-3.5_CaDi
+Los electricistas están reparando el cableado eléctrico.,El personal electricista está reparando el cableado eléctrico.,44.63236137853328,plural,GPT-3.5_CaDi
+Los electricistas instalaron nuevas luces en el edificio.,El ramo de electricistas instaló nuevas luces en el edificio.,47.987820666906636,plural,GPT-3.5_CaDi
+Los embajadores representan a su país en el extranjero.,Las Embajadas representan a su país en el extranjero.,75.98356856515926,plural,GPT-3.5_CaDi
+Los empleadores contratan a nuevos empleados para el proyecto.,Las personas empleadoras contratan a nuevos empleados para el proyecto.,67.86502681586727,plural,GPT-3.5_CaDi
+Los empleados trabajan diligentemente para alcanzar los objetivos.,El personal trabaja diligentemente para alcanzar los objetivos.,58.73949094699213,plural,GPT-3.5_CaDi
+Los emprendedores están creando sus propias empresas.,Las personas emprendedoras están creando sus propias empresas.,58.73949094699213,plural,GPT-3.5_CaDi
+Los empresarios lideran el desarrollo económico del país.,El empresariado lidera el desarrollo económico del país.,58.73949094699213,plural,GPT-3.5_CaDi
+Los encargados supervisan el progreso del proyecto.,Las personas encargadas supervisan el progreso del proyecto.,58.73949094699213,plural,GPT-3.5_CaDi
+Los enemigos se enfrentaron en una feroz batalla.,Las personas enemigas y enemigos se enfrentaron en una feroz batalla.,61.32297420585353,plural,GPT-3.5_CaDi
+Los enfermeros cuidan de los pacientes en el hospital.,El personal de enfermería cuida de los pacientes en el hospital.,51.56626918239821,plural,GPT-3.5_CaDi
+Los enfermos reciben tratamiento médico para mejorar su salud.,Las personas enfermas reciben tratamiento médico para mejorar su salud.,67.86502681586727,plural,GPT-3.5_CaDi
+Los ensayistas escriben sobre una amplia variedad de temas.,Las y los ensayistas escriben sobre una amplia variedad de temas.,71.02992180127423,plural,GPT-3.5_CaDi
+Los entrenadores preparan a los atletas para la competencia.,Las personas entrenadoras preparan a los atletas para la competencia.,67.86502681586727,plural,GPT-3.5_CaDi
+Los entrevistadores hacen preguntas durante la entrevista de trabajo.,Quienes entrevistan hacen preguntas durante la entrevista de trabajo.,75.98356856515926,plural,GPT-3.5_CaDi
+Los enviados especiales informan desde la zona de conflicto.,Las y los corresponsales informan desde la zona de conflicto.,57.067457770559976,plural,GPT-3.5_CaDi
+Los epidemiólogos estudian la propagación de enfermedades.,La epidemiología estudia la propagación de enfermedades.,51.69731539571708,plural,GPT-3.5_CaDi
+Los equilibristas realizan acrobacias sobre la cuerda.,Las y los equilibristas realizan acrobacias sobre la cuerda.,63.894310424627285,plural,GPT-3.5_CaDi
+Los ermitaños viven en la soledad de las montañas.,Las y los ermitaños viven en la soledad de las montañas.,71.02992180127423,plural,GPT-3.5_CaDi
+Los escaparatistas diseñan las vitrinas de las tiendas.,Las y los escaparatistas diseñan las vitrinas de las tiendas.,67.86502681586727,plural,GPT-3.5_CaDi
+Los escritores plasman sus ideas en las páginas del libro.,Las personas escritoras plasman sus ideas en las páginas del libro.,71.02992180127423,plural,GPT-3.5_CaDi
+Los escultores moldean la arcilla para crear obras de arte.,Artistas de escultura moldean la arcilla para crear obras de arte.,71.02992180127423,plural,GPT-3.5_CaDi
+Los especialistas brindan conocimientos expertos en su campo.,El personal especialista brinda conocimientos expertos en su campo.,51.697315395717055,plural,GPT-3.5_CaDi
+Los espectadores aplauden al final de la función teatral.,El público que asiste a la representación aplaude al final de la función teatral.,40.016016019225006,plural,GPT-3.5_CaDi
+Los espeleólogos exploran las cuevas en busca de nuevas cavernas.,Las y los profesionales de la espeleología exploran las cuevas en busca de nuevas cavernas.,51.29497107827518,plural,GPT-3.5_CaDi
+Los esquiroles sustituyen a los trabajadores en huelga.,Las y los esquiroles sustituyen a los trabajadores en huelga.,67.86502681586727,plural,GPT-3.5_CaDi
+Los estafadores engañan a las personas con falsas promesas.,Las y los responsables de la estafa engañan a las personas con falsas promesas.,47.587330964125215,plural,GPT-3.5_CaDi
+Los estilistas transforman el cabello con cortes y peinados.,El estilismo transforma el cabello con cortes y peinados.,63.894310424627285,plural,GPT-3.5_CaDi
+Los estrategas planean cuidadosamente cada movimiento en el juego.,Las y los estrategas planifican cuidadosamente cada movimiento en el juego.,53.3167536340577,plural,GPT-3.5_CaDi
+Los estudiantes estudian para los exámenes finales.,El estudiantado estudia para los exámenes finales.,51.69731539571708,plural,GPT-3.5_CaDi
+Los eurodiputados representan a sus países en el Parlamento Europeo.,La eurocámara está compuesta por eurodiputadas y eurodiputados que representan a sus países en el Parlamento Europeo.,46.24892603869298,plural,GPT-3.5_CaDi
+Los evaluadores analizan el desempeño de los empleados.,Quienes evalúan analizan el desempeño de los empleados.,72.59795291154772,plural,GPT-3.5_CaDi
+Los evangelizadores difunden el mensaje religioso a través de la fe.,Quienes evangelizan difunden el mensaje religioso a través de la fe.,80.70557274927978,plural,GPT-3.5_CaDi
+Los examinadores revisan las pruebas escritas de los alumnos.,Quienes examinan revisan las pruebas escritas de las y los alumnos.,42.401253518050375,plural,GPT-3.5_CaDi
+Los exégetas interpretan los textos sagrados con profundidad.,La exégesis interpreta los textos sagrados con profundidad.,58.73949094699213,plural,GPT-3.5_CaDi
+Los expertos ofrecen consejos y soluciones basadas en su experiencia.,Las personas expertas ofrecen consejos y soluciones basadas en su experiencia.,71.02992180127423,plural,GPT-3.5_CaDi
+Los exploradores aventureros descubren nuevos lugares y culturas.,Exploradoras y exploradores aventureros descubren nuevos lugares y culturas.,75.98356856515926,plural,GPT-3.5_CaDi
+Los exportadores promueven el comercio internacional.,La exportación fomenta el comercio internacional.,41.11336169005198,plural,GPT-3.5_CaDi
+Los expositores presentaron sus obras en la galería de arte.,Las personas que exponen presentaron sus obras en la galería de arte.,64.79121525090147,plural,GPT-3.5_CaDi
+Los extranjeros están descubriendo nuevos lugares en nuestra ciudad.,Las personas foráneas están descubriendo nuevos lugares en nuestra ciudad.,67.86502681586727,plural,GPT-3.5_CaDi
+Los extremistas representan una amenaza para la estabilidad del país.,Las y los extremistas representan una amenaza para la estabilidad del país.,73.61703354503868,plural,GPT-3.5_CaDi
+Los fabricantes están innovando en el sector tecnológico.,Las y los fabricantes están innovando en el sector tecnológico.,67.86502681586727,plural,GPT-3.5_CaDi
+Los facultativos están brindando atención médica de calidad.,El personal facultativo está brindando atención médica de calidad.,51.697315395717055,plural,GPT-3.5_CaDi
+Los farmacéuticos recomendaron el uso de ciertos medicamentos.,El personal farmacéutico recomendó el uso de ciertos medicamentos.,51.697315395717055,plural,GPT-3.5_CaDi
+Los fascistas intentaron imponer sus ideas antidemocráticas.,El fascismo intentó imponer sus ideas antidemocráticas.,51.69731539571708,plural,GPT-3.5_CaDi
+Los feligreses asistieron a la misa dominical en la iglesia.,La feligresía asistió a la misa dominical en la iglesia.,67.86502681586727,plural,GPT-3.5_CaDi
+Los feriantes montaron sus puestos en la plaza del pueblo.,Feriantas y feriantes montaron sus puestos en la plaza del pueblo.,80.70557274927978,plural,GPT-3.5_CaDi
+Los fieles rezaron con devoción en el templo.,Las personas fieles rezaron con devoción en el templo.,75.98356856515926,plural,GPT-3.5_CaDi
+Los figurantes participaron en la escena del teatro.,Fugirantas y figurantes participaron en la escena del teatro.,75.98356856515926,plural,GPT-3.5_CaDi
+Los filólogos estudian la evolución de las lenguas.,Filólogas y filólogos estudian la evolución de las lenguas.,75.98356856515926,plural,GPT-3.5_CaDi
+Los filósofos reflexionan sobre el sentido de la existencia.,Las personas filósofas reflexionan sobre el sentido de la existencia.,67.86502681586727,plural,GPT-3.5_CaDi
+Los finalistas se preparan para la competencia deportiva.,El conjunto de finalistas se prepara para la competencia deportiva.,40.35278637463989,plural,GPT-3.5_CaDi
+Los financiadores respaldaron el proyecto con una gran inversión.,Las entidades financiadoras respaldaron el proyecto con una gran inversión.,67.86502681586727,plural,GPT-3.5_CaDi
+Los financieros analizan los movimientos del mercado.,Las financieras y financieros analizan los movimientos del mercado.,63.894310424627285,plural,GPT-3.5_CaDi
+Los firmantes rubricaron el acuerdo con entusiasmo.,Las personas que firman rubricaron el acuerdo con entusiasmo.,51.697315395717055,plural,GPT-3.5_CaDi
+Los fiscales presentaron pruebas contundentes en el juicio.,La fiscalía presentó pruebas contundentes en el juicio.,58.73949094699213,plural,GPT-3.5_CaDi
+Los físicos investigaron las propiedades de la materia.,Las personas dedicadas a la física investigaron las propiedades de la materia.,47.037095938668976,plural,GPT-3.5_CaDi
+Los fisioterapeutas ayudaron en la rehabilitación del paciente.,El personal de fisioterapia ayudó en la rehabilitación del paciente.,46.17366309441026,plural,GPT-3.5_CaDi
+Los forenses realizaron la autopsia para determinar la causa de muerte.,El equipo forense realizó la autopsia para determinar la causa de muerte.,64.79121525090147,plural,GPT-3.5_CaDi
+Los formadores impartieron un curso de desarrollo profesional.,El equipo de formación impartió un curso de desarrollo profesional.,46.17366309441026,plural,GPT-3.5_CaDi
+Los fotógrafos capturaron momentos memorables en la boda.,El personal de fotografía capturó momentos memorables en la boda.,46.17366309441026,plural,GPT-3.5_CaDi
+Los franquistas apoyaron al régimen autoritario durante décadas.,Las personas franquistas apoyaron al régimen autoritario durante décadas.,75.98356856515926,plural,GPT-3.5_CaDi
+Los funcionarios gestionaron los trámites administrativos.,El funcionariado gestionó los trámites administrativos.,41.11336169005198,plural,GPT-3.5_CaDi
+Los fundadores establecieron las bases de la empresa.,Quienes fundan establecieron las bases de la empresa.,72.59795291154772,plural,GPT-3.5_CaDi
+Los futbolistas entrenaron arduamente para el próximo partido.,Quienes juegan a fútbol entrenaron arduamente para el próximo partido.,57.067457770559976,plural,GPT-3.5_CaDi
+Los gaiteros tocaron música tradicional en el festival.,Gaiteras y gaiteros tocaron música tradicional en el festival.,75.98356856515926,plural,GPT-3.5_CaDi
+Los ganaderos cuidaron del ganado en la granja.,El sector de la ganadería cuidó del ganado en la granja.,41.72261448611506,plural,GPT-3.5_CaDi
+Los ganadores celebraron su victoria con alegría.,Ganadoras y ganadores celebraron su victoria con alegría.,72.59795291154772,plural,GPT-3.5_CaDi
+Los gánsters operaron clandestinamente en la ciudad.,La banda de gánsters operó clandestinamente en la ciudad.,41.11336169005198,plural,GPT-3.5_CaDi
+Los gays lucharon por sus derechos en la manifestación.,Las personas homosexuales lucharon por sus derechos en la manifestación.,67.86502681586727,plural,GPT-3.5_CaDi
+Los gendarmes mantuvieron el orden durante la protesta.,La gendarmería mantuvo el orden durante la protesta.,58.73949094699213,plural,GPT-3.5_CaDi
+Los gerentes supervisaron el funcionamiento de la empresa.,La gerencia supervisó el funcionamiento de la empresa.,58.73949094699213,plural,GPT-3.5_CaDi
+Los gestores coordinaron el proyecto de manera eficiente.,La gestora coordinó el proyecto de manera eficiente.,58.73949094699213,plural,GPT-3.5_CaDi
+Los gimnastas demostraron su destreza en la competición.,Las y los gimnastas demostraron su destreza en la competición.,67.86502681586727,plural,GPT-3.5_CaDi
+Los ginecólogos ofrecieron atención especializada a las mujeres.,El personal de ginecología ofreció atención especializada a las mujeres.,46.17366309441026,plural,GPT-3.5_CaDi
+Los gobernadores implementaron políticas para el desarrollo económico.,Gobernadoras y gobernadores implementaron políticas para el desarrollo económico.,75.98356856515926,plural,GPT-3.5_CaDi
+Los gobernantes implementaron nuevas políticas para el desarrollo del país.,La clase gobernante implementó nuevas políticas para el desarrollo del país.,61.32297420585353,plural,GPT-3.5_CaDi
+Los gramáticos analizaron la estructura de la frase.,Las y los especialistas en gramática analizaron la estructura de la frase.,47.037095938668976,plural,GPT-3.5_CaDi
+Los granjeros cultivaron una variedad de productos en sus tierras.,Granjeras y granjeros cultivaron una variedad de productos en sus tierras.,80.70557274927978,plural,GPT-3.5_CaDi
+Los guardia civiles patrullaron las calles para mantener el orden.,La guardia civil patrulló las calles para mantener el orden.,59.00468726392806,plural,GPT-3.5_CaDi
+Los guardias vigilaron la entrada del edificio durante toda la noche.,La guardia vigiló la entrada del edificio durante toda la noche.,71.02992180127423,plural,GPT-3.5_CaDi
+Los guerrilleros lucharon valientemente contra la opresión.,La guerrilla luchó valientemente contra la opresión.,51.69731539571708,plural,GPT-3.5_CaDi
+Los guías condujeron a los turistas por el sendero de la montaña.,El servicio de guía condujo a los turistas por el sendero de la montaña.,62.628449627654696,plural,GPT-3.5_CaDi
+Los guionistas escribieron el guión para la próxima película.,Las y los guionistas escribieron el guión para la próxima película.,71.02992180127423,plural,GPT-3.5_CaDi
+Los habitantes disfrutaron de las festividades en el pueblo.,La población disfrutó de las festividades en el pueblo.,63.894310424627285,plural,GPT-3.5_CaDi
+Los hablantes compartieron sus experiencias en el seminario.,Las y los hablantes compartieron sus experiencias en el seminario.,67.86502681586727,plural,GPT-3.5_CaDi
+Los héroes fueron condecorados por su acto de valentía.,Heroínas y héroes fueron condecorados por su acto de valentía.,78.60753021519788,plural,GPT-3.5_CaDi
+Los hijos ayudaron en las labores del hogar.,La descendencia ayudó en las labores del hogar.,58.73949094699213,plural,GPT-3.5_CaDi
+Los hispanistas estudian la cultura y la lengua española.,El hispanismo estudia la cultura y la lengua española.,63.894310424627285,plural,GPT-3.5_CaDi
+Los historiadores investigaron los eventos del pasado.,Las personas historiadoras investigaron los eventos del pasado.,58.73949094699213,plural,GPT-3.5_CaDi
+Los hombres participaron en la carrera benéfica.,Las personas participaron en la carrera benéfica.,68.037493331712,plural,GPT-3.5_CaDi
+Los homeópatas recetaron tratamientos naturales a sus pacientes.,Las y los homeópatas recetaron tratamientos naturales a sus pacientes.,67.86502681586727,plural,GPT-3.5_CaDi
+Los humoristas hicieron reír al público con sus chistes.,La profesión de humorista hizo reír al público con sus chistes.,51.56626918239821,plural,GPT-3.5_CaDi
+Los iluminadores resaltaron los detalles en la obra de arte.,La iluminación resaltó los detalles en la obra de arte.,67.86502681586727,plural,GPT-3.5_CaDi
+Los ilusionistas realizaron trucos sorprendentes en el escenario.,Quienes se dedican al ilusionismo realizaron trucos sorprendentes en el escenario.,51.56626918239821,plural,GPT-3.5_CaDi
+Los ilustradores dieron vida a las páginas del libro con sus dibujos.,El mundo de la ilustración dio vida a las páginas del libro con sus dibujos.,58.282339541526554,plural,GPT-3.5_CaDi
+Los impresores imprimieron los folletos para la campaña publicitaria.,El personal de impresión imprimió los folletos para la campaña publicitaria.,51.56626918239821,plural,GPT-3.5_CaDi
+Los indígenas preservaron sus tradiciones ancestrales.,Los pueblos originarios preservaron sus tradiciones ancestrales.,54.10822690539397,plural,GPT-3.5_CaDi
+Los industriales impulsaron la economía del país con nuevas inversiones.,Las y los industriales impulsaron la economía del país con nuevas inversiones.,73.61703354503868,plural,GPT-3.5_CaDi
+Los infieles rompieron la confianza en la relación.,Las personas infieles rompieron la confianza en la relación.,75.98356856515926,plural,GPT-3.5_CaDi
+Los informáticos desarrollaron un nuevo software para mejorar la eficiencia.,Las personas informáticas desarrollaron un nuevo software para mejorar la eficiencia.,71.02992180127423,plural,GPT-3.5_CaDi
+Los ingenieros diseñaron un puente resistente para conectar las ciudades.,El personal de ingeniería diseñó un puente resistente para conectar las ciudades.,55.93684915933074,plural,GPT-3.5_CaDi
+Los inmigrantes contribuyeron con su trabajo al crecimiento económico.,Las personas inmigrantes contribuyeron con su trabajo al crecimiento económico.,78.60753021519788,plural,GPT-3.5_CaDi
+Los instructores enseñaron técnicas avanzadas de natación.,Las personas instructoras enseñaron técnicas avanzadas de natación.,58.73949094699213,plural,GPT-3.5_CaDi
+Los integristas intentaron imponer sus creencias de manera radical.,Las personas integristas intentaron imponer sus creencias de manera radical.,78.60753021519788,plural,GPT-3.5_CaDi
+Los intendentes gestionaron eficientemente los recursos municipales.,La intendencia gestionó eficientemente los recursos municipales.,51.69731539571708,plural,GPT-3.5_CaDi
+Los interesados mostraron interés en participar en el proyecto.,Las personas interesadas mostraron interés en participar en el proyecto.,67.86502681586727,plural,GPT-3.5_CaDi
+Los internautas navegaron por internet en busca de información.,Las y los internautas navegaron por internet en busca de información.,71.02992180127423,plural,GPT-3.5_CaDi
+Los intérpretes tradujeron el discurso al inglés durante la conferencia.,La interpretación tradujo el discurso al inglés durante la conferencia.,67.86502681586727,plural,GPT-3.5_CaDi
+Los inventores patentaron su última invención en el campo de la tecnología.,Quienes inventan patentaron su última invención en el campo de la tecnología.,82.42367502646057,plural,GPT-3.5_CaDi
+Los inversores apostaron por el futuro de la empresa.,La inversión apostó por el futuro de la empresa.,63.894310424627285,plural,GPT-3.5_CaDi
+Los investigadores realizaron experimentos para descubrir nuevas soluciones.,El personal de investigación realizó experimentos para descubrir nuevas soluciones.,46.17366309441026,plural,GPT-3.5_CaDi
+Los jardineros cuidaron con esmero el jardín botánico.,El personal de jardinería cuidó con esmero el jardín botánico.,46.17366309441026,plural,GPT-3.5_CaDi
+Los jefes tomaron decisiones importantes para el equipo.,La jefatura tomó decisiones importantes para el equipo.,58.73949094699213,plural,GPT-3.5_CaDi
+Los jóvenes disfrutaron de una tarde en el parque.,Las personas jóvenes disfrutaron de una tarde en el parque.,78.60753021519788,plural,GPT-3.5_CaDi
+Los jueces impartieron justicia de manera imparcial.,La judicatura impartió justicia de manera imparcial.,51.69731539571708,plural,GPT-3.5_CaDi
+Los jugadores celebraron la victoria en el campo de fútbol.,Las personas jugadoras celebraron la victoria en el campo de fútbol.,71.02992180127423,plural,GPT-3.5_CaDi
+Los labradores sembraron los campos con semillas de trigo.,El trabajo del campo sembró los campos con semillas de trigo.,51.56626918239821,plural,GPT-3.5_CaDi
+Los labriegos trabajaron la tierra para obtener una buena cosecha.,Labriegas y labriegos trabajaron la tierra para obtener una buena cosecha.,80.70557274927978,plural,GPT-3.5_CaDi
+Los latifundistas poseían grandes extensiones de tierra en el campo.,Las y los latifundistas poseían grandes extensiones de tierra en el campo.,73.61703354503868,plural,GPT-3.5_CaDi
+Los lavacoches limpiaron los vehículos a conciencia.,El servicio de lavacoches limpió los vehículos a conciencia.,41.11336169005198,plural,GPT-3.5_CaDi
+Los lectores disfrutaron de la nueva novela del autor.,El público lector disfrutó de la nueva novela del autor.,57.067457770559976,plural,GPT-3.5_CaDi
+Los legisladores debatieron sobre nuevas leyes en el parlamento.,Quienes legislan debatieron sobre nuevas leyes en el parlamento.,75.98356856515926,plural,GPT-3.5_CaDi
+Los libreros recomendaron libros interesantes a los clientes.,El gremio de librerías recomendó libros interesantes a los clientes.,46.17366309441026,plural,GPT-3.5_CaDi
+Los licenciados obtuvieron su título universitario después de años de estudio.,Las personas licenciadas obtuvieron su título universitario después de años de estudio.,73.61703354503868,plural,GPT-3.5_CaDi
+Los jugadores celebraron la victoria en el partido de fútbol.,Quienes jugaban en el equipo celebraron la victoria en el partido de fútbol.,59.5640359271809,plural,GPT-3.5_CaDi
+Los labriegos araron la tierra para prepararla para la siembra.,Labriegas y labriegos araron la tierra para prepararla para la siembra.,80.70557274927978,plural,GPT-3.5_CaDi
+Los latifundistas poseían extensas propiedades en la región.,Las y los latifundistas poseían extensas propiedades en la región.,67.86502681586727,plural,GPT-3.5_CaDi
+Los lavacoches dejaron relucientes los automóviles de los clientes.,El servicio de lavacoches dejó relucientes los automóviles de los clientes.,53.3167536340577,plural,GPT-3.5_CaDi
+Los lectores disfrutaron de la lectura de un buen libro.,El público lector disfrutó de la lectura de un buen libro.,61.32297420585353,plural,GPT-3.5_CaDi
+Los legisladores debatieron sobre la nueva ley en el congreso.,Quienes legislan debatieron sobre la nueva ley en el congreso.,78.60753021519788,plural,GPT-3.5_CaDi
+Los libreros recomendaron novelas clásicas a los clientes.,El gremio de librerías recomendó novelas clásicas a los clientes.,46.17366309441026,plural,GPT-3.5_CaDi
+Los licenciados obtuvieron su título universitario con esfuerzo.,Las personas licenciadas obtuvieron su título universitario con esfuerzo.,63.894310424627285,plural,GPT-3.5_CaDi
+Los líderes políticos dirigieron el rumbo del país.,Las personas en el liderazgo dirigieron el rumbo del país.,46.17366309441026,plural,GPT-3.5_CaDi
+Los lingüistas estudiaron el origen y evolución de las lenguas.,La lingüística estudió el origen y evolución de las lenguas.,67.86502681586727,plural,GPT-3.5_CaDi
+Los luthiers construyeron instrumentos musicales de alta calidad.,El oficio de luthier construyó instrumentos musicales de alta calidad.,46.17366309441026,plural,GPT-3.5_CaDi
+Los maestros enseñaron a sus alumnos con dedicación.,El magisterio enseñó a sus alumnos con dedicación.,58.73949094699213,plural,GPT-3.5_CaDi
+Los magistrados impartieron justicia con imparcialidad.,La magistratura impartió justicia con imparcialidad.,41.11336169005198,plural,GPT-3.5_CaDi
+Los mandatarios tomaron decisiones importantes para el país.,Mandatarias y mandatarios tomaron decisiones importantes para el país.,75.98356856515926,plural,GPT-3.5_CaDi
+Los maquinistas condujeron el tren por la vía férrea.,El equipo de máquinas condujo el tren por la vía férrea.,51.56626918239821,plural,GPT-3.5_CaDi
+Los marginados lucharon por sus derechos en la sociedad.,Las clases marginadas lucharon por sus derechos en la sociedad.,67.86502681586727,plural,GPT-3.5_CaDi
+Los marxistas abogaron por un sistema socioeconómico igualitario.,El marxismo abogó por un sistema socioeconómico igualitario.,58.73949094699213,plural,GPT-3.5_CaDi
+Los masajistas aliviaron las tensiones musculares de sus clientes.,Las personas masajistas aliviaron las tensiones musculares de sus clientes.,78.60753021519788,plural,GPT-3.5_CaDi
+Los matemáticos resolvieron problemas complejos con precisión.,Matemáticas y matemáticos resolvieron problemas complejos con precisión.,72.59795291154772,plural,GPT-3.5_CaDi
+Los mayores compartieron su sabiduría con las generaciones más jóvenes.,Las personas mayores compartieron su sabiduría con las generaciones más jóvenes.,80.70557274927978,plural,GPT-3.5_CaDi
+Los mecánicos repararon el motor del automóvil en el taller.,Las y los especialistas en mecánica repararon el motor del automóvil en el taller.,55.12003357447271,plural,GPT-3.5_CaDi
+Los mecenas apoyaron el desarrollo de las artes y la cultura.,El mecenazgo apoyó el desarrollo de las artes y la cultura.,71.02992180127423,plural,GPT-3.5_CaDi
+Los mediadores facilitaron el diálogo entre las partes en conflicto.,La mediación facilitó el diálogo entre las partes en conflicto.,67.86502681586727,plural,GPT-3.5_CaDi
+Los médicos brindaron atención médica de calidad a los pacientes.,El personal médico brindó atención médica de calidad a los pacientes.,61.32297420585353,plural,GPT-3.5_CaDi
+Los menores disfrutaron de la tarde en el parque.,Las personas menores disfrutaron de la tarde en el parque.,78.60753021519788,plural,GPT-3.5_CaDi
+Los mensajeros entregaron los paquetes en tiempo y forma.,La mensajería entregó los paquetes en tiempo y forma.,63.894310424627285,plural,GPT-3.5_CaDi
+Los mentores guiaron y apoyaron a sus discípulos en su desarrollo.,La mentoría guió y apoyó a sus discípulos en su desarrollo.,53.3167536340577,plural,GPT-3.5_CaDi
+Los mercenarios lucharon como soldados a cambio de dinero.,Mercenarias y mercenarios lucharon como soldados a cambio de dinero.,78.60753021519788,plural,GPT-3.5_CaDi
+Los matemáticos resolvieron problemas complejos con precisión.,Las matemáticas resolvieron problemas complejos con precisión.,68.037493331712,plural,GPT-3.5_CaDi
+Los mayores compartieron sus experiencias con las generaciones más jóvenes.,Las personas mayores compartieron sus experiencias con las generaciones más jóvenes.,80.70557274927978,plural,GPT-3.5_CaDi
+Los mecánicos repararon el motor del automóvil en el taller.,Las y los especialistas en mecánica repararon el motor del automóvil en el taller.,55.12003357447271,plural,GPT-3.5_CaDi
+Los mecenas apoyaron el desarrollo de las artes y la cultura.,El mecenazgo apoyó el desarrollo de las artes y la cultura.,71.02992180127423,plural,GPT-3.5_CaDi
+Los mediadores facilitaron el diálogo entre las partes en conflicto.,La mediación facilitó el diálogo entre las partes en conflicto.,67.86502681586727,plural,GPT-3.5_CaDi
+Los médicos brindaron atención médica de calidad a los pacientes.,El personal médico brindó atención médica de calidad a los pacientes.,61.32297420585353,plural,GPT-3.5_CaDi
+Los menores disfrutaron de la tarde en el parque.,Las personas menores disfrutaron de la tarde en el parque.,78.60753021519788,plural,GPT-3.5_CaDi
+Los mensajeros entregaron los paquetes en tiempo y forma.,La mensajería entregó los paquetes en tiempo y forma.,63.894310424627285,plural,GPT-3.5_CaDi
+Los mentores guiaron y apoyaron a sus discípulos en su desarrollo.,La mentoría guió y apoyó a sus discípulos en su desarrollo.,53.3167536340577,plural,GPT-3.5_CaDi
+Los mercenarios lucharon como soldados a cambio de dinero.,Mercenarias y mercenarios lucharon como soldados a cambio de dinero.,78.60753021519788,plural,GPT-3.5_CaDi
+Los meseros atendieron amablemente a los comensales en el restaurante.,El servicio de mesas atendió amablemente a los comensales en el restaurante.,55.93684915933074,plural,GPT-3.5_CaDi
+Los miembros colaboraron en la organización del evento.,La membresía colaboró en la organización del evento.,58.73949094699213,plural,GPT-3.5_CaDi
+Los milicianos se entrenaron para defender la patria en caso de emergencia.,La milicia se entrenó para defender la patria en caso de emergencia.,66.52049901111006,plural,GPT-3.5_CaDi
+Los militares protegieron la frontera del país.,Las fuerzas armadas protegieron la frontera del país.,58.73949094699213,plural,GPT-3.5_CaDi
+Los mimos entretuvieron al público con sus actuaciones callejeras.,Las y los artistas de mimo entretuvieron al público con sus actuaciones callejeras.,51.424016050282646,plural,GPT-3.5_CaDi
+Los minifundistas cultivaron pequeñas parcelas de tierra.,Las y los minifundistas cultivaron pequeñas parcelas de tierra.,63.894310424627285,plural,GPT-3.5_CaDi
+Los ministros tomaron decisiones importantes para el país.,Las ministras y los ministros tomaron decisiones importantes para el país.,61.32297420585353,plural,GPT-3.5_CaDi
+Los minusválidos lucharon por sus derechos de accesibilidad.,Las personas con discapacidad lucharon por sus derechos de accesibilidad.,57.067457770559976,plural,GPT-3.5_CaDi
+Los misioneros llevaron ayuda humanitaria a las comunidades necesitadas.,La misión llevó ayuda humanitaria a las comunidades necesitadas.,63.894310424627285,plural,GPT-3.5_CaDi
+Los modelos desfilaron por la pasarela con elegancia.,Las y los modelos desfilaron por la pasarela con elegancia.,67.86502681586727,plural,GPT-3.5_CaDi
+Los montañeros escalaron la cima más alta de la montaña.,Quienes practican montañismo escalaron la cima más alta de la montaña.,71.02992180127423,plural,GPT-3.5_CaDi
+Los motociclistas recorrieron largas distancias en sus motos.,Las y los motociclistas recorrieron largas distancias en sus motos.,67.86502681586727,plural,GPT-3.5_CaDi
+Los motoristas entregaron mercancías en las zonas rurales.,Las y los motoristas entregaron mercancías en las zonas rurales.,67.86502681586727,plural,GPT-3.5_CaDi
+Los muchachos jugaron al fútbol en el parque.,La muchachada jugó al fútbol en el parque.,58.73949094699213,plural,GPT-3.5_CaDi
+Los músicos interpretaron melodías en el concierto.,Las personas músicas interpretaron melodías en el concierto.,58.73949094699213,plural,GPT-3.5_CaDi
+Los mutualistas se unieron para protegerse mutuamente.,Las y los mutualistas se unieron para protegerse mutuamente.,63.894310424627285,plural,GPT-3.5_CaDi
+Los nacionales apoyaron a su equipo en el torneo internacional.,Las y los nacionales apoyaron a su equipo en el torneo internacional.,73.61703354503868,plural,GPT-3.5_CaDi
+Los nadadores compitieron en la piscina por el primer puesto.,Nadadoras y nadadores compitieron en la piscina por el primer puesto.,80.70557274927978,plural,GPT-3.5_CaDi
+Los narradores cautivaron al público con sus historias.,Quienes relatan cautivaron al público con sus historias.,72.59795291154772,plural,GPT-3.5_CaDi
+Los naturópatas promovieron la salud natural con hierbas y remedios.,Las y los naturópatas promovieron la salud natural con hierbas y remedios.,73.61703354503868,plural,GPT-3.5_CaDi
+Los montañeros disfrutaron de las vistas panorámicas desde la cima.,Quienes practican montañismo disfrutaron de las vistas panorámicas desde la cima.,71.02992180127423,plural,GPT-3.5_CaDi
+Los motociclistas recorrieron las carreteras montañosas en sus motos.,Las y los motociclistas recorrieron las carreteras montañosas en sus motos.,71.02992180127423,plural,GPT-3.5_CaDi
+Los motoristas entregaron mercancías en las zonas rurales.,Las y los motoristas entregaron mercancías en las zonas rurales.,67.86502681586727,plural,GPT-3.5_CaDi
+Los muchachos jugaron fútbol en el campo de deportes.,La muchachada jugó fútbol en el campo de deportes.,63.894310424627285,plural,GPT-3.5_CaDi
+Los músicos interpretaron hermosas melodías en el concierto.,Las personas músicas interpretaron hermosas melodías en el concierto.,63.894310424627285,plural,GPT-3.5_CaDi
+Los mutualistas se unieron para protegerse mutuamente.,Las y los mutualistas se unieron para protegerse mutuamente.,63.894310424627285,plural,GPT-3.5_CaDi
+Los nacionales apoyaron a su equipo en el campeonato.,Las y los nacionales apoyaron a su equipo en el campeonato.,71.02992180127423,plural,GPT-3.5_CaDi
+Los nadadores compitieron en la piscina por el primer puesto.,Nadadoras y nadadores compitieron en la piscina por el primer puesto.,80.70557274927978,plural,GPT-3.5_CaDi
+Los narradores cautivaron al público con sus historias.,Quienes relatan cautivaron al público con sus historias.,72.59795291154772,plural,GPT-3.5_CaDi
+Los naturópatas promovieron la salud natural con hierbas y remedios.,Las y los naturópatas promovieron la salud natural con hierbas y remedios.,73.61703354503868,plural,GPT-3.5_CaDi
+Los negociadores llegaron a un acuerdo satisfactorio para ambas partes.,La parte negociadora llegó a un acuerdo satisfactorio para ambas partes.,61.32297420585353,plural,GPT-3.5_CaDi
+Los negociantes cerraron un importante trato comercial.,Quienes negocian cerraron un importante trato comercial.,68.037493331712,plural,GPT-3.5_CaDi
+Los neumólogos se especializaron en el tratamiento de enfermedades pulmonares.,El personal de neumología se especializó en el tratamiento de enfermedades pulmonares.,48.63383168079944,plural,GPT-3.5_CaDi
+Los niños jugaron en el parque hasta la puesta del sol.,Las criaturas jugaron en el parque hasta la puesta del sol.,80.70557274927978,plural,GPT-3.5_CaDi
+Los nominados fueron anunciados para los premios de la academia.,Las personas nominadas fueron anunciadas para los premios de la academia.,53.3167536340577,plural,GPT-3.5_CaDi
+Los notarios certificaron la autenticidad de los documentos.,La notaría certificó la autenticidad de los documentos.,58.73949094699213,plural,GPT-3.5_CaDi
+Los novelistas escribieron historias emocionantes que atraparon a los lectores.,Las y los novelistas escribieron historias emocionantes que atraparon a los lectores.,73.61703354503868,plural,GPT-3.5_CaDi
+Los nutricionistas brindaron consejos para llevar una dieta saludable.,Las y los especialistas en nutrición brindaron consejos para llevar una dieta saludable.,51.424016050282646,plural,GPT-3.5_CaDi
+Los obreros construyeron el nuevo edificio en tiempo récord.,El personal obrero construyó el nuevo edificio en tiempo récord.,57.067457770559976,plural,GPT-3.5_CaDi
+Los observadores presenciaron el eclipse desde sus telescopios.,Observadoras y observadores presenciaron el eclipse desde sus telescopios.,75.98356856515926,plural,GPT-3.5_CaDi
+Los obstetras asistieron en el parto de un nuevo bebé.,Las y los obstetras asistieron en el parto de un nuevo bebé.,73.61703354503868,plural,GPT-3.5_CaDi
+Los oligarcas poseían grandes riquezas y poder político.,La oligarquía poseía grandes riquezas y poder político.,58.73949094699213,plural,GPT-3.5_CaDi
+Los operarios trabajaron en la línea de producción de la fábrica.,Las operarias y operarios trabajaron en la línea de producción de la fábrica.,75.77395672414198,plural,GPT-3.5_CaDi
+Los opositores manifestaron su desacuerdo con la nueva política.,La oposición manifestó su desacuerdo con la nueva política.,63.894310424627285,plural,GPT-3.5_CaDi
+Los oradores hablaron con elocuencia en el debate político.,Oradoras y oradores hablaron con elocuencia en el debate político.,78.60753021519788,plural,GPT-3.5_CaDi
+Los ordenanzas llevaron los documentos al despacho del director.,Las y los ordenanzas llevaron los documentos al despacho del director.,71.02992180127423,plural,GPT-3.5_CaDi
+Los orfebres crearon joyas exquisitas con meticulosidad y destreza.,La orfebrería creó joyas exquisitas con meticulosidad y destreza.,63.894310424627285,plural,GPT-3.5_CaDi
+Los organistas interpretaron música sacra en la iglesia con maestría.,Las y los organistas interpretaron música sacra en la iglesia con maestría.,73.61703354503868,plural,GPT-3.5_CaDi
+Los observadores presenciaron el evento desde las gradas.,Observadoras y observadores presenciaron el evento desde las gradas.,75.98356856515926,plural,GPT-3.5_CaDi
+Los obstetras asistieron en el parto de una nueva vida.,Las y los obstetras asistieron en el parto de una nueva vida.,73.61703354503868,plural,GPT-3.5_CaDi
+Los oligarcas poseían grandes riquezas y poder político.,La oligarquía poseía grandes riquezas y poder político.,58.73949094699213,plural,GPT-3.5_CaDi
+Los opositores manifestaron su desacuerdo con la nueva ley.,La oposición expresó su desacuerdo con la nueva ley.,63.894310424627285,plural,GPT-3.5_CaDi
+Los oradores hablaron con elocuencia durante el debate político.,Oradoras y oradores expusieron sus argumentos con elocuencia durante el debate político.,48.63383168079944,plural,GPT-3.5_CaDi
+Los ordenanzas llevaron los documentos al despacho del director.,Las y los ordenanzas llevaron los documentos al despacho del director.,71.02992180127423,plural,GPT-3.5_CaDi
+Los orfebres crearon joyas exquisitas con habilidad y destreza.,La orfebrería produjo joyas exquisitas con habilidad y destreza.,63.894310424627285,plural,GPT-3.5_CaDi
+Los organistas interpretaron música sagrada en la ceremonia religiosa.,Las y los organistas interpretaron música sagrada en la ceremonia religiosa.,71.02992180127423,plural,GPT-3.5_CaDi
+Los oyentes disfrutaron de la música en el concierto.,La audiencia disfrutó de la música en el concierto.,63.894310424627285,plural,GPT-3.5_CaDi
+Los padres acompañaron a sus hijos en el primer día de clases.,Los padres y las madres acompañaron a sus hijos en el primer día de clases.,69.67812829199794,plural,GPT-3.5_CaDi
+Los panaderos horneaban pan fresco todas las mañanas.,Panaderas y panaderos horneaban pan fresco todas las mañanas.,75.98356856515926,plural,GPT-3.5_CaDi
+Los parientes se reunieron para celebrar una ocasión especial.,Las y los familiares se reunieron para celebrar una ocasión especial.,61.32297420585353,plural,GPT-3.5_CaDi
+Los participantes compitieron en el torneo de ajedrez.,Las personas participantes compitieron en el torneo de ajedrez.,75.98356856515926,plural,GPT-3.5_CaDi
+Los pasteleros decoraron una hermosa tarta de cumpleaños.,El personal de pastelería decoró una hermosa tarta de cumpleaños.,46.17366309441026,plural,GPT-3.5_CaDi
+Los pastores cuidaron del rebaño en las colinas.,El pastoreo consistió en cuidar del rebaño en las colinas.,46.17366309441026,plural,GPT-3.5_CaDi
+Los patrocinadores contribuyeron económicamente al evento deportivo.,Las entidades patrocinadoras contribuyeron económicamente al evento deportivo.,58.73949094699213,plural,GPT-3.5_CaDi
+Los patronos dirigieron la empresa con sabiduría y visión.,La patronal dirigía la empresa con sabiduría y visión.,63.894310424627285,plural,GPT-3.5_CaDi
+Los payasos hicieron reír a los niños en la fiesta de cumpleaños.,Payasas y payasos hicieron reír a los niños en la fiesta de cumpleaños.,83.85766789076253,plural,GPT-3.5_CaDi
+Los peatones cruzaron la calle por el paso de peatones.,Peatonas y peatones cruzaron la calle por el paso de peatones.,80.70557274927978,plural,GPT-3.5_CaDi
+Los pediatras cuidaron de la salud de los niños en el hospital.,Las y los pediatras cuidaron de la salud de los niños en el hospital.,77.60114635728617,plural,GPT-3.5_CaDi
+Los peleteros confeccionaron abrigos de piel de alta calidad.,El sector peletero confeccionó abrigos de piel de alta calidad.,57.067457770559976,plural,GPT-3.5_CaDi
+Los pensionistas disfrutaron de su jubilación viajando por el mundo.,Las y los pensionistas disfrutaron de su jubilación viajando por el mundo.,73.61703354503868,plural,GPT-3.5_CaDi
+Los percusionistas marcaron el ritmo en la banda de música.,La percusión marcó el ritmo en la banda de música.,67.86502681586727,plural,GPT-3.5_CaDi
+Los perdedores aceptaron la derrota con dignidad y deportividad.,Perdedoras y perdedores aceptaron la derrota con dignidad y deportividad.,78.60753021519788,plural,GPT-3.5_CaDi
+Los periodistas cubrieron la noticia en vivo desde el lugar del suceso.,La prensa cubrió la noticia en vivo desde el lugar del suceso.,73.61703354503868,plural,GPT-3.5_CaDi
+Los pescadores zarparon al mar en busca de una buena pesca.,El sector de la pesca se preparaba para zarpar al mar en busca de una buena pesca.,45.04662722983341,plural,GPT-3.5_CaDi
+Los pianistas interpretaron piezas clásicas en el recital de piano.,Las y los pianistas interpretaron piezas clásicas en el recital de piano.,73.61703354503868,plural,GPT-3.5_CaDi
+Los peatones cruzaron la calle por el paso de peatones.,Las personas peatonas y peatones cruzaron la calle por el paso de peatones.,67.67781116542882,plural,GPT-3.5_CaDi
+Los pediatras cuidaron de la salud de los niños en la clínica.,Las y los pediatras cuidaron de la salud infantil en la clínica.,49.73567356124545,plural,GPT-3.5_CaDi
+Los peleteros confeccionaron abrigos de piel para el invierno.,"En el sector peletero, se confeccionaron abrigos de piel para el invierno.",51.424016050282646,plural,GPT-3.5_CaDi
+Los pensionistas disfrutaron de su jubilación viajando por el mundo.,Las y los pensionistas disfrutaron de su jubilación viajando por el mundo.,73.61703354503868,plural,GPT-3.5_CaDi
+Los percusionistas marcaron el ritmo en la banda de música.,La percusión marcó el ritmo en la banda de música.,67.86502681586727,plural,GPT-3.5_CaDi
+Los perdedores aceptaron la derrota con dignidad y deportividad.,Las personas perdedoras y perdedores aceptaron la derrota con dignidad y deportividad.,64.79121525090147,plural,GPT-3.5_CaDi
+Los periodistas investigaron a fondo el caso para su reportaje.,La prensa investigó a fondo el caso para su reportaje.,67.86502681586727,plural,GPT-3.5_CaDi
+Los pescadores zarparon temprano en busca de una buena pesca.,"En el sector de la pesca, los pescadores zarparon temprano en busca de una buena pesca.",51.18285025257892,plural,GPT-3.5_CaDi
+Los pianistas interpretaron hermosas sonatas en el concierto.,Las y los pianistas interpretaron hermosas sonatas en el concierto.,67.86502681586727,plural,GPT-3.5_CaDi
+Los pilotos dirigieron el avión hacia su destino con destreza.,Quienes pilotan dirigieron el avión hacia su destino con destreza.,78.60753021519788,plural,GPT-3.5_CaDi
+Los pinches prepararon deliciosos platillos en la cocina del restaurante.,Las y los pinches prepararon deliciosos platillos en la cocina del restaurante.,73.61703354503868,plural,GPT-3.5_CaDi
+Los pintores plasmaron su arte en un lienzo en blanco.,Los y las artistas de la pintura plasmaron su arte en un lienzo en blanco.,52.664038784792666,plural,GPT-3.5_CaDi
+Los piratas surcaron los mares en busca de tesoros.,La piratería surcó los mares en busca de tesoros.,63.894310424627285,plural,GPT-3.5_CaDi
+Los plebeyos vivían en las afueras del castillo.,La plebe vivía en las afueras del castillo.,58.73949094699213,plural,GPT-3.5_CaDi
+Los plusmarquistas establecieron nuevos récords en la competición.,Las y los plusmarquistas establecieron nuevos récords en la competición.,67.86502681586727,plural,GPT-3.5_CaDi
+Los pobladores disfrutaron de la tranquilidad del pueblo.,La población disfrutó de la tranquilidad del pueblo.,58.73949094699213,plural,GPT-3.5_CaDi
+Los poderdantes otorgaron poder a sus representantes legales.,Las y los poderhabientes otorgaron poder a sus representantes legales.,57.067457770559976,plural,GPT-3.5_CaDi
+Los podólogos trataron los problemas de los pies de sus pacientes.,Las y los profesionales de la podología trataron los problemas de los pies de sus pacientes.,54.50176720923848,plural,GPT-3.5_CaDi
+Los poetas recitaban versos llenos de pasión en el café literario.,Quienes escriben poesía recitaban versos llenos de pasión en el café literario.,73.61703354503868,plural,GPT-3.5_CaDi
+Los policías patrullaban las calles para mantener el orden.,La policía patrulló las calles para mantener el orden.,63.894310424627285,plural,GPT-3.5_CaDi
+Los políticos debatían sobre el futuro del país en el congreso.,La clase política debatió sobre el futuro del país en el congreso.,64.79121525090147,plural,GPT-3.5_CaDi
+Los portavoces expresaron la postura oficial del partido político.,La portavocía expresó la postura oficial del partido político.,63.894310424627285,plural,GPT-3.5_CaDi
+Los postulantes se presentaron a la entrevista de trabajo con entusiasmo.,Las personas postulantes se presentaron a la entrevista de trabajo con entusiasmo.,82.42367502646057,plural,GPT-3.5_CaDi
+Los predicadores difundían la palabra de Dios en la comunidad.,La predicación difundió la palabra de Dios en la comunidad.,67.86502681586727,plural,GPT-3.5_CaDi
+Los pregoneros anunciaban las noticias en las calles del pueblo.,Quienes pregonan anunciaron las noticias en las calles del pueblo.,67.86502681586727,plural,GPT-3.5_CaDi
+Los premiados subieron al escenario para recibir su reconocimiento.,Los premiados y premiadas subieron al escenario para recibir su reconocimiento.,67.0422683816333,plural,GPT-3.5_CaDi
+Los presentadores animaron el programa de televisión con su carisma.,Quienes presentan animaron el programa de televisión con su carisma.,78.60753021519788,plural,GPT-3.5_CaDi
+Los presidentes dirigieron el país con responsabilidad y liderazgo.,La presidencia dirigió el país con responsabilidad y liderazgo.,63.894310424627285,plural,GPT-3.5_CaDi
+Los prestamistas otorgaron créditos a quienes lo necesitaban.,Las y los prestamistas otorgaron créditos a quienes lo necesitaban.,67.86502681586727,plural,GPT-3.5_CaDi
+Los políticos debatieron sobre la reforma fiscal en el congreso.,La clase política debatió sobre la reforma fiscal en el congreso.,61.32297420585353,plural,GPT-3.5_CaDi
+Los portavoces expresaron la postura oficial del partido político.,La portavocía expresó la postura oficial del partido político.,63.894310424627285,plural,GPT-3.5_CaDi
+Los postulantes se prepararon para la entrevista de trabajo con entusiasmo.,Las personas postulantes se prepararon para la entrevista de trabajo con entusiasmo.,82.42367502646057,plural,GPT-3.5_CaDi
+Los predicadores difundieron la palabra de Dios en la comunidad.,La predicación difundió la palabra de Dios en la comunidad.,67.86502681586727,plural,GPT-3.5_CaDi
+Los pregoneros anunciaron las noticias en las calles del pueblo.,Quienes pregonan anunciaron las noticias en las calles del pueblo.,78.60753021519788,plural,GPT-3.5_CaDi
+Los premiados recibieron reconocimiento por su talento en la ceremonia.,Los premiados y premiadas recibieron reconocimiento por su talento en la ceremonia.,70.16035864257111,plural,GPT-3.5_CaDi
+Los presentadores animaron el programa de televisión con su carisma.,Quienes presentan animaron el programa de televisión con su carisma.,78.60753021519788,plural,GPT-3.5_CaDi
+Los presidentes dirigieron el país con liderazgo y responsabilidad.,La presidencia dirigió el país con liderazgo y responsabilidad.,63.894310424627285,plural,GPT-3.5_CaDi
+Los prestamistas otorgaron créditos a quienes lo necesitaban.,Las y los prestamistas otorgaron créditos a quienes lo necesitaban.,67.86502681586727,plural,GPT-3.5_CaDi
+Los procuradores presentaron pruebas contundentes durante el juicio.,La procuraduría presentó pruebas contundentes durante el juicio.,58.73949094699213,plural,GPT-3.5_CaDi
+Los productores filmaron la película en locaciones exóticas.,La producción filmó la película en locaciones exóticas.,58.73949094699213,plural,GPT-3.5_CaDi
+Los profesionales destacaron en sus respectivos campos laborales.,El cuerpo de profesionales destacó en sus respectivos campos laborales.,47.987820666906636,plural,GPT-3.5_CaDi
+Los profesionistas se mantuvieron actualizados con cursos de formación.,El cuerpo profesional se mantuvo actualizado con cursos de formación.,36.72056269893593,plural,GPT-3.5_CaDi
+Los profesores impartieron conocimientos a sus alumnos con dedicación.,El profesorado impartió conocimientos a sus alumnos con dedicación.,63.894310424627285,plural,GPT-3.5_CaDi
+Los programadores desarrollaron una nueva aplicación informática.,Las personas de programación desarrollaron una nueva aplicación informática.,51.697315395717055,plural,GPT-3.5_CaDi
+Los prologuistas redactaron el prólogo del libro con maestría.,Quienes prologan redactaron el prólogo del libro con maestría.,75.98356856515926,plural,GPT-3.5_CaDi
+Los promotores organizaron un concierto benéfico para recaudar fondos.,Las personas promotoras organizaron un concierto benéfico para recaudar fondos.,67.86502681586727,plural,GPT-3.5_CaDi
+Los protésicos fabricaron prótesis personalizadas para sus pacientes.,Las y los especialistas en prótesis fabricaron prótesis personalizadas para sus pacientes.,47.037095938668976,plural,GPT-3.5_CaDi
+Los proveedores suministraron los materiales necesarios para la construcción.,Quienes proveen suministraron los materiales necesarios para la construcción.,75.98356856515926,plural,GPT-3.5_CaDi
+Los psicólogos brindaron terapia a personas con problemas mentales.,La psicología brindó terapia a personas con problemas mentales.,63.894310424627285,plural,GPT-3.5_CaDi
+Los psicópatas representaron un peligro para la sociedad.,Las y los psicópatas representaron un peligro para la sociedad.,67.86502681586727,plural,GPT-3.5_CaDi
+Los publicistas crearon campañas publicitarias creativas y efectivas.,El personal de publicidad creó campañas publicitarias creativas y efectivas.,46.17366309441026,plural,GPT-3.5_CaDi
+Los púgiles se prepararon para el combate en el ring.,Las y los púgiles se prepararon para el combate en el ring.,73.61703354503868,plural,GPT-3.5_CaDi
+Los protésicos fabricaron una prótesis a medida para el paciente.,Las y los especialistas en prótesis fabricaron una prótesis a medida para el paciente.,55.12003357447271,plural,GPT-3.5_CaDi
+Los proveedores suministraron los materiales necesarios para la construcción.,Quienes proveen suministraron los materiales necesarios para la construcción.,75.98356856515926,plural,GPT-3.5_CaDi
+Los psicólogos brindaron terapia a personas con problemas emocionales.,La psicología brindó terapia a personas con problemas emocionales.,63.894310424627285,plural,GPT-3.5_CaDi
+Los psicópatas representaban un peligro para la sociedad.,Las y los psicópatas representaban un peligro para la sociedad.,67.86502681586727,plural,GPT-3.5_CaDi
+Los psiquiatras diagnosticaron y trataron trastornos mentales en sus pacientes.,El gremio de psiquiatras diagnosticó y trató trastornos mentales en sus pacientes.,40.89601472043678,plural,GPT-3.5_CaDi
+Los publicistas crearon campañas publicitarias innovadoras y efectivas.,El personal de publicidad creó campañas publicitarias innovadoras y efectivas.,46.17366309441026,plural,GPT-3.5_CaDi
+Los púgiles se entrenaron duro para la próxima pelea.,Las y los púgiles se entrenaron duro para la próxima pelea.,71.02992180127423,plural,GPT-3.5_CaDi
+Los que trabajan en el sector de los quioscos vendieron revistas y periódicos.,Quien trabaja en el sector de los quioscos vendió revistas y periódicos.,53.5536059195526,plural,GPT-3.5_CaDi
+Los quiromantes leyeron las líneas de la mano para predecir el futuro.,La quiromancia leyó las líneas de la mano para predecir el futuro.,73.61703354503868,plural,GPT-3.5_CaDi
+Los quiroprácticos ajustaron la columna vertebral para aliviar el dolor.,Las y los especialistas en quiropráctica ajustaron la columna vertebral para aliviar el dolor.,55.12003357447271,plural,GPT-3.5_CaDi
+Los radicales promovieron cambios sociales a través de protestas pacíficas.,Las personas radicales promovieron cambios sociales a través de protestas pacíficas.,80.70557274927978,plural,GPT-3.5_CaDi
+Los radiestesistas utilizaron péndulos para encontrar agua subterránea.,Las y los radiestesistas utilizaron péndulos para encontrar agua subterránea.,67.86502681586727,plural,GPT-3.5_CaDi
+Los recepcionistas dieron la bienvenida a los visitantes en el hotel.,La recepción dio la bienvenida a los visitantes en el hotel.,71.02992180127423,plural,GPT-3.5_CaDi
+Los recitadores interpretaron poemas clásicos con pasión en el escenario.,Recitadoras y recitadores interpretaron poemas clásicos con pasión en el escenario.,80.70557274927978,plural,GPT-3.5_CaDi
+Los recolectores recogieron la cosecha de frutas en el huerto.,Recolectoras y recolectores recogieron la cosecha de frutas en el huerto.,80.70557274927978,plural,GPT-3.5_CaDi
+Los rectores dirigieron la universidad con visión y liderazgo.,La rectoría dirigió la universidad con visión y liderazgo.,63.894310424627285,plural,GPT-3.5_CaDi
+Los redactores redactaron artículos para el periódico.,La redacción redactó artículos para el periódico.,51.69731539571708,plural,GPT-3.5_CaDi
+Los refugiados encontraron seguridad y esperanza en su nuevo país.,Las personas refugiadas encontraron seguridad y esperanza en su nuevo país.,71.02992180127423,plural,GPT-3.5_CaDi
+Los regatistas compitieron en una emocionante regata en el mar.,Las y los participantes en la regata compitieron en una emocionante carrera en el mar.,31.535540524901325,plural,GPT-3.5_CaDi
+Los relaciones públicas gestionaron la imagen corporativa de la empresa.,El personal de relaciones públicas gestionó la imagen corporativa de la empresa.,52.055103630534376,plural,GPT-3.5_CaDi
+Los relatores narraron los eventos deportivos en vivo por televisión.,Relatoras y relatores narraron los eventos deportivos en vivo por televisión.,80.70557274927978,plural,GPT-3.5_CaDi
+Los relojeros repararon relojes antiguos con habilidad y precisión.,Las y los especialistas en relojería repararon relojes antiguos con habilidad y precisión.,51.424016050282646,plural,GPT-3.5_CaDi
+Los rentistas recibieron ingresos pasivos de sus inversiones.,Las y los rentistas recibieron ingresos pasivos de sus inversiones.,67.86502681586727,plural,GPT-3.5_CaDi
+Los repartidores entregaron paquetes a domicilio de manera puntual.,Las personas del reparto entregaron paquetes a domicilio de manera puntual.,61.32297420585353,plural,GPT-3.5_CaDi
+Los reponedores reabastecieron las estanterías del supermercado.,Quienes reponen reabastecieron las estanterías del supermercado.,68.037493331712,plural,GPT-3.5_CaDi
+Los representantes defendieron los intereses de sus clientes en la corte.,La representación defendió los intereses de sus clientes en la corte.,71.02992180127423,plural,GPT-3.5_CaDi
+Los reseñadores escribieron críticas detalladas sobre libros y películas.,La reseña escribió críticas detalladas sobre libros y películas.,63.894310424627285,plural,GPT-3.5_CaDi
+Los regatistas compitieron en una emocionante carrera en el mar.,Las y los participantes en la regata compitieron en una emocionante carrera en el mar.,51.29497107827518,plural,GPT-3.5_CaDi
+Los relaciones públicas gestionaron la imagen corporativa de la empresa.,El personal de relaciones públicas gestionó la imagen corporativa de la empresa.,52.055103630534376,plural,GPT-3.5_CaDi
+Los relatores narraron los eventos deportivos en vivo por televisión.,Relatoras y relatores narraron los eventos deportivos en vivo por televisión.,80.70557274927978,plural,GPT-3.5_CaDi
+Los relojeros repararon relojes antiguos con habilidad y precisión.,Las y los especialistas en relojería repararon relojes antiguos con habilidad y precisión.,51.424016050282646,plural,GPT-3.5_CaDi
+Los rentistas recibieron ingresos pasivos de sus inversiones.,Las y los rentistas recibieron ingresos pasivos de sus inversiones.,67.86502681586727,plural,GPT-3.5_CaDi
+Los repartidores entregaron paquetes a domicilio de manera puntual.,Las personas del reparto entregaron paquetes a domicilio de manera puntual.,61.32297420585353,plural,GPT-3.5_CaDi
+Los reponedores reabastecieron las estanterías del supermercado.,Quienes reponen reabastecieron las estanterías del supermercado.,68.037493331712,plural,GPT-3.5_CaDi
+Los representantes defendieron los intereses de sus clientes en la corte.,La representación defendió los intereses de sus clientes en la corte.,71.02992180127423,plural,GPT-3.5_CaDi
+Los reseñadores escribieron críticas detalladas sobre libros y películas.,La reseña escribió críticas detalladas sobre libros y películas.,63.894310424627285,plural,GPT-3.5_CaDi
+Los residentes disfrutaron de una tranquila vida en su vecindario.,Quienes residen disfrutaron de una tranquila vida en su vecindario.,78.60753021519788,plural,GPT-3.5_CaDi
+Los responsables se aseguraron de que todo estuviera en orden.,Las personas responsables se aseguraron de que todo estuviera en orden.,80.70557274927978,plural,GPT-3.5_CaDi
+Los restauradores devolvieron el esplendor a la obra de arte antigua.,El personal de restauración devolvió el esplendor a la obra de arte antigua.,59.5640359271809,plural,GPT-3.5_CaDi
+Los reyes gobernaron con sabiduría y justicia.,La monarquía gobernó con sabiduría y justicia.,51.69731539571708,plural,GPT-3.5_CaDi
+Los rivales compitieron ferozmente por el título.,Las y los rivales compitieron ferozmente por el título.,63.894310424627285,plural,GPT-3.5_CaDi
+Los roqueros cautivaron al público con su música enérgica.,Artistas del rock cautivaron al público con su música enérgica.,67.86502681586727,plural,GPT-3.5_CaDi
+Los sastres confeccionaron trajes a medida para sus clientes.,El personal de sastrería confeccionó trajes a medida para sus clientes.,51.56626918239821,plural,GPT-3.5_CaDi
+Los senadores debatieron sobre leyes importantes en el congreso.,El Senado debatió sobre leyes importantes en el congreso.,63.894310424627285,plural,GPT-3.5_CaDi
+Los senderistas exploraron senderos naturales en las montañas.,Las y los practicantes de senderismo exploraron senderos naturales en las montañas.,47.037095938668976,plural,GPT-3.5_CaDi
+Los señores fueron invitados a una elegante cena en el castillo.,La señora y el señor fueron invitados a una elegante cena en el castillo.,62.628449627654696,plural,GPT-3.5_CaDi
+Los serigrafistas imprimieron camisetas con diseños personalizados.,Las y los profesionales de la serigrafía imprimieron camisetas con diseños personalizados.,38.058030016749456,plural,GPT-3.5_CaDi
+Los sexólogos brindaron asesoramiento sobre salud sexual a sus pacientes.,Las y los especialistas en sexología brindaron asesoramiento sobre salud sexual a sus pacientes.,55.12003357447271,plural,GPT-3.5_CaDi
+Los simpatizantes apoyaron fervientemente a su candidato favorito.,Quienes simpatizan apoyaron fervientemente a su candidato favorito.,72.59795291154772,plural,GPT-3.5_CaDi
+Los sindicalistas lucharon por los derechos de los trabajadores.,El sindicalismo luchó por los derechos de los trabajadores.,63.894310424627285,plural,GPT-3.5_CaDi
+Los sirvientes atendieron con diligencia a sus amos.,El servicio atendió con diligencia a sus usuarios.,31.55984539112945,plural,GPT-3.5_CaDi
+Los sobrevivientes superaron grandes desafíos para seguir adelante.,Las personas sobrevivientes superaron grandes desafíos para seguir adelante.,75.98356856515926,plural,GPT-3.5_CaDi
+Los socialistas abogaron por políticas de igualdad y justicia social.,El socialismo abogó por políticas de igualdad y justicia social.,67.86502681586727,plural,GPT-3.5_CaDi
+Los sociólogos analizaron las tendencias sociales en la sociedad moderna.,Sociólogas y sociólogos analizaron las tendencias sociales en la sociedad moderna.,80.70557274927978,plural,GPT-3.5_CaDi
+Los socios colaboraron estrechamente en el proyecto conjunto.,Las personas asociadas colaboraron estrechamente en el proyecto conjunto.,63.894310424627285,plural,GPT-3.5_CaDi
+Los socorristas salvaron vidas en situaciones de emergencia.,El personal de socorrismo salvó vidas en situaciones de emergencia.,46.17366309441026,plural,GPT-3.5_CaDi
+Los serigrafistas imprimieron camisetas con diseños personalizados.,Las y los profesionales de la serigrafía imprimieron camisetas con diseños personalizados.,38.058030016749456,plural,GPT-3.5_CaDi
+Los sexólogos ofrecieron orientación sobre salud sexual a sus pacientes.,Las y los especialistas en sexología ofrecieron orientación sobre salud sexual a sus pacientes.,55.12003357447271,plural,GPT-3.5_CaDi
+Los simpatizantes apoyaron fervientemente a su partido político.,Quienes simpatizan apoyaron fervientemente a su partido político.,72.59795291154772,plural,GPT-3.5_CaDi
+Los sindicalistas lucharon por los derechos laborales de los trabajadores.,El sindicalismo luchó por los derechos laborales de los trabajadores.,67.86502681586727,plural,GPT-3.5_CaDi
+Los sobrevivientes superaron grandes desafíos para reconstruir sus vidas.,Las personas sobrevivientes superaron grandes desafíos para reconstruir sus vidas.,78.60753021519788,plural,GPT-3.5_CaDi
+Los socialistas abogaron por políticas de igualdad y justicia social.,El socialismo abogó por políticas de igualdad y justicia social.,67.86502681586727,plural,GPT-3.5_CaDi
+Los sociólogos analizaron los fenómenos sociales en la sociedad contemporánea.,Sociólogas y sociólogos analizaron los fenómenos sociales en la sociedad contemporánea.,80.70557274927978,plural,GPT-3.5_CaDi
+Los socios colaboraron estrechamente en el proyecto empresarial.,Las personas asociadas colaboraron estrechamente en el proyecto empresarial.,63.894310424627285,plural,GPT-3.5_CaDi
+Los socorristas rescataron a los bañistas atrapados en el mar.,El personal de socorrismo rescató a los bañistas atrapados en el mar.,55.93684915933074,plural,GPT-3.5_CaDi
+Los soldadores unieron las piezas metálicas con precisión.,Las y los especialistas en soldadura unieron las piezas metálicas con precisión.,47.037095938668976,plural,GPT-3.5_CaDi
+Los soldados defendieron valientemente su país en el campo de batalla.,La tropa defendió valientemente su país en el campo de batalla.,71.02992180127423,plural,GPT-3.5_CaDi
+Los solicitantes presentaron sus documentos para solicitar el empleo.,Las personas solicitantes presentaron sus documentos para solicitar el empleo.,78.60753021519788,plural,GPT-3.5_CaDi
+Los solistas cautivaron al público con su interpretación en solitario.,Las y los solistas cautivaron al público con su interpretación en solitario.,73.61703354503868,plural,GPT-3.5_CaDi
+Los subastadores dirigieron la subasta con profesionalismo.,Quienes subastan dirigieron la subasta con profesionalismo.,68.037493331712,plural,GPT-3.5_CaDi
+Los sumilleres recomendaron los mejores vinos a los comensales.,Las y los sumilleres recomendaron los mejores vinos a los comensales.,71.02992180127423,plural,GPT-3.5_CaDi
+Los superiores proporcionaron orientación y apoyo a sus subordinados.,La superioridad proporcionó orientación y apoyo a sus subordinados.,63.894310424627285,plural,GPT-3.5_CaDi
+Los surfistas disfrutaron de las olas en la playa durante todo el día.,Las y los surfistas disfrutaron de las olas en la playa durante todo el día.,79.16963878457499,plural,GPT-3.5_CaDi
+Los suscriptores recibieron su revista mensual en el buzón.,Las personas suscritas recibieron su revista mensual en el buzón.,67.86502681586727,plural,GPT-3.5_CaDi
+Los tasadores evaluaron el valor de la propiedad con precisión.,Quienes tasan evaluaron el valor de la propiedad con precisión.,78.60753021519788,plural,GPT-3.5_CaDi
+Los taumaturgos asombraron al público con sus trucos de magia.,La taumaturgia asombró al público con sus trucos de magia.,67.86502681586727,plural,GPT-3.5_CaDi
+Los taxistas llevaron a los pasajeros a su destino de manera segura.,El personal del taxi llevó a los pasajeros a su destino de manera segura.,62.628449627654696,plural,GPT-3.5_CaDi
+Los técnicos repararon el equipo averiado en poco tiempo.,El servicio técnico reparó el equipo averiado en poco tiempo.,57.067457770559976,plural,GPT-3.5_CaDi
+Los tecnócratas diseñaron políticas basadas en el conocimiento técnico.,La tecnocracia diseñó políticas basadas en el conocimiento técnico.,63.894310424627285,plural,GPT-3.5_CaDi
+Los teloneros abrieron el concierto con una actuación en vivo.,Artistas teloneros abrieron el concierto con una actuación en vivo.,89.31539818068698,plural,GPT-3.5_CaDi
+Los tenistas compitieron en un emocionante partido de tenis.,Las y los tenistas compitieron en un emocionante partido de tenis.,71.02992180127423,plural,GPT-3.5_CaDi
+Los teólogos discutieron sobre cuestiones de fe y religión.,La teología discutió sobre cuestiones de fe y religión.,63.894310424627285,plural,GPT-3.5_CaDi
+Los terapeutas ayudaron a sus pacientes a superar sus problemas emocionales.,Las personas terapeutas ayudaron a sus pacientes a superar sus problemas emocionales.,82.42367502646057,plural,GPT-3.5_CaDi
+Los titiriteros entretuvieron al público con sus marionetas.,Artistas de los títeres entretuvieron al público con sus marionetas.,57.067457770559976,plural,GPT-3.5_CaDi
+Los titulados obtuvieron su diploma universitario con esfuerzo y dedicación.,Las personas tituladas obtuvieron su diploma universitario con esfuerzo y dedicación.,71.02992180127423,plural,GPT-3.5_CaDi
+Los taumaturgos sorprendieron al público con sus habilidades mágicas.,La taumaturgia sorprendió al público con sus habilidades mágicas.,63.894310424627285,plural,GPT-3.5_CaDi
+Los taxistas ofrecieron un servicio de transporte rápido y seguro.,El personal del taxi ofreció un servicio de transporte rápido y seguro.,55.93684915933074,plural,GPT-3.5_CaDi
+Los técnicos resolvieron el problema con la maquinaria en poco tiempo.,El servicio técnico resolvió el problema con la maquinaria en poco tiempo.,64.79121525090147,plural,GPT-3.5_CaDi
+Los tecnócratas proponen soluciones basadas en el conocimiento técnico.,La tecnocracia propone soluciones basadas en el conocimiento técnico.,63.894310424627285,plural,GPT-3.5_CaDi
+Los teloneros calentaron el escenario antes del concierto principal.,Los y las artistas teloneros calentaron el escenario antes del concierto principal.,66.52049901111006,plural,GPT-3.5_CaDi
+Los tenistas compitieron en un emocionante partido de tenis.,Las y los tenistas compitieron en un emocionante partido de tenis.,71.02992180127423,plural,GPT-3.5_CaDi
+Los teólogos estudian las doctrinas y creencias religiosas.,La teología estudia las doctrinas y creencias religiosas.,58.73949094699213,plural,GPT-3.5_CaDi
+Los terapeutas ayudaron a sus pacientes a superar sus dificultades.,Las personas terapeutas ayudaron a sus pacientes a superar sus dificultades.,80.70557274927978,plural,GPT-3.5_CaDi
+Los titiriteros entretuvieron a los niños con un divertido espectáculo.,Los y las artistas de los títeres entretuvieron a los niños con un divertido espectáculo.,52.664038784792666,plural,GPT-3.5_CaDi
+Los titulados tienen una formación académica sólida.,Las personas tituladas tienen una formación académica sólida.,58.73949094699213,plural,GPT-3.5_CaDi
+Los toreros demostraron su valentía en la plaza de toros.,Las toreras y toreros demostraron su valentía en la plaza de toros.,73.61703354503868,plural,GPT-3.5_CaDi
+Los trabajadores se esfuerzan por mejorar sus condiciones laborales.,El personal laboral se esfuerza por mejorar sus condiciones laborales.,47.987820666906636,plural,GPT-3.5_CaDi
+Los traductores facilitaron la comunicación entre personas de diferentes idiomas.,La traducción facilitó la comunicación entre personas de diferentes idiomas.,67.86502681586727,plural,GPT-3.5_CaDi
+Los transportistas aseguraron la entrega de la mercancía a tiempo.,Quienes realizan transportes aseguraron la entrega de la mercancía a tiempo.,71.02992180127423,plural,GPT-3.5_CaDi
+Los trapecistas realizaron acrobacias impresionantes en el circo.,Los y las artistas del trapecio realizaron acrobacias impresionantes en el circo.,48.63383168079944,plural,GPT-3.5_CaDi
+Los traumatólogos trataron las lesiones con profesionalismo.,Las y los especialistas en traumatología trataron las lesiones con profesionalismo.,41.72261448611506,plural,GPT-3.5_CaDi
+Los turistas disfrutaron de las atracciones turísticas de la ciudad.,El turismo permitió a las personas disfrutar de las atracciones turísticas de la ciudad.,47.587330964125215,plural,GPT-3.5_CaDi
+Los tutores brindaron apoyo académico a los estudiantes.,La tutoría brindó apoyo académico a los estudiantes.,58.73949094699213,plural,GPT-3.5_CaDi
+Los ultraderechistas expresaron sus opiniones políticas con firmeza.,La ultraderecha expresó sus opiniones políticas con firmeza.,58.73949094699213,plural,GPT-3.5_CaDi
+Los usuarios aprovecharon los servicios ofrecidos por la empresa.,Las personas usuarias aprovecharon los servicios ofrecidos por la empresa.,67.86502681586727,plural,GPT-3.5_CaDi
+Los vecinos se reunieron para discutir temas de interés común.,El vecindario se reunió para discutir temas de interés común.,59.00468726392806,plural,GPT-3.5_CaDi
+Los vencedores celebraron su triunfo con alegría.,La parte ganadora celebró su triunfo con alegría.,44.63236137853328,plural,GPT-3.5_CaDi
+Los vencidos aceptaron la derrota con dignidad.,La parte perdedora aceptó la derrota con dignidad.,44.63236137853328,plural,GPT-3.5_CaDi
+Los vendedores ofrecieron productos de alta calidad en el mercado.,Las vendedoras y vendedores ofrecieron productos de alta calidad en el mercado.,73.61703354503868,plural,GPT-3.5_CaDi
+Los versificadores expresaron sus emociones a través de la poesía.,Quienes versifican expresaron sus emociones a través de la poesía.,78.60753021519788,plural,GPT-3.5_CaDi
+Los veterinarios cuidan la salud y el bienestar de los animales.,El personal veterinario cuida la salud y el bienestar de los animales.,64.79121525090147,plural,GPT-3.5_CaDi
+Los vigilantes garantizaron la seguridad en el evento.,El personal de vigilancia garantizó la seguridad en el evento.,46.17366309441026,plural,GPT-3.5_CaDi
+Los virólogos estudian los virus y su impacto en la salud humana.,La virología estudia los virus y su impacto en la salud humana.,73.61703354503868,plural,GPT-3.5_CaDi
+Los viticultores cultivan las uvas para producir vino de calidad.,Las viticultoras y viticultores cultivan las uvas para producir vino de calidad.,73.61703354503868,plural,GPT-3.5_CaDi
+Los voluntarios ayudaron en la organización del evento comunitario.,El voluntariado contribuyó en la organización del evento comunitario.,63.894310424627285,plural,GPT-3.5_CaDi
+Los yoguis practicaron yoga en el parque todas las mañanas.,Las y los practicantes de yoga se reunieron en el parque todas las mañanas.,41.374412020518825,plural,GPT-3.5_CaDi
+Los zagales jugaron al fútbol en el campo durante toda la tarde.,Zagalas y zagales disfrutaron de juegos al aire libre durante toda la tarde.,28.917849332325716,plural,GPT-3.5_CaDi
+Los zoólogos estudian la fauna y flora en su hábitat natural.,Las personas expertas en zoología estudian la fauna y flora en su hábitat natural.,62.628449627654696,plural,GPT-3.5_CaDi
+Actividades para niños están programadas durante todo el fin de semana.,Actividades infantiles están programadas durante todo el fin de semana.,73.69231628533761,plural,GPT-3.5_CaDi
+Todos están invitados a participar en la reunión de la junta directiva.,Todas y todos están invitados a participar en la reunión de la junta directiva.,77.60114635728617,plural,GPT-3.5_CaDi
+El investigador presentó sus hallazgos ante el panel de expertos.,El personal de investigación presentó sus hallazgos ante el panel de expertos.,66.52049901111006,plural,GPT-3.5_CaDi
+Académicos de renombre discutieron sobre el futuro de la educación.,Personal académico de renombre discutió sobre el futuro de la educación.,57.067457770559976,plural,GPT-3.5_CaDi
+Interesados en el tema pueden inscribirse en el taller de fotografía.,Con interés en el tema pueden inscribirse en el taller de fotografía.,82.42367502646057,plural,GPT-3.5_CaDi
+Los maratonistas completaron la carrera en un tiempo récord.,Las y los maratonistas completaron la carrera en un tiempo récord.,71.02992180127423,plural,GPT-3.5_CaDi
+Los invitados disfrutaron de una deliciosa cena preparada por el chef.,Las personas invitadas disfrutaron de una deliciosa cena preparada por el chef.,73.61703354503868,plural,GPT-3.5_CaDi
+Es un placer invitarlos a la ceremonia de premiación.,Es un placer invitarles a la ceremonia de premiación.,65.80370064762461,plural,GPT-3.5_CaDi
+"Estimado señor, le escribo para solicitar información adicional.","Apreciable señor, le escribo para solicitar información adicional.",88.01117367933934,plural,GPT-3.5_CaDi
+"Chicos, es hora de comenzar la clase de matemáticas.","Chicos y chicas, es hora de comenzar la clase de matemáticas.",75.39221180326287,plural,GPT-3.5_CaDi
+Los chicos jugaron en el parque hasta el anochecer.,Las chicas y los chicos jugaron en el parque hasta el anochecer.,64.79121525090147,plural,GPT-3.5_CaDi
+Los chavos pasaron la tarde en la playa disfrutando del sol.,Las chavas y los chavos pasaron la tarde en la playa disfrutando del sol.,70.1205513308646,plural,GPT-3.5_CaDi
+"Estimados miembros del jurado, les agradecemos su participación.","Apreciables miembros del jurado, les agradecemos su participación.",88.01117367933934,plural,GPT-3.5_CaDi
+"Queridos amigos, los esperamos el próximo sábado en la fiesta.","Apreciables amigos, los esperamos el próximo sábado en la fiesta.",90.36020036098445,plural,GPT-3.5_CaDi
+El día del niño se celebra con alegría en todo el país.,El día de la niñez se celebra con alegría en todo el país.,64.50001140844256,plural,GPT-3.5_CaDi
+El comité de expertos presentó su informe al presidente.,El comité de personas expertas presentó su informe al presidente.,58.77283725105319,plural,GPT-3.5_CaDi
+El comité experto evaluó las propuestas con detenimiento.,El comité de personas expertas evaluó las propuestas con detenimiento.,51.93071778680675,plural,GPT-3.5_CaDi
+Los mexicanos se enorgullecen de su rica cultura.,La población mexicana se enorgullece de su rica cultura.,41.11336169005198,plural,GPT-3.5_CaDi
+Todos los alumnos deben entregar sus tareas antes del viernes.,Todas y todos los alumnos deben entregar sus tareas antes del viernes.,73.61703354503868,plural,GPT-3.5_CaDi
+Los alumnos participaron en el concurso de arte con entusiasmo.,Alumnas y alumnos participaron en el concurso de arte con entusiasmo.,80.70557274927978,plural,GPT-3.5_CaDi
+Los delegados discutieron los puntos del orden del día en la reunión.,Delegadas y delegados discutieron los puntos del orden del día en la reunión.,83.85766789076253,plural,GPT-3.5_CaDi
+La propuesta fue evaluada por el comité de expertos antes de ser aprobada.,La propuesta fue evaluada por el comité de especialistas antes de ser aprobada.,78.25422900366438,plural,GPT-3.5_CaDi
+Los mexicanos celebraron con orgullo su independencia nacional.,La población mexicana celebró con orgullo su independencia nacional.,51.697315395717055,plural,GPT-3.5_CaDi
+Todos los alumnos están invitados a la ceremonia de graduación.,Todas las alumnas y alumnos están invitados a la ceremonia de graduación.,64.79121525090147,plural,GPT-3.5_CaDi
+Los alumnos se esforzaron mucho para obtener buenas calificaciones este semestre.,El alumnado se esforzó mucho para obtener buenas calificaciones este semestre.,63.15552371794033,plural,GPT-3.5_CaDi
+Los delegados discutieron sobre las políticas de la empresa en la reunión.,Las delegadas y delegados discutieron sobre las políticas de la empresa en la reunión.,77.60114635728617,plural,GPT-3.5_CaDi
+Mis amigos me acompañaron en mi viaje por todo el país.,Mis amistades me acompañaron en mi viaje por todo el país.,82.651681837938,plural,GPT-3.5_CaDi
+El que quiera puede participar en el concurso de dibujo.,Quien quiera puede participar en el concurso de dibujo.,79.6358031503278,plural,GPT-3.5_CaDi
+Los tomadores de decisión analizaron las opciones disponibles antes de tomar una determinación.,Personas que están en puestos de toma de decisión analizaron las opciones disponibles antes de tomar una determinación.,59.77992387152214,plural,GPT-3.5_CaDi
+El día del abuelo se celebra con cariño y reconocimiento a su sabiduría.,El día de la abuela y el abuelo se celebra con cariño y reconocimiento a su sabiduría.,61.19049499906029,plural,GPT-3.5_CaDi

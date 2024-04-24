@@ -1,0 +1,77 @@
+gender_exclusive,gender_inclusive,origin,difficulty
+La mayoría de los médicos tienen experiencia.,La mayoría del personal médico tiene experiencia.,GPT-3.5_fewshot,plural_complejo
+La mayoría de los ingenieros tienen experiencia.,La mayoría del personal de ingeniería tiene experiencia.,GPT-3.5_fewshot,plural_complejo
+La mayoría de los abogados tienen experiencia.,La mayoría del personal jurídico tiene experiencia.,GPT-3.5_fewshot,plural_complejo
+La mayoría de los profesores tienen experiencia.,La mayoría del personal docente tiene experiencia.,GPT-3.5_fewshot,plural_complejo
+La mayoría de los científicos tienen experiencia.,La mayoría del personal científico tiene experiencia.,GPT-3.5_fewshot,plural_complejo
+La mayoría de los diseñadores tienen experiencia.,La mayoría del equipo de diseño tiene experiencia.,GPT-3.5_fewshot,plural_complejo
+La mayoría de los empleados disfrutan de su trabajo.,La mayoría del personal disfruta de su trabajo.,GPT-3.5_fewshot,plural_complejo
+La mayoría de los empleados buscan oportunidades de crecimiento.,La mayoría del personal busca oportunidades de crecimiento.,GPT-3.5_fewshot,plural_complejo
+La mayoría de los empleados cumplen con sus responsabilidades.,La mayoría del personal cumple con sus responsabilidades.,GPT-3.5_fewshot,plural_complejo
+La mayoría de los empleados contribuyen al éxito de la empresa.,La mayoría del personal contribuye al éxito de la empresa.,GPT-3.5_fewshot,plural_complejo
+La mayoría de los empleados se esfuerzan por alcanzar objetivos.,La mayoría del personal se esfuerza por alcanzar objetivos.,GPT-3.5_fewshot,plural_complejo
+Los médicos realizan cirugías todos los días.,El personal médico realiza cirugías todos los días.,GPT-3.5_fewshot,plural_complejo
+Los profesores preparan clases para sus alumnos.,El personal docente prepara clases para los estudiantes.,GPT-3.5_fewshot,plural_complejo
+Los ingenieros diseñan nuevos productos.,El personal de ingeniería diseña nuevos productos.,GPT-3.5_fewshot,plural_complejo
+Los abogados defienden los derechos de sus clientes.,El personal jurídico defiende los derechos de sus clientes.,GPT-3.5_fewshot,plural_complejo
+Los arquitectos diseñan edificios innovadores.,El personal de arquitectura diseña edificios innovadores.,GPT-3.5_fewshot,plural_complejo
+Los científicos realizan experimentos en el laboratorio.,El personal científico realiza experimentos en el laboratorio.,GPT-3.5_fewshot,plural_complejo
+Los programadores desarrollan aplicaciones informáticas.,El equipo de programación desarrolla aplicaciones informáticas.,GPT-3.5_fewshot,plural_complejo
+Los bomberos apagan incendios y salvan vidas.,El personal de bomberos apaga incendios y salva vidas.,GPT-3.5_fewshot,plural_complejo
+Los escritores redactan historias cautivadoras.,El equipo de redacción redacta historias cautivadoras.,GPT-3.5_fewshot,plural_complejo
+Los psicólogos brindan apoyo emocional a sus pacientes.,El personal de psicología brinda apoyo emocional a sus pacientes.,GPT-3.5_fewshot,plural_complejo
+Los atletas entrenan arduamente para competir.,El equipo deportivo entrena arduamente para competir.,GPT-3.5_fewshot,plural_complejo
+Saludos a todos los médicos en su día.,Saludos a médicas y médicos en su día.,GPT-3.5_fewshot,plural_complejo
+Los empleados de la empresa recibieron bonificaciones.,Las empleadas y los empleados de la empresa recibieron bonificaciones.,GPT-3.5_fewshot,plural_complejo
+Los empresarios invirtieron en nuevas tecnologías.,Las empresarias y los empresarios invirtieron en nuevas tecnologías.,GPT-3.5_fewshot,plural_complejo
+Saludos a todos los profesores en su día.,Saludos a profesoras y profesores en su día.,GPT-3.5_fewshot,plural_complejo
+Saludos a todos los programadores en su día.,Saludos a programadoras y programadores en su día.,GPT-3.5_fewshot,plural_complejo
+Los escritores presentaron sus libros en la feria literaria.,Las escritoras y los escritores presentaron sus libros en la feria literaria.,GPT-3.5_fewshot,plural_complejo
+Los chefs preparan platos gourmet.,Los y las chefs preparan platos gourmet.,GPT-3.5_fewshot,plural_complejo
+Los chefs preparan platos gourmet.,Las y los chefs preparan platos gourmet.,GPT-3.5_fewshot,plural_complejo
+Los médicos atienden a los pacientes.,Los y las médicas atienden a los pacientes.,GPT-3.5_fewshot,plural_complejo
+Los médicos atienden a los pacientes.,Loas y los médicos atienden a los pacientes.,GPT-3.5_fewshot,plural_complejo
+Los ingenieros diseñan estructuras innovadoras.,Los y las ingenieras diseñan estructuras innovadoras.,GPT-3.5_fewshot,plural_complejo
+Los ingenieros diseñan estructuras innovadoras.,Las y los ingenieros diseñan estructuras innovadoras.,GPT-3.5_fewshot,plural_complejo
+Los artistas pintan cuadros impresionantes.,Los y las artistas pintan cuadros impresionantes.,GPT-3.5_fewshot,plural_complejo
+Los artistas pintan cuadros impresionantes.,Las y los artistas pintan cuadros impresionantes.,GPT-3.5_fewshot,plural_complejo
+Los científicos realizan experimentos en el laboratorio.,Los y las científicas realizan experimentos en el laboratorio.,GPT-3.5_fewshot,plural_complejo
+Los científicos realizan experimentos en el laboratorio.,Las y los científicos realizan experimentos en el laboratorio.,GPT-3.5_fewshot,plural_complejo
+Los conductores deben respetar las señales de tráfico.,Las personas conductoras deben respetar las señales de tráfico.,GPT-3.5_fewshot,plural_complejo
+Los músicos ensayan sus piezas antes del concierto.,Los y las músicas ensayan sus piezas antes del concierto.,GPT-3.5_fewshot,plural_complejo
+Los músicos ensayan sus piezas antes del concierto.,Las y los músicos ensayan sus piezas antes del concierto.,GPT-3.5_fewshot,plural_complejo
+Los chefs preparan platos exquisitos en el restaurante.,Los y las chefs preparan platos exquisitos en el restaurante.,GPT-3.5_fewshot,plural_complejo
+Los chefs preparan platos exquisitos en el restaurante.,Las y los chefs preparan platos exquisitos en el restaurante.,GPT-3.5_fewshot,plural_complejo
+Los voluntarios colaboran en la organización de eventos.,El equipo de voluntariado colabora en la organización de eventos.,GPT-3.5_fewshot,plural_complejo
+Los pintores exponen sus obras en la galería de arte.,Los y las pintoras exponen sus obras en la galería de arte.,GPT-3.5_fewshot,plural_complejo
+Los pintores exponen sus obras en la galería de arte.,Las y los pintores exponen sus obras en la galería de arte.,GPT-3.5_fewshot,plural_complejo
+Los abogados defienden a sus clientes en el juicio.,El personal jurídico defiende a las personas en el juicio.,GPT-3.5_fewshot,plural_complejo
+Los reporteros cubren las noticias en el campo.,El equipo de reporteros cubre las noticias en el campo.,GPT-3.5_fewshot,plural_complejo
+Los agricultores cultivan alimentos en el campo.,El personal agrícola cultiva alimentos en el campo.,GPT-3.5_fewshot,plural_complejo
+Los bailarines ensayan coreografías para el espectáculo.,El grupo de danza ensaya coreografías para el espectáculo.,GPT-3.5_fewshot,plural_complejo
+Los camareros sirven a los clientes en el restaurante.,El personal de servicio sirve a las personas en el restaurante.,GPT-3.5_fewshot,plural_complejo
+Los veterinarios cuidan de la salud de los animales.,El equipo veterinario cuida de la salud de los animales.,GPT-3.5_fewshot,plural_complejo
+Los fotógrafos capturan momentos especiales en sus imágenes.,El equipo de fotografía captura momentos especiales en sus imágenes.,GPT-3.5_fewshot,plural_complejo
+Los entrenadores deportivos guían a los atletas en su entrenamiento.,El cuerpo técnico guía a los atletas en su entrenamiento.,GPT-3.5_fewshot,plural_complejo
+Los maestros organizan actividades educativas para los estudiantes.,El equipo educativo organiza actividades para los estudiantes.,GPT-3.5_fewshot,plural_complejo
+Los peluqueros cortan y peinan el cabello de los clientes.,El personal de peluquería corta y peina el cabello de las personas.,GPT-3.5_fewshot,plural_complejo
+Los científicos políticos analizan el sistema gubernamental.,El equipo de ciencia política analiza el sistema gubernamental.,GPT-3.5_fewshot,plural_complejo
+Los investigadores recopilan datos para el estudio.,El personal investigador recopila datos para el estudio.,GPT-3.5_fewshot,plural_complejo
+Los médicos veterinarios cuidan la salud de los animales domésticos.,El equipo médico veterinario cuida la salud de los animales domésticos.,GPT-3.5_fewshot,plural_complejo
+Los psicólogos clínicos brindan terapia a sus pacientes.,El equipo de psicología clínica brinda terapia a sus pacientes.,GPT-3.5_fewshot,plural_complejo
+Los músicos ensayan sus piezas antes del concierto.,Los músicos y las músicas ensayan sus piezas antes del concierto.,GPT-3.5_fewshot,plural_complejo
+Los bailarines ensayan coreografías para el espectáculo.,Los bailarines y las bailarinas ensayan coreografías para el espectáculo.,GPT-3.5_fewshot,plural_complejo
+Los veterinarios cuidan de la salud de los animales.,Los veterinarios y las veterinarias cuidan de la salud de los animales.,GPT-3.5_fewshot,plural_complejo
+Los conductores de autobuses transportan pasajeros a diario.,Los y las conductores de autobuses transportan pasajeros a diario.,GPT-3.5_fewshot,plural_complejo
+Los fotógrafos capturan momentos especiales en sus imágenes.,Los fotógrafos y las fotógrafas capturan momentos especiales en sus imágenes.,GPT-3.5_fewshot,plural_complejo
+Los entrenadores deportivos guían a los atletas en su entrenamiento.,Los entrenadores y las entrenadoras deportivas guían a los atletas en su entrenamiento.,GPT-3.5_fewshot,plural_complejo
+Los maestros organizan actividades educativas para los estudiantes.,Los maestros y las maestras organizan actividades educativas para los estudiantes.,GPT-3.5_fewshot,plural_complejo
+Los peluqueros cortan y peinan el cabello de los clientes.,Los peluqueros y las peluqueras cortan y peinan el cabello de los clientes.,GPT-3.5_fewshot,plural_complejo
+Los investigadores científicos realizan descubrimientos importantes.,Los investigadores y las investigadoras científicas realizan descubrimientos importantes.,GPT-3.5_fewshot,plural_complejo
+Los bomberos apagan incendios y salvan vidas.,El personal de bomberos apaga incendios y salva vidas.,GPT-3.5_fewshot,plural_complejo
+Los agricultores cosechan los cultivos en la temporada de recolección.,La comunidad agrícola cosecha los cultivos en la temporada de recolección.,GPT-3.5_fewshot,plural_complejo
+Los trabajadores de la construcción levantan edificios y estructuras.,El sector de la construcción levanta edificios y estructuras.,GPT-3.5_fewshot,plural_complejo
+Los científicos experimentos en el laboratorio.,El grupo de ciencia realiza experimentos en el laboratorio.,GPT-3.5_fewshot,plural_complejo
+Los profesores preparan clases para sus alumnos.,El equipo docente prepara clases para los estudiantes.,GPT-3.5_fewshot,plural_complejo
+Los jardineros cuidan y mantienen los jardines públicos.,El personal de jardinería cuida y mantiene los jardines públicos.,GPT-3.5_fewshot,plural_complejo
+Los chefs preparan platos gourmet en el restaurante.,El equipo de cocina prepara platos gourmet en el restaurante.,GPT-3.5_fewshot,plural_complejo

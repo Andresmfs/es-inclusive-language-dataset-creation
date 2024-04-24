@@ -1,0 +1,41 @@
+,gender_exclusive,gender_inclusive,origin,difficulty
+0,El cambio de sexo es un proceso importante para muchas personas transexuales.,La transición de género es un proceso importante para muchas personas transexuales.,GPT-3.5_fewshot,terminologia
+1,Los transexuales merecen respeto y apoyo en su camino hacia la autenticidad.,Las personas transexuales merecen respeto y apoyo en su camino hacia la autenticidad.,GPT-3.5_fewshot,terminologia
+2,Es crucial crear espacios inclusivos para los transexuales en la sociedad.,Es crucial crear espacios inclusivos para las personas transexuales en la sociedad.,GPT-3.5_fewshot,terminologia
+3,La comunidad transexual lucha por la igualdad de derechos y oportunidades.,La comunidad de personas transexuales lucha por la igualdad de derechos y oportunidades.,GPT-3.5_fewshot,terminologia
+4,Los discapacitados tienen derecho a la accesibilidad y la igualdad de oportunidades.,Las personas con discapacidad tienen derecho a la accesibilidad y la igualdad de oportunidades.,GPT-3.5_fewshot,terminologia
+5,Es fundamental eliminar las barreras arquitectónicas para los discapacitados.,Es fundamental eliminar las barreras arquitectónicas para las personas con discapacidad.,GPT-3.5_fewshot,terminologia
+6,La sociedad debe trabajar para eliminar el estigma asociado con la discapacidad.,La sociedad debe trabajar para eliminar el estigma asociado con la discapacidad.,GPT-3.5_fewshot,terminologia
+7,Es importante ofrecer apoyo emocional a los discapacitados y sus familias.,Es importante ofrecer apoyo emocional a las personas con discapacidad y sus familias.,GPT-3.5_fewshot,terminologia
+8,Los inmigrantes ilegales enfrentan numerosos desafíos al buscar una vida mejor.,Las personas extranjeras en situación administrativa irregular enfrentan numerosos desafíos al buscar una vida mejor.,GPT-3.5_fewshot,terminologia
+9,La situación de los inmigrantes ilegales es compleja y requiere soluciones humanitarias.,La situación de las personas extranjeras en situación administrativa irregular es compleja y requiere soluciones humanitarias.,GPT-3.5_fewshot,terminologia
+10,Es necesario abordar las causas subyacentes de la migración ilegal para encontrar soluciones duraderas.,Es necesario abordar las causas subyacentes de la migración ilegal para encontrar soluciones duraderas.,GPT-3.5_fewshot,terminologia
+11,"Los derechos humanos deben proteger a todos, incluidos los inmigrantes ilegales.","Los derechos humanos deben proteger a todos, incluidas las personas sin papeles.",GPT-3.5_fewshot,terminologia
+0,Los diputados y senadores discutieron en el pleno sobre el presupuesto nacional.,Los miembros del Congreso y del Senado discutieron en el pleno sobre el presupuesto nacional.,GPT-3.5_fewshot,plurales
+1,Los portavoces del partido anunciaron su posición sobre la reforma fiscal.,La portavocía del partido anunció su posición sobre la reforma fiscal.,GPT-3.5_fewshot,plurales
+2,Los portavoces adjuntos expresaron su preocupación por el aumento del desempleo.,La portavocía adjunta expresó su preocupación por el aumento del desempleo.,GPT-3.5_fewshot,plurales
+3,El presidente de la cámara dio inicio a la sesión legislativa.,La Presidencia de la cámara dio inicio a la sesión legislativa.,GPT-3.5_fewshot,plurales
+4,Los vicepresidentes están a cargo de coordinar las comisiones parlamentarias.,La Vicepresidencia está a cargo de coordinar las comisiones parlamentarias.,GPT-3.5_fewshot,plurales
+5,Los secretarios del comité elaboraron el acta de la reunión.,La Secretaría del comité elaboró el acta de la reunión.,GPT-3.5_fewshot,plurales
+6,Los archiveros bibliotecarios organizaron el sistema de documentación parlamentaria.,El equipo de documentalistas organizaron el sistema de documentación parlamentaria.,GPT-3.5_fewshot,plurales
+7,Los técnicos administrativos gestionaron el flujo de información dentro del órgano legislativo.,El personal del cuerpo técnico-administrativo gestionó el flujo de información dentro del órgano legislativo.,GPT-3.5_fewshot,plurales
+8,Los redactores redactaron el informe sobre las políticas de salud pública.,El equipo redactor redactó el informe sobre las políticas de salud pública.,GPT-3.5_fewshot,plurales
+9,Los administrativos se encargaron de la logística del evento parlamentario.,El personal del cuerpo administrativo se encargó de la logística del evento parlamentario.,GPT-3.5_fewshot,plurales
+10,Los directores de los departamentos presentaron sus informes anuales.,Las direcciones de los departamentos presentaron sus informes anuales.,GPT-3.5_fewshot,plurales
+11,Los jefes de departamento supervisaron la implementación del nuevo proyecto de ley.,La jefatura de departamento supervisó la implementación del nuevo proyecto de ley.,GPT-3.5_fewshot,plurales
+12,Los redactores jefes revisaron el discurso del presidente antes de su presentación.,La jefatura de redacción revisó el discurso del presidente antes de su presentación.,GPT-3.5_fewshot,plurales
+13,Los responsables de área coordinaron la agenda del comité de educación.,El grupo responsable de área coordinó la agenda del comité de educación.,GPT-3.5_fewshot,plurales
+14,Los encargados del mantenimiento repararon las instalaciones del parlamento.,Las personas encargadas del mantenimiento repararon las instalaciones del parlamento.,GPT-3.5_fewshot,plurales
+15,Los garajistas cuidaron de la flota de vehículos oficiales.,El personal del garaje cuidó de la flota de vehículos oficiales.,GPT-3.5_fewshot,plurales
+16,Los funcionarios atendieron las consultas de los ciudadanos sobre legislación.,El funcionariado atendió las consultas de los ciudadanos sobre legislación.,GPT-3.5_fewshot,plurales
+17,Los técnicos intermedios asistieron en la actualización del sistema informático del parlamento.,El personal laboral técnico asistió en la actualización del sistema informático del parlamento.,GPT-3.5_fewshot,plurales
+18,Los médicos de la cámara proporcionaron atención médica a los legisladores.,El servicio médico de la cámara proporcionó atención médica a los legisladores.,GPT-3.5_fewshot,plurales
+19,Los enfermeros estuvieron disponibles en el dispensario parlamentario.,El personal de enfermería estuvo disponible en el dispensario parlamentario.,GPT-3.5_fewshot,plurales
+20,Los guías llevaron a los visitantes en recorridos por el edificio legislativo.,El servicio de guías llevó a los visitantes en recorridos por el edificio legislativo.,GPT-3.5_fewshot,plurales
+21,Los auxiliares de informática ayudaron en la configuración de los equipos audiovisuales.,El personal auxiliar de informática ayudó en la configuración de los equipos audiovisuales.,GPT-3.5_fewshot,plurales
+22,Los inspectores supervisaron el cumplimiento de las normativas de seguridad.,La inspección supervisó el cumplimiento de las normativas de seguridad.,GPT-3.5_fewshot,plurales
+23,Los inspectores jefes coordinaron las inspecciones de los comités legislativos.,La jefatura de inspección coordinó las inspecciones de los comités legislativos.,GPT-3.5_fewshot,plurales
+24,Los comisarios de la policía garantizaron la seguridad durante las protestas frente al parlamento.,El comisariado de la policía garantizó la seguridad durante las protestas frente al parlamento.,GPT-3.5_fewshot,plurales
+25,Los asesores proporcionaron asesoramiento jurídico a los legisladores.,El personal de asesoría proporcionó asesoramiento jurídico a los legisladores.,GPT-3.5_fewshot,plurales
+26,Los jefes de prensa coordinaron las comunicaciones del grupo parlamentario.,Los responsables de prensa coordinaron las comunicaciones del grupo parlamentario.,GPT-3.5_fewshot,plurales
+27,Los empleados del grupo parlamentario organizaron una campaña de concientización ciudadana.,El personal contratado por los grupos parlamentarios organizó una campaña de concientización ciudadana.,GPT-3.5_fewshot,plurales

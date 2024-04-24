@@ -1,0 +1,455 @@
+gender_exclusive,gender_inclusive,difficulty,origin
+Podrán actuar los artistas que hayan presentado la solicitud,Podrá actuar cualquier artista que haya presentado la solicitud,parafrasis,GPT-3.5_fs_multiplication
+Deberán asistir los estudiantes que se hayan comprometido,Deberá asistir cualquier estudiante que se haya comprometido,parafrasis,GPT-3.5_fs_multiplication
+Deberán participar los docentes que hayan presentado la solicitud,Deberá participar cualquier docente que haya presentado la solicitud,parafrasis,GPT-3.5_fs_multiplication
+Podrán presentar su candidatura los accionistas que lo deseen,Podrá presentar su candidatura cualquier accionista que lo desee,parafrasis,GPT-3.5_fs_multiplication
+Deberán participar los acróbatas que cumplan con los requisitos.,Deberá participar cualquier acróbata que cumpla con los requisitos.,parafrasis,GPT-3.5_fs_multiplication
+Podrán actuar los activistas que hayan presentado la solicitud,Podrá actuar cualquier activista que haya presentado la solicitud,parafrasis,GPT-3.5_fs_multiplication
+Podrán trabajar los astronautas que quieran,Podrá trabajar cualquier astronauta que quiera,parafrasis,GPT-3.5_fs_multiplication
+Podrán trabajar los albañiles que hayan presentado la solicitud,Podrá trabajar cualquier albañil que haya presentado la solicitud,parafrasis,GPT-3.5_fs_multiplication
+Podrán trabajar los cantantes que cumplan con los requisitos.,Podrá trabajar cualquier cantante que cumpla con los requisitos.,parafrasis,GPT-3.5_fs_multiplication
+Deberán participar los detectives que se hayan comprometido,Deberá participar cualquier detective que se haya comprometido,parafrasis,GPT-3.5_fs_multiplication
+Deberán asistir los concursantes que quieran,Deberá asistir cualquier concursante que quiera,parafrasis,GPT-3.5_fs_multiplication
+Deberán participar los artistas que se presenten,Deberá participar cualquier artista que se presente,parafrasis,GPT-3.5_fs_multiplication
+Podrán trabajar los estudiantes que se presenten,Podrá trabajar cualquier estudiante que se presente,parafrasis,GPT-3.5_fs_multiplication
+Podrán trabajar los docentes que hayan presentado la solicitud,Podrá trabajar cualquier docente que haya presentado la solicitud,parafrasis,GPT-3.5_fs_multiplication
+Podrán trabajar los accionistas que quieran,Podrá trabajar cualquier accionista que quiera,parafrasis,GPT-3.5_fs_multiplication
+Podrán actuar los acróbatas que se hayan comprometido,Podrá actuar cualquier acróbata que se haya comprometido,parafrasis,GPT-3.5_fs_multiplication
+Podrán presentar su candidatura los activistas que lo deseen,Podrá presentar su candidatura cualquier activista que lo desee,parafrasis,GPT-3.5_fs_multiplication
+Deberán asistir los astronautas que se presenten,Deberá asistir cualquier astronauta que se presente,parafrasis,GPT-3.5_fs_multiplication
+Deberán participar los albañiles que hayan presentado la solicitud,Deberá participar cualquier albañil que haya presentado la solicitud,parafrasis,GPT-3.5_fs_multiplication
+Podrán trabajar los cantantes que se presenten,Podrá trabajar cualquier cantante que se presente,parafrasis,GPT-3.5_fs_multiplication
+Podrán presentar su candidatura los detectives que quieran,Podrá presentar su candidatura cualquier detective que quiera,parafrasis,GPT-3.5_fs_multiplication
+Podrán trabajar los concursantes que se hayan comprometido,Podrá trabajar cualquier concursante que se haya comprometido,parafrasis,GPT-3.5_fs_multiplication
+Harán su actuación distintos artistas del país,Harán su actuación artistas diferentes del país,parafrasis,GPT-3.5_fs_multiplication
+Harán su actuación distintos estudiantes del concurso,Harán su actuación estudiantes diferentes del concurso,parafrasis,GPT-3.5_fs_multiplication
+Llegarán a la final distintos docentes del país,Llegarán a la final docentes diferentes del país,parafrasis,GPT-3.5_fs_multiplication
+Llegarán a la final distintos accionistas del país,Llegarán a la final accionistas diferentes del país,parafrasis,GPT-3.5_fs_multiplication
+Harán su actuación distintos acróbatas del concurso,Harán su actuación acróbatas diferentes del concurso,parafrasis,GPT-3.5_fs_multiplication
+Llevarán a cabo su presentación distintos activistas de la localidad,Llevarán a cabo su presentación activistas diferentes de la localidad,parafrasis,GPT-3.5_fs_multiplication
+Llegarán a la final distintos astronautas del concurso,Llegarán a la final astronautas diferentes del concurso,parafrasis,GPT-3.5_fs_multiplication
+Llegarán a la final distintos albañiles del país,Llegarán a la final albañiles diferentes del país,parafrasis,GPT-3.5_fs_multiplication
+Se presentarán distintos cantantes del concurso,Se presentarán cantantes diferentes del concurso,parafrasis,GPT-3.5_fs_multiplication
+Se presentarán distintos detectives de la provincia,Se presentarán detectives diferentes de la provincia,parafrasis,GPT-3.5_fs_multiplication
+Llegarán a la final distintos concursantes del concurso,Llegarán a la final concursantes diferentes del concurso,parafrasis,GPT-3.5_fs_multiplication
+Harán su actuación distintos artistas de la ciudad,Harán su actuación artistas diferentes de la ciudad,parafrasis,GPT-3.5_fs_multiplication
+Llevarán a cabo su presentación distintos estudiantes del país,Llevarán a cabo su presentación estudiantes diferentes del país,parafrasis,GPT-3.5_fs_multiplication
+Se presentarán distintos docentes del municipio,Se presentarán docentes diferentes del municipio,parafrasis,GPT-3.5_fs_multiplication
+Se presentarán distintos accionistas de la provincia,Se presentarán accionistas diferentes de la provincia,parafrasis,GPT-3.5_fs_multiplication
+Llevarán a cabo su presentación distintos acróbatas de la ciudad,Llevarán a cabo su presentación acróbatas diferentes de la ciudad,parafrasis,GPT-3.5_fs_multiplication
+Llegarán a la final distintos activistas de la ciudad,Llegarán a la final activistas diferentes de la ciudad,parafrasis,GPT-3.5_fs_multiplication
+Aparecerán distintos astronautas de la localidad,Aparecerán astronautas diferentes de la localidad,parafrasis,GPT-3.5_fs_multiplication
+Se presentarán distintos albañiles del país,Se presentarán albañiles diferentes del país,parafrasis,GPT-3.5_fs_multiplication
+Llegarán a la final distintos cantantes de la provincia,Llegarán a la final cantantes diferentes de la provincia,parafrasis,GPT-3.5_fs_multiplication
+Llevarán a cabo su presentación distintos detectives de la localidad,Llevarán a cabo su presentación detectives diferentes de la localidad,parafrasis,GPT-3.5_fs_multiplication
+Harán su actuación distintos concursantes del municipio,Harán su actuación concursantes diferentes del municipio,parafrasis,GPT-3.5_fs_multiplication
+Todos los ciudadanos tienen derecho a votar en las elecciones.,Cada ciudadano tiene derecho a votar en las elecciones.,parafrasis,GPT-3.5_fs_multiplication
+Se invitará a los asistentes a participar en el debate.,Se invitará a cada asistente a participar en el debate.,parafrasis,GPT-3.5_fs_multiplication
+El comité seleccionará a los representantes de cada departamento.,El comité seleccionará a representantes de cada departamento.,parafrasis,GPT-3.5_fs_multiplication
+Los empleados deben completar su formulario de evaluación antes del plazo.,Cada empleado debe completar su formulario de evaluación antes del plazo.,parafrasis,GPT-3.5_fs_multiplication
+Los jóvenes interesados en el programa deben enviar su solicitud.,Cada joven interesado en el programa debe enviar su solicitud.,parafrasis,GPT-3.5_fs_multiplication
+Se solicitará a los miembros del equipo que presenten sus propuestas.,Se solicitará a cada miembro del equipo que presente sus propuestas.,parafrasis,GPT-3.5_fs_multiplication
+Todos los estudiantes pueden acceder a los recursos educativos en línea.,Todo el alumnado puede acceder a los recursos educativos en línea.,parafrasis,GPT-3.5_fs_multiplication
+Los profesionales deben mantenerse actualizados en su campo.,Cada profesional debe mantenerse actualizado o actualizada en su campo.,parafrasis,GPT-3.5_fs_multiplication
+Se espera la colaboración de los vecinos en el evento comunitario.,Se espera la colaboración vecindal en el evento comunitario.,parafrasis,GPT-3.5_fs_multiplication
+Los miembros del jurado evaluarán las presentaciones de los concursantes.,Cada miembro del jurado evaluará las presentaciones de cada concursante.,parafrasis,GPT-3.5_fs_multiplication
+Los costeños comen mucho pescado,En la costa se come mucho pescado.,culturas,GPT-3.5_fs_multiplication
+Los estadounidenses disfrutan de los deportes,En Estados Unidos se disfruta mucho de los deportes.,culturas,GPT-3.5_fs_multiplication
+Los franceses son famosos por su gastronomía,En Francia tienen fama por su gastronomía.,culturas,GPT-3.5_fs_multiplication
+Los japoneses son aficionados al sushi,En Japón hay mucha afición por el sushi.,culturas,GPT-3.5_fs_multiplication
+Los italianos son expertos en cocina,En Italia son especialistas en cocina.,culturas,GPT-3.5_fs_multiplication
+Los mexicanos celebran el Día de los Muertos,En México se celebra el Día de los Muertos.,culturas,GPT-3.5_fs_multiplication
+Los indios tienen una rica tradición culinaria,En India tienen una rica tradición culinaria.,culturas,GPT-3.5_fs_multiplication
+Los rusos son conocidos por su vodka,Rusia es conocida por su vodka.,culturas,GPT-3.5_fs_multiplication
+Los argentinos son apasionados por el fútbol,En Argentina se vive el fútbol con pasión.,culturas,GPT-3.5_fs_multiplication
+Los brasileños celebran el Carnaval,En Brasil se celebra el Carnaval.,culturas,GPT-3.5_fs_multiplication
+Los suecos son expertos en diseño de muebles,En Suecia son especialistas en diseño de muebles.,culturas,GPT-3.5_fs_multiplication
+Los holandeses son conocidos por sus tulipanes,Holanda es conocida por sus tulipanes.,culturas,GPT-3.5_fs_multiplication
+Los chinos disfrutan de la cocina picante,En China se disfruta de la cocina picante.,culturas,GPT-3.5_fs_multiplication
+Los tailandeses son maestros en la preparación del curry,En Tailandia se prepara el curry con maestría.,culturas,GPT-3.5_fs_multiplication
+Los canadienses son amantes del hockey,En Canadá son amantes del hockey.,culturas,GPT-3.5_fs_multiplication
+Los australianos son expertos en surf,La población australiana es experta en surf.,culturas,GPT-3.5_fs_multiplication
+Los británicos son aficionados al té,La población de Inglaterra es aficionada al té.,culturas,GPT-3.5_fs_multiplication
+Los irlandeses son famosos por su cerveza,La población irlandesa es famosa por su cerveza.,culturas,GPT-3.5_fs_multiplication
+Los portugueses son conocidos por su vino,Portugal es conocida por su vino.,culturas,GPT-3.5_fs_multiplication
+Los suizos son expertos en la fabricación de relojes,En Suiza son especialistas en la fabricación de relojes.,culturas,GPT-3.5_fs_multiplication
+Los mexicanos son expertos en la elaboración del mole,En México son especialistas en la elaboración del mole,culturas,GPT-3.5_fs_multiplication
+Los italianos son conocidos por su amor por la pasta,Italia es conocida por el amor por la pasta que tienen sus habitantes.,culturas,GPT-3.5_fs_multiplication
+Los brasileños son fanáticos del fútbol,En Brasil son fanáticos del fútbol,culturas,GPT-3.5_fs_multiplication
+Los indios son hábiles en la preparación de especias,En la India se preparan especias con habilidad.,culturas,GPT-3.5_fs_multiplication
+Los rusos son amantes de la literatura clásica,En Rusia son amantes de la literatura clásica.,culturas,GPT-3.5_fs_multiplication
+Los australianos son expertos en surf,En Australia son especialistas en surf,culturas,GPT-3.5_fs_multiplication
+Los chinos son famosos por su milenaria cultura,En China tienen fama por su cultura milenaria.,culturas,GPT-3.5_fs_multiplication
+Los ingleses son aficionados al té,En Inglaterra hay mucha afición por el té.,culturas,GPT-3.5_fs_multiplication
+Los canadienses son expertos en hockey sobre hielo,En Canadá son especialistas en hockey sobre hielo,culturas,GPT-3.5_fs_multiplication
+Los alemanes son conocidos por su cerveza,Alemania es conocida por su cerveza,culturas,GPT-3.5_fs_multiplication
+Los colombianos son apasionados por el café,La población colombiana es apasionada del café,culturas,GPT-3.5_fs_multiplication
+Los griegos son expertos en la preparación del yogurt,En Grecia son especialistas en la preparación del yogurt,culturas,GPT-3.5_fs_multiplication
+Los suecos son amantes del diseño moderno,En Suecia son amantes del diseño moderno,culturas,GPT-3.5_fs_multiplication
+Los argentinos son maestros en el arte del asado,La población argentina es maestra en el arte del asado.,culturas,GPT-3.5_fs_multiplication
+Los estadounidenses son fanáticos del béisbol,En Estados Unidos se vive el béisbol con pasión.,culturas,GPT-3.5_fs_multiplication
+Los suizos son conocidos por su precisión y puntualidad,En Suiza tienen fama por su precisión y puntualidad.,culturas,GPT-3.5_fs_multiplication
+Los coreanos son aficionados a los videojuegos,En Corea del Sur hay mucha afición por los videojuegos.,culturas,GPT-3.5_fs_multiplication
+Los portugueses son expertos en la elaboración del bacalao,En Portugal son especialistas en la elaboración del bacalao,culturas,GPT-3.5_fs_multiplication
+Los marroquíes son famosos por su exquisita cocina,En Marruecos tienen fama por su exquisita cocina.,culturas,GPT-3.5_fs_multiplication
+Los neozelandeses son amantes de los deportes acuáticos,En Nueva Zelanda son amantes de los deportes acuáticos,culturas,GPT-3.5_fs_multiplication
+La música de salsa es muy popular entre los puertorriqueños,La música de salsa es muy popular entre la gente de Puerto Rico,culturas,GPT-3.5_fs_multiplication
+La literatura clásica es apreciada por los franceses,La literatura clásica es apreciada en Francia,culturas,GPT-3.5_fs_multiplication
+La filosofía antigua es estudiada por los griegos,La filosofía antigua es estudiada en Grecia,culturas,GPT-3.5_fs_multiplication
+La pintura renacentista es admirada por los italianos,La pintura renacentista es admirada por en Italia,culturas,GPT-3.5_fs_multiplication
+El folclore tradicional es valorado por los irlandeses,El folclore tradicional es valorado por la gente de Irlanda,culturas,GPT-3.5_fs_multiplication
+La danza del flamenco es muy popular entre los españoles,La danza del flamenco es muy popular en España,culturas,GPT-3.5_fs_multiplication
+La literatura nórdica es apreciada por los suecos,La literatura nórdica es apreciada por la gente de Suecia,culturas,GPT-3.5_fs_multiplication
+La escultura maya es admirada por los guatemaltecos,La escultura maya es admirada por la población guatemalteca,culturas,GPT-3.5_fs_multiplication
+El arte callejero es muy apreciado por los británicos,El arte callejero es muy apreciado en el Reino Unido,culturas,GPT-3.5_fs_multiplication
+La cerámica es una forma de expresión artística importante para los chinos,La cerámica es una forma de expresión artística importante para la gente de China,culturas,GPT-3.5_fs_multiplication
+El proyecto fue completado por los restantes miembros del equipo.,El proyecto fue completado por el resto de miembros del equipo.,parafrasis,GPT-3.5_fs_multiplication
+Se solicitará ayuda a los voluntarios para organizar el evento.,Se solicitará ayuda al voluntariado para organizar el evento.,parafrasis,GPT-3.5_fs_multiplication
+Se anima a los estudiantes a participar en actividades extracurriculares.,Se anima a cada estudiante a participar en actividades extracurriculares.,parafrasis,GPT-3.5_fs_multiplication
+El éxito del proyecto depende en gran medida de los miembros del equipo.,El éxito del proyecto depende en gran medida de cada miembro del equipo.,parafrasis,GPT-3.5_fs_multiplication
+Firmaron el documento todos los reunidos en la junta.,Firmaron el documento todas las personas presentes en la junta.,parafrasis,GPT-3.5_fs_multiplication
+Los trabajadores fueron forzados a realizar horas extras.,La plantilla fue forzada a realizar horas extras.,parafrasis,GPT-3.5_fs_multiplication
+Espero que los nuevos empleados no estén registrados en el sistema.,Espero que la nueva plantilla de empleados no aparezcan en el registro .,parafrasis,GPT-3.5_fs_multiplication
+Se notificará al familiar o la persona encargada.,Se notificará al familiar o la persona encargada.,parafrasis,GPT-3.5_fs_multiplication
+"Según muchos especialistas, la situación económica mejorará pronto.","Según multitud de especialistas, la situación económica mejorará pronto.",parafrasis,GPT-3.5_fs_multiplication
+"Según muchos expertos, la tecnología cambiará radicalmente nuestra forma de vida.","Según multitud de especialistas, la tecnología cambiará radicalmente nuestra forma de vida.",parafrasis,GPT-3.5_fs_multiplication
+Se otorgará un bono adicional a los titulares de cuentas premium.,Se otorgará un bono adicional a cada titular de cuentas premium.,parafrasis,GPT-3.5_fs_multiplication
+Podrán ser candidatos todos los estudiantes que cumplan con los requisitos.,Podrán presentar su candidatura cualquier estudiante que cumpla con los requisitos.,parafrasis,GPT-3.5_fs_multiplication
+Los invidados de honor comerán en el salón y los restantes en el patio.,Las invidadas e invitados de honor comerán en el salón y el resto en el patio.,parafrasis,GPT-3.5_fs_multiplication
+"Según muchos especialistas, la inteligencia artificial revolucionará el mundo laboral.","Según gran cantidad de especialistas, la inteligencia artificial revolucionará el mundo laboral.",parafrasis,GPT-3.5_fs_multiplication
+"Según muchos expertos, la medicina genómica es el futuro de la medicina.","Según gran cantidad de especialistas, la medicina genómica es el futuro de la medicina.",parafrasis,GPT-3.5_fs_multiplication
+Se ofrecerá asesoramiento gratuito a los titulares de cuentas nuevas.,Se ofrecerá asesoramiento gratuito a cada titular de cuentas nuevas.,parafrasis,GPT-3.5_fs_multiplication
+Los miembros del equipo restantes trabajarán en la presentación del proyecto.,El resto de miembros del equipo trabajarán en la presentación del proyecto.,parafrasis,GPT-3.5_fs_multiplication
+"Según muchos especialistas, la inteligencia artificial transformará nuestras vidas.","Según gran cantidad de especialistas, la inteligencia artificial transformará nuestras vidas.",parafrasis,GPT-3.5_fs_multiplication
+"Según muchos expertos, la energía renovable será la principal fuente de energía en el futuro.","Según gran cantidad de especialistas, la energía renovable será la principal fuente de energía en el futuro.",parafrasis,GPT-3.5_fs_multiplication
+Se otorgará un premio a los titulares de las mejores ideas.,Se otorgará un premio a cada titular de las mejores ideas.,parafrasis,GPT-3.5_fs_multiplication
+Podrán ser candidatos todos los estudiantes que cumplan con los requisitos académicos.,Podrán presentar su candidatura todo estudiante que cumpla con los requisitos académicos.,parafrasis,GPT-3.5_fs_multiplication
+Los participantes restantes recibirán un certificado de reconocimiento.,El resto de participantes recibirán un certificado de reconocimiento.,parafrasis,GPT-3.5_fs_multiplication
+"Según muchos especialistas, la robótica tendrá un impacto significativo en la industria.","Según gran cantidad de especialistas, la robótica tendrá un impacto significativo en la industria.",parafrasis,GPT-3.5_fs_multiplication
+"Según muchos expertos, la nanotecnología revolucionará la medicina.","Según gran cantidad de especialistas, la nanotecnología revolucionará la medicina.",parafrasis,GPT-3.5_fs_multiplication
+Los vicepresidentes lideraron la reunión de la junta directiva.,La Vicepresidencia lideró la reunión de la junta directiva.,plural,GPT-3.5_fs_multiplication
+Los auxiliares de informática resolvieron los problemas técnicos.,El personal auxiliar de informática resolvió los problemas técnicos.,plural,GPT-3.5_fs_multiplication
+Los periodistas investigaron el escándalo político.,Periodistas investigaron el escándalo político.,plural,GPT-3.5_fs_multiplication
+Los encargados del mantenimiento repararon la avería en la sala de conferencias.,El personal encargado del mantenimiento reparó la avería en la sala de conferencias.,plural,GPT-3.5_fs_multiplication
+Los españoles disfrutaron de las fiestas tradicionales.,La población española disfrutó de las fiestas tradicionales.,plural,GPT-3.5_fs_multiplication
+Los funcionarios municipales gestionaron los trámites administrativos.,El funcionariado municipal gestionó los trámites administrativos.,plural,GPT-3.5_fs_multiplication
+Los actores ensayaron para la próxima obra de teatro.,El elenco ensayó para la próxima obra de teatro.,plural,GPT-3.5_fs_multiplication
+Los administrativos coordinaron el evento anual de la empresa.,El personal del cuerpo administrativo coordinó el evento anual de la empresa.,plural,GPT-3.5_fs_multiplication
+Los portavoces del partido anunciaron la nueva campaña electoral.,La portavocía del partido anunció la nueva campaña electoral.,plural,GPT-3.5_fs_multiplication
+Los jefes de prensa coordinaron la cobertura del evento deportivo.,Los responsables de prensa coordinaron la cobertura del evento deportivo.,plural,GPT-3.5_fs_multiplication
+Los trabajadores recibieron un aumento salarial.,La plantilla recibió un aumento salarial.,plural,GPT-3.5_fs_multiplication
+Los inspectores jefes supervisaron las condiciones de trabajo.,La jefatura de inspección supervisó las condiciones de trabajo.,plural,GPT-3.5_fs_multiplication
+Los redactores finalizaron el informe sobre el cambio climático.,El equipo redactor finalizó el informe sobre el cambio climático.,plural,GPT-3.5_fs_multiplication
+Los portavoces adjuntos expresaron su apoyo a la reforma educativa.,La portavocía adjunta expresó su apoyo a la reforma educativa.,plural,GPT-3.5_fs_multiplication
+Los asesores brindaron asesoramiento financiero a los empresarios.,El personal de asesoría brindó asesoramiento financiero a los empresarios.,plural,GPT-3.5_fs_multiplication
+Los científicos presentaron sus hallazgos en la conferencia internacional.,El equipo científico presentó sus hallazgos en la conferencia internacional.,plural,GPT-3.5_fs_multiplication
+Los ciudadanos ejercieron su derecho al voto en las elecciones.,La ciudadanía ejerció su derecho al voto en las elecciones.,plural,GPT-3.5_fs_multiplication
+Los jefes de departamento anunciaron la implementación de nuevas políticas.,La jefatura de departamento anunció la implementación de nuevas políticas.,plural,GPT-3.5_fs_multiplication
+Los inspectores garantizaron el cumplimiento de las normativas de seguridad.,La inspección garantizó el cumplimiento de las normativas de seguridad.,plural,GPT-3.5_fs_multiplication
+Los políticos discutieron sobre el presupuesto nacional.,La clase política discutió sobre el presupuesto nacional.,plural,GPT-3.5_fs_multiplication
+Los profesores dedicaron su tiempo a la formación de los estudiantes.,El profesorado dedicó su tiempo a la formación de los estudiantes.,plural,GPT-3.5_fs_multiplication
+Los médicos atendieron a los pacientes en el hospital.,El personal médico atendió a los pacientes en el hospital.,plural,GPT-3.5_fs_multiplication
+Los alumnos participaron en la manifestación estudiantil.,El alumnado participó en la manifestación estudiantil.,plural,GPT-3.5_fs_multiplication
+Los redactores jefes revisaron el informe antes de su publicación.,La jefatura de redacción revisó el informe antes de su publicación.,plural,GPT-3.5_fs_multiplication
+Los programadores desarrollaron un nuevo software.,El personal de programación desarrolló un nuevo software.,plural,GPT-3.5_fs_multiplication
+Los diputados y senadores debatieron en el pleno sobre la reforma legislativa.,Los miembros del Congreso y del Senado debatieron en el pleno sobre la reforma legislativa.,plural,GPT-3.5_fs_multiplication
+Los abogados presentarán el caso ante la corte.,La abogacía presentará el caso ante la corte.,plural,GPT-3.5_fs_multiplication
+Los estudiantes se prepararon para los exámenes finales.,El estudiantado se preparó para los exámenes finales.,plural,GPT-3.5_fs_multiplication
+El presidente de la cámara dio inicio a la sesión legislativa.,La presidencia de la cámara dio inicio a la sesión legislativa.,plural,GPT-3.5_fs_multiplication
+Los jugadores entrenaron para el próximo partido.,El equipo organizó una campaña de concientización ciudadana.,plural,GPT-3.5_fs_multiplication
+Los jueces emitieron un fallo en el caso de corrupción.,El aparato judicial emitió un fallo en el caso de corrupción.,plural,GPT-3.5_fs_multiplication
+Los voluntarios ayudaron en la construcción de viviendas sociales.,El grupo de voluntariado ayudó en la construcción de viviendas sociales.,plural,GPT-3.5_fs_multiplication
+Los garajistas repararon los vehículos del parque automotor.,El personal del garaje reparó los vehículos del parque automotor.,plural,GPT-3.5_fs_multiplication
+Los médicos de la cámara proporcionaron atención médica a los legisladores.,El servicio médico de la cámara proporcionó atención médica a los legisladores.,plural,GPT-3.5_fs_multiplication
+Los agricultores cosecharon los cultivos en la temporada de recolección.,El sector agrícola cosechó los cultivos en la temporada de recolección.,plural,GPT-3.5_fs_multiplication
+Los archiveros bibliotecarios organizaron el sistema de archivo parlamentario.,El equipo de documentalistas organizó el sistema de archivo parlamentario.,plural,GPT-3.5_fs_multiplication
+Los responsables de área coordinaron la agenda del comité de educación.,El grupo responsable de área coordinó la agenda del comité de educación.,plural,GPT-3.5_fs_multiplication
+El equipo de profesores colaboró estrechamente para ofrecer una educación de calidad.,El equipo docente colaboró estrechamente para ofrecer una educación de calidad.,plural,GPT-3.5_fs_multiplication
+Los niños disfrutaron de la excursión escolar.,Los niños y las niñas disfrutaron de la excursión escolar.,plural,GPT-3.5_fs_multiplication
+Los cantantes ensayaron para el concierto benéfico.,El grupo de cantantes ensayó para el concierto benéfico.,plural,GPT-3.5_fs_multiplication
+Los guías acompañaron a los turistas en el recorrido por la ciudad.,El servicio de guías acompañó a los turistas en el recorrido por la ciudad.,plural,GPT-3.5_fs_multiplication
+Los directores presentaron sus propuestas para el nuevo proyecto.,Las direcciones presentaron sus propuestas para el nuevo proyecto.,plural,GPT-3.5_fs_multiplication
+Los comisarios de la policía mantuvieron el orden durante la protesta.,El comisariado de la policía mantuvo el orden durante la protesta.,plural,GPT-3.5_fs_multiplication
+Los técnicos administrativos gestionaron el flujo de información.,El personal del cuerpo técnico-administrativo gestionó el flujo de información.,plural,GPT-3.5_fs_multiplication
+Los enfermeros brindaron atención médica en el hospital.,El personal de enfermería brindó atención médica en el hospital.,plural,GPT-3.5_fs_multiplication
+Los secretarios del comité redactaron el acta de la reunión.,La Secretaría del comité redactó el acta de la reunión.,plural,GPT-3.5_fs_multiplication
+Los artistas exhibieron sus obras en la galería de arte.,Las y los artistas exhibieron sus obras en la galería de arte.,plural,GPT-3.5_fs_multiplication
+Los bailarines se prepararon para el espectáculo de danza.,Las bailarinas y bailarines se prepararon para el espectáculo de danza.,plural,GPT-3.5_fs_multiplication
+Los escritores famosos lanzaron sus nuevos libros.,Las escritoras y escritores famosos lanzaron sus nuevos libros.,plural,GPT-3.5_fs_multiplication
+Los programadores están innovando con software.,El equipo de programación está innovando con software.,plural_complejo,GPT-3.5_fs_multiplication
+Los médicos atienden a los pacientes en el hospital.,El personal médico atiende a los pacientes en el hospital.,plural_complejo,GPT-3.5_fs_multiplication
+El promotor está organizando un evento importante.,El personal promotor está organizando un evento importante.,plural_complejo,GPT-3.5_fs_multiplication
+Los camareros sirven comida en el restaurante local.,El personal de servicio sirve comida en el restaurante local.,plural_complejo,GPT-3.5_fs_multiplication
+Los ingenieros están diseñando un nuevo sistema de riego eficiente.,El equipo de ingeniería está diseñando un nuevo sistema de riego eficiente.,plural_complejo,GPT-3.5_fs_multiplication
+Los jardineros cuidan el aspecto de los parques públicos.,Las jardineras y los jardineros cuidan el aspecto de los parques públicos.,plural_complejo,GPT-3.5_fs_multiplication
+Los médicos están investigando una cura para esta enfermedad.,Las médicas y médicos investigan una cura para esta enfermedad.,plural_complejo,GPT-3.5_fs_multiplication
+Los empleados trabajan arduamente en la oficina.,La plantilla trabaja arduamente en la oficina.,plural_complejo,GPT-3.5_fs_multiplication
+Los bomberos luchan contra el fuego en el edificio.,El personal de bomberos lucha contra el fuego en el edificio.,plural_complejo,GPT-3.5_fs_multiplication
+"En el aula, los profesores enseñan a los estudiantes.","En el aula, el profesorado enseña al alumnado.",plural_complejo,GPT-3.5_fs_multiplication
+Los veterinarios velan por la salud de los animales en la clínica.,Los veterinarios y las veterinarias velan por la salud de los animales en la clínica.,plural_complejo,GPT-3.5_fs_multiplication
+Los escritores están finalizando su próximo libro.,Las escritoras y los escritores están finalizando su próximo libro.,plural_complejo,GPT-3.5_fs_multiplication
+Los chefs preparan deliciosos platos en la cocina del restaurante.,Los y las chefs preparan deliciosos platos en la cocina del restaurante.,plural_complejo,GPT-3.5_fs_multiplication
+Los psicólogos ofrecen terapia a los pacientes.,El personal de psicología ofrece terapia a los pacientes.,plural_complejo,GPT-3.5_fs_multiplication
+Los artistas exhiben sus obras en la galería.,Los y las artistas exhiben sus obras en la galería.,plural_complejo,GPT-3.5_fs_multiplication
+Los conductores manejan con cuidado los autobuses.,Quienes conducen manejan con cuidado los autobuses.,plural_complejo,GPT-3.5_fs_multiplication
+Los actores interpretan diversos roles en la obra de teatro.,Las actrices y actores interpretan diversos roles en la obra de teatro.,plural_complejo,GPT-3.5_fs_multiplication
+El promotor organiza eventos culturales en la plaza.,El equipo promotor organiza eventos culturales en la plaza.,plural_complejo,GPT-3.5_fs_multiplication
+Los reporteros informan sobre los acontecimientos del día.,El equipo de reporteros informa sobre los acontecimientos del día.,plural_complejo,GPT-3.5_fs_multiplication
+Los médicos veterinarios cuidan la salud de las mascotas.,El equipo médico veterinario cuida la salud de las mascotas.,plural_complejo,GPT-3.5_fs_multiplication
+Los peluqueros estilizan el cabello de sus clientes.,Los peluqueros y las peluqueras estilizan el cabello de sus clientes.,plural_complejo,GPT-3.5_fs_multiplication
+Las mujeres de la limpieza mantienen las casas impecables.,El personal de limpieza mantienen las casas impecables.,plural_complejo,GPT-3.5_fs_multiplication
+Los músicos tocan sus instrumentos en el escenario.,Los músicos y músicas tocan sus instrumentos en el escenario.,plural_complejo,GPT-3.5_fs_multiplication
+Los pintores crean obras de arte en sus estudios.,Los pintores y las pintoras crean obras de arte en sus estudios.,plural_complejo,GPT-3.5_fs_multiplication
+Los empresarios gestionan sus empresas con eficacia.,Las empresarias y los empresarios gestionan sus empresas con eficacia.,plural_complejo,GPT-3.5_fs_multiplication
+Los científicos realizan experimentos en el laboratorio.,Las científicas y los científicos realizan experimentos en el laboratorio.,plural_complejo,GPT-3.5_fs_multiplication
+Los biólogos estudian la vida en sus diferentes formas.,Los biólogos y biólogas estudian la vida en sus diferentes formas.,plural_complejo,GPT-3.5_fs_multiplication
+Los abogados asesoran a sus clientes en asuntos legales.,La abogacía asesora a sus clientes en asuntos legales.,plural_complejo,GPT-3.5_fs_multiplication
+Las secretarias organizan el flujo de trabajo en la oficina.,El personal de secretaría organiza el flujo de trabajo en la oficina.,plural_complejo,GPT-3.5_fs_multiplication
+Los médicos están atendiendo a los pacientes.,El personal médico está atendiendo a los pacientes.,plural_complejo,GPT-3.5_fs_multiplication
+Los ingenieros conducen los autobuses de la empresa.,Las y los ingenieros están desarrollando nuevos proyectos.,plural_complejo,GPT-3.5_fs_multiplication
+Los artistas están pintando un mural en la plaza del pueblo.,Los y las artistas están pintando un mural en la plaza del pueblo.,plural_complejo,GPT-3.5_fs_multiplication
+La empleada de limpieza está desinfectando las áreas comunes del hotel.,El personal de limpieza está manteniendo impecables los espacios comunes.,plural_complejo,GPT-3.5_fs_multiplication
+Los actores están ensayando para la próxima obra de teatro.,Las actrices y actores están ensayando para la próxima obra de teatro.,plural_complejo,GPT-3.5_fs_multiplication
+El promotor está promocionando un nuevo proyecto residencial.,El equipo promotor está promocionando un nuevo proyecto residencial.,plural_complejo,GPT-3.5_fs_multiplication
+Los médicos veterinarios están examinando a los animales en el zoológico.,El equipo médico veterinario está examinando a los animales en el zoológico.,plural_complejo,GPT-3.5_fs_multiplication
+Los peluqueros están cortando el cabello de los clientes en la peluquería.,Los peluqueros y las peluqueras están cortando el cabello de los clientes en la peluquería.,plural_complejo,GPT-3.5_fs_multiplication
+Las mujeres de la limpieza están manteniendo impecable la oficina.,El personal de limpieza está manteniendo impecables los espacios comunes.,plural_complejo,GPT-3.5_fs_multiplication
+Los músicos están ensayando para el concierto de esta noche.,Los músicos y músicas están ensayando para el concierto de esta noche.,plural_complejo,GPT-3.5_fs_multiplication
+Los pintores están decorando las paredes del museo con sus obras.,Las pintoras y los pintores están decorando las paredes del museo con sus obras.,plural_complejo,GPT-3.5_fs_multiplication
+Los empresarios están negociando un nuevo contrato con el cliente.,Las empresarias y los empresarios están negociando un nuevo contrato con el cliente.,plural_complejo,GPT-3.5_fs_multiplication
+Los científicos están realizando experimentos en el laboratorio.,Las científicas y los científicos están realizando experimentos en el laboratorio.,plural_complejo,GPT-3.5_fs_multiplication
+Los biólogos están estudiando la flora y fauna en el bosque.,Los biólogos y biólogas están estudiando la flora y fauna en el bosque.,plural_complejo,GPT-3.5_fs_multiplication
+Los abogados están preparando la defensa para el juicio.,La abogacía está preparando la defensa para el juicio.,plural_complejo,GPT-3.5_fs_multiplication
+Las secretarias están organizando la agenda del director.,El personal de secretaría está organizando la agenda del director.,plural_complejo,GPT-3.5_fs_multiplication
+Los médicos están atendiendo a los pacientes en la sala de espera.,Las y los médicos están atendiendo a los pacientes en la sala de espera.,plural_complejo,GPT-3.5_fs_multiplication
+Los ingenieros están diseñando un nuevo sistema de transporte público.,Las y los ingenieros están diseñando un nuevo sistema de transporte público.,plural_complejo,GPT-3.5_fs_multiplication
+Los conductores de autobuses están llevando a los estudiantes al colegio.,Las y los conductores de autobuses están llevando a los estudiantes al colegio.,plural_complejo,GPT-3.5_fs_multiplication
+Los chefs están preparando la cena de gala para el evento.,Las y los chefs están preparando la cena de gala para el evento.,plural_complejo,GPT-3.5_fs_multiplication
+Los empleados están colaborando en un proyecto conjunto.,Las empleadas y los empleados están colaborando en un proyecto conjunto.,plural_complejo,GPT-3.5_fs_multiplication
+Los migrantes y sus familias están buscando un lugar seguro donde vivir.,La población migrante está buscando un lugar seguro donde vivir.,plural_complejo,GPT-3.5_fs_multiplication
+Los diseñadores están creando un nuevo logotipo para la empresa.,El equipo de diseño está creando un nuevo logotipo para la empresa.,plural_complejo,GPT-3.5_fs_multiplication
+Los profesores están impartiendo clases de matemáticas en el instituto.,Las profesoras y profesores están impartiendo clases de matemáticas en el instituto.,plural_complejo,GPT-3.5_fs_multiplication
+Los escritores están firmando autógrafos en la feria del libro.,Las escritoras y los escritores están firmando autógrafos en la feria del libro.,plural_complejo,GPT-3.5_fs_multiplication
+Los artistas están colaborando en una obra de arte comunitaria.,Las y los artistas están colaborando en una obra de arte comunitaria.,plural_complejo,GPT-3.5_fs_multiplication
+Los voluntarios están organizando un evento benéfico para los niños del orfanato.,El voluntariado está organizando actividades para las niñas y niños.,plural_complejo,GPT-3.5_fs_multiplication
+El equipo está compuesto por ingenieros altamente capacitados.,El equipo de ingeniería está compuesto por profesionales altamente capacitados.,plural_complejo,GPT-3.5_fs_multiplication
+Los trabajadores de la fábrica están en huelga por mejores condiciones laborales.,Las trabajadoras y trabajadores de la fábrica están en huelga por mejores condiciones laborales.,plural_complejo,GPT-3.5_fs_multiplication
+Los fotógrafos capturan momentos únicos en sus imágenes.,Los fotógrafos y fotógrafas capturan momentos únicos en sus imágenes.,plural_complejo,GPT-3.5_fs_multiplication
+Los maestros son fundamentales en la educación de nuestros hijos.,El equipo educativo es fundamental en la educación de nuestros hijos.,plural_complejo,GPT-3.5_fs_multiplication
+Los atletas están entrenando duro para la próxima competición.,El equipo deportivo está entrenando duro para la próxima competición.,plural_complejo,GPT-3.5_fs_multiplication
+Las secretarias organizan eficientemente el flujo de trabajo en la oficina.,La secretaría organiza eficientemente el flujo de trabajo en la oficina.,plural_complejo,GPT-3.5_fs_multiplication
+Los científicos están investigando una cura para esta enfermedad.,El equipo de investigación está investigando una cura para esta enfermedad.,plural_complejo,GPT-3.5_fs_multiplication
+Los programadores están desarrollando un nuevo software para la empresa.,Las programadoras y programadores están desarrollando un nuevo software para la empresa.,plural_complejo,GPT-3.5_fs_multiplication
+Los investigadores científicos están haciendo importantes descubrimientos en el laboratorio.,Los investigadores e investigadoras científicas están haciendo importantes descubrimientos en el laboratorio.,plural_complejo,GPT-3.5_fs_multiplication
+Los músicos tocan melodías hermosas en el concierto.,La orquesta toca melodías hermosas en el concierto.,plural_complejo,GPT-3.5_fs_multiplication
+Las Enfermeras y médicos están trabajando en turnos de 24 horas para atender a los pacientes.,El personal sanitario está trabajando en turnos de 24 horas para atender a los pacientes.,plural_complejo,GPT-3.5_fs_multiplication
+Los fotógrafos capturan la inocencia y la alegría de los niños en sus fotografías.,Los fotógrafos y fotógrafas capturan la inocencia y la alegría de los niños y niñas en sus fotografías.,plural_complejo,GPT-3.5_fs_multiplication
+Los representantes de los trabajadores están negociando un aumento salarial con la dirección.,El grupo de representantes de la plantilla está negociando un aumento salarial con la dirección.,plural_complejo,GPT-3.5_fs_multiplication
+Los chefs preparan platos exquisitos en el restaurante de cinco estrellas.,Los y las chefs preparan platos exquisitos en el restaurante de cinco estrellas.,plural_complejo,GPT-3.5_fs_multiplication
+Este proyecto está destinado a niños de todas las edades.,Este proyecto está destinado a niñas y niños de todas las edades.,plural_complejo,GPT-3.5_fs_multiplication
+Los bailarines interpretan con gracia y elegancia cada movimiento.,Los bailarines y las bailarinas interpretan con gracia y elegancia cada movimiento.,plural_complejo,GPT-3.5_fs_multiplication
+Los maestros inspiran a sus alumnos a alcanzar sus sueños.,El equipo docente inspira a sus alumnas y alumnos a alcanzar sus sueños.,plural_complejo,GPT-3.5_fs_multiplication
+Los trabajadores y sus esposas están invitados a la cena de fin de año.,La plantilla y sus familias están invitadas a la cena de fin de año.,plural_complejo,GPT-3.5_fs_multiplication
+Los chilenos están celebrando el día de la independencia con desfiles y fiestas.,La población chilena está celebrando el día de la independencia con desfiles y fiestas.,plural_complejo,GPT-3.5_fs_multiplication
+Los abogados defienden los derechos de sus clientes en el tribunal.,La abogacía defiende los derechos de sus clientes en el tribunal.,plural_complejo,GPT-3.5_fs_multiplication
+Los peluqueros crean peinados modernos y atractivos para sus clientes.,Los peluqueros y peluqueras crea peinados modernos y atractivos para sus clientes.,plural_complejo,GPT-3.5_fs_multiplication
+Los entrenadores deportivos motivan a los atletas a dar lo mejor de sí mismos.,Los entrenadores y entrenadoras motivan a los deportistas a dar lo mejor de sí mismos.,plural_complejo,GPT-3.5_fs_multiplication
+Los científicos políticos analizan las tendencias políticas en el país.,Las científicas y científicos políticos analiza las tendencias políticas en el país.,plural_complejo,GPT-3.5_fs_multiplication
+Los músicos emocionan al público con su talento en el escenario.,El grupo musical emociona al público con su talento en el escenario.,plural_complejo,GPT-3.5_fs_multiplication
+Los chefs cuidan cada detalle en la presentación de sus platos.,Los y las chefs cuidan cada detalle en la presentación de sus platos.,plural_complejo,GPT-3.5_fs_multiplication
+Los trabajadores construyen las bases de nuestra sociedad.,Las trabajadoras y trabajadores construyen las bases de nuestra sociedad.,plural_complejo,GPT-3.5_fs_multiplication
+Los científicos están haciendo importantes avances en la investigación médica.,Las científicas y científicos están haciendo importantes avances en la investigación médica.,plural_complejo,GPT-3.5_fs_multiplication
+Los médicos están tratando a los pacientes con la mayor dedicación.,El personal médico está tratando a las pacientes y los pacientes con la mayor dedicación.,plural_complejo,GPT-3.5_fs_multiplication
+Los veterinarios cuidan la salud y el bienestar de los animales.,Los veterinarios y veterinarias cuidan la salud y el bienestar de los animales.,plural_complejo,GPT-3.5_fs_multiplication
+Los hombres de negocios están buscando nuevas oportunidades en el mercado internacional.,Las mujeres y hombres de negocios están buscando nuevas oportunidades en el mercado internacional.,plural_complejo,GPT-3.5_fs_multiplication
+Los entrenadores deportivos guían a los deportistas hacia la excelencia.,Los entrenadores y entrenadoras deportivas guían a los deportistas hacia la excelencia.,plural_complejo,GPT-3.5_fs_multiplication
+Los redactores están revisando el contenido para asegurar su calidad.,El equipo de redacción está revisando el contenido para asegurar su calidad.,plural_complejo,GPT-3.5_fs_multiplication
+Los empleados son el activo más valioso de nuestra empresa.,El personal trabajador es el activo más valioso de nuestra empresa.,plural_complejo,GPT-3.5_fs_multiplication
+Los investigadores están analizando los datos recopilados en el estudio.,El equipo de investigación está analizando los datos recopilados en el estudio.,plural_complejo,GPT-3.5_fs_multiplication
+Los científicos están investigando una cura para esta enfermedad.,Las científicas y científicos están investigando una cura para esta enfermedad.,plural_complejo,GPT-3.5_fs_multiplication
+A los visitantes se les proporcionará un mapa del parque.,Se les ofrecerá a las visitas un recorrido guiado por el museo.,plural_complejo,GPT-3.5_fs_multiplication
+Se espera que los clientes estén satisfechos con nuestro servicio.,Se espera que la clientela esté satisfecha con nuestro servicio.,plural_complejo,GPT-3.5_fs_multiplication
+Los niños disfrutaron de la obra de teatro en el parque.,Las niñas y niños disfrutaron de la obra de teatro en el parque.,plural_complejo,GPT-3.5_fs_multiplication
+Los participantes deben registrarse antes del evento.,Quienes deseen participar deben registrarse antes del evento.,plural_complejo,GPT-3.5_fs_multiplication
+Los representantes de los trabajadores se reunirán mañana.,El grupo de representantes de la plantilla se reunirá mañana.,plural_complejo,GPT-3.5_fs_multiplication
+Los trabajadores y sus esposas fueron invitados a la fiesta de fin de año.,Toda la plantilla y sus familias fueron invitados a la fiesta de fin de año.,plural_complejo,GPT-3.5_fs_multiplication
+Los veterinarios atendieron a los animales heridos en el incendio.,Los veterinarios y veterinarias atendieron a los animales heridos en el incendio.,plural_complejo,GPT-3.5_fs_multiplication
+Los peluqueros recomiendan un corte de pelo corto para el verano.,Los peluqueros y peluqueras recomiendan un corte de pelo corto para el verano.,plural_complejo,GPT-3.5_fs_multiplication
+Los diseñadores presentaron sus nuevas colecciones en la pasarela.,Las diseñadoras y diseñadores presentaron sus nuevas colecciones en la pasarela.,plural_complejo,GPT-3.5_fs_multiplication
+Los entrenadores motivaron a los jugadores antes del partido.,Los entrenadores y entrenadoras motivaron a los jugadores antes del partido.,plural_complejo,GPT-3.5_fs_multiplication
+Los hombres de negocio discutieron estrategias de marketing.,Las mujeres y hombres de negocios discutieron estrategias de marketing.,plural_complejo,GPT-3.5_fs_multiplication
+Los camareros sirvieron los platos con elegancia en la cena.,Las camareras y camareros sirvieron los platos con elegancia en la cena.,plural_complejo,GPT-3.5_fs_multiplication
+Los cuidadores brindaron atención personalizada a los ancianos.,Los cuidadores y cuidadoras brindaron atención personalizada a los ancianos.,plural_complejo,GPT-3.5_fs_multiplication
+Los abogados defendieron los derechos de sus clientes en el juicio.,La abogacía defendió los derechos de sus clientes en el juicio.,plural_complejo,GPT-3.5_fs_multiplication
+Los lugareños conocen los mejores lugares para comer en la ciudad.,Las personas del lugar conocen los mejores sitios para comer en la ciudad.,plural_complejo,GPT-3.5_fs_multiplication
+Los deudores deben pagar sus deudas antes de la fecha límite.,Las personas que tienen deudas deben pagarlas antes de la fecha límite.,plural_complejo,GPT-3.5_fs_multiplication
+Los delincuentes fueron arrestados por la policía la semana pasada.,Quienes cometieron actos delictivos fueron arrestados por la policía la semana pasada.,plural_complejo,GPT-3.5_fs_multiplication
+Se les ofrecerá a los visitantes un recorrido guiado por el museo.,Se les ofrecerá a las visitas un recorrido guiado por el museo.,plural_complejo,GPT-3.5_fs_multiplication
+Los clientes pueden dejar sus comentarios en nuestro libro de quejas.,Se espera que la clientela esté satisfecha con nuestro servicio.,plural_complejo,GPT-3.5_fs_multiplication
+Los niños están emocionados por la llegada de las vacaciones de verano.,Las niñas y niños están emocionados por la llegada de las vacaciones de verano.,plural_complejo,GPT-3.5_fs_multiplication
+Los participantes deben completar el formulario de inscripción.,Quienes deseen participar deben completar el formulario de inscripción.,plural_complejo,GPT-3.5_fs_multiplication
+Los representantes de los trabajadores negociarán mejores condiciones laborales.,El grupo de representantes de la plantilla negociará mejores condiciones laborales.,plural_complejo,GPT-3.5_fs_multiplication
+Los trabajadores y sus esposas asistirán a la fiesta de Navidad.,La plantilla y sus familias asistirán a la fiesta de Navidad.,plural_complejo,GPT-3.5_fs_multiplication
+Los veterinarios trataron a los animales heridos con cuidado.,Los veterinarios y veterinarias trataron a los animales heridos con cuidado.,plural_complejo,GPT-3.5_fs_multiplication
+Los peluqueros ofrecen servicios de peinado para toda la familia.,Los peluqueros y peluqueras ofrecen servicios de peinado para toda la familia.,plural_complejo,GPT-3.5_fs_multiplication
+Los diseñadores están trabajando en nuevas tendencias para la próxima temporada.,Las diseñadoras y diseñadores están trabajando en nuevas tendencias para la próxima temporada.,plural_complejo,GPT-3.5_fs_multiplication
+Los entrenadores prepararon un plan de entrenamiento intensivo.,Los entrenadores y entrenadoras prepararon un plan de entrenamiento intensivo.,plural_complejo,GPT-3.5_fs_multiplication
+Los hombres de negocio discutieron nuevas oportunidades de inversión.,Las mujeres y hombres de negocios discutieron nuevas oportunidades de inversión.,plural_complejo,GPT-3.5_fs_multiplication
+Los camareros tomaron nota de los pedidos de los clientes.,Las camareras y camareros tomaron nota de los pedidos de la clientela.,plural_complejo,GPT-3.5_fs_multiplication
+Los cuidadores brindaron apoyo emocional a los pacientes enfermos.,El equipo que desempeña las tareas de cuidado brindaron apoyo emocional a los pacientes enfermos.,plural_complejo,GPT-3.5_fs_multiplication
+Los abogados representaron a sus clientes en el tribunal con profesionalismo.,La abogacía representó a sus clientes en el tribunal con profesionalismo.,plural_complejo,GPT-3.5_fs_multiplication
+Los lugareños conocen los secretos mejor guardados del pueblo.,Las personas del lugar conocen los secretos mejor guardados del pueblo.,plural_complejo,GPT-3.5_fs_multiplication
+Los deudores deben cumplir con sus obligaciones financieras.,Quienes tienen deudas deben cumplir con sus obligaciones financieras.,plural_complejo,GPT-3.5_fs_multiplication
+Los delincuentes fueron condenados a prisión por sus crímenes.,Las personas que cometieron los actos delictivos fueron condenados a prisión por sus crímenes.,plural_complejo,GPT-3.5_fs_multiplication
+A los visitantes se les ofrecerá una degustación gratuita de vinos.,A las visitas se les ofrecerá una degustación gratuita de vinos.,plural_complejo,GPT-3.5_fs_multiplication
+Los clientes pueden pagar con tarjeta de crédito o efectivo.,La clientela puede dejar sus comentarios en nuestro libro de quejas.,plural_complejo,GPT-3.5_fs_multiplication
+Los niños se divirtieron en el parque de atracciones.,Las niñas y niños se divirtieron en el parque de atracciones.,plural_complejo,GPT-3.5_fs_multiplication
+Los participantes deben seguir las instrucciones del instructor.,Las personas participantes deben seguir las instrucciones del instructor.,plural_complejo,GPT-3.5_fs_multiplication
+Los representantes de los trabajadores exigieron un aumento salarial.,El grupo de representantes de la plantilla exigió un aumento salarial.,plural_complejo,GPT-3.5_fs_multiplication
+Los trabajadores y sus esposas disfrutaron de la cena de gala.,La plantilla y sus familias disfrutaron de la cena de gala.,plural_complejo,GPT-3.5_fs_multiplication
+Los veterinarios tratan a todo tipo de animales en su clínica.,Los veterinarios y veterinarias tratan a todo tipo de animales en su clínica.,plural_complejo,GPT-3.5_fs_multiplication
+Los peluqueros ofrecen servicios de peinado para ocasiones especiales.,Los peluqueros y peluqueras ofrecen servicios de peinado para ocasiones especiales.,plural_complejo,GPT-3.5_fs_multiplication
+Los diseñadores están explorando nuevas ideas para sus próximas colecciones.,Las diseñadoras y diseñadores están explorando nuevas ideas para sus próximas colecciones.,plural_complejo,GPT-3.5_fs_multiplication
+Los entrenadores están comprometidos con el éxito de sus equipos.,Los entrenadores y entrenadoras están comprometidos con el éxito de sus equipos.,plural_complejo,GPT-3.5_fs_multiplication
+Los hombres de negocio están buscando socios comerciales en el extranjero.,Las mujeres y hombres de negocios están buscando socios comerciales en el extranjero.,plural_complejo,GPT-3.5_fs_multiplication
+Los camareros atendieron todas las mesas con diligencia.,Las camareras y camareros atendieron todas las mesas con diligencia.,plural_complejo,GPT-3.5_fs_multiplication
+Los cuidadores proporcionaron cuidados excepcionales a los pacientes.,Quienes desempeñan tareas de cuidado proporcionaron cuidados excepcionales a los pacientes.,plural_complejo,GPT-3.5_fs_multiplication
+Los abogados lucharon por la justicia en el caso de sus clientes.,La abogacía luchó por la justicia en el caso de sus clientes.,plural_complejo,GPT-3.5_fs_multiplication
+Los lugareños celebraron una fiesta tradicional en el pueblo.,Las personas del lugar celebraron una fiesta tradicional en el pueblo.,plural_complejo,GPT-3.5_fs_multiplication
+Los deudores deben comunicarse con el departamento de cobranzas.,Quienes tengan deudas deben comunicarse con el departamento de cobranzas.,plural_complejo,GPT-3.5_fs_multiplication
+Los delincuentes fueron detenidos por la policía en el aeropuerto.,Las personas que cometieron actos delictivos fueron detenidas por la policía en el aeropuerto.,plural_complejo,GPT-3.5_fs_multiplication
+La junta directiva contó con la participación de los consejeros.,La junta directiva contó con la participación de la consejería.,plural_neutro,GPT-3.5_fs_multiplication
+Los líderes juveniles promovieron la inclusión de los jóvenes en la comunidad.,Los líderes juveniles promovieron la inclusión de la juventud en la comunidad.,plural_neutro,GPT-3.5_fs_multiplication
+Los proyectos vecinales fortalecen el sentido de comunidad entre los vecinos.,Los proyectos vecinales fortalecen el sentido de comunidad en el vecindario.,plural_neutro,GPT-3.5_fs_multiplication
+Los recursos humanos reconocieron el esfuerzo de los empleados.,Los recursos humanos reconocieron el esfuerzo del personal.,plural_neutro,GPT-3.5_fs_multiplication
+El mandato del presidente finaliza el próximo año.,El mandato de la presidencia finaliza el próximo año.,plural_neutro,GPT-3.5_fs_multiplication
+Los estudiantes demostraron su talento en el concurso de ciencias.,El estudiantado demostró su talento en el concurso de ciencias.,plural_neutro,GPT-3.5_fs_multiplication
+Los profesores brindaron apoyo a los estudiantes durante la pandemia.,El profesorado brindó apoyo a los estudiantes durante la pandemia.,plural_neutro,GPT-3.5_fs_multiplication
+Los secretarios manejan la correspondencia con eficiencia.,La secretaría maneja la correspondencia con eficiencia.,plural_neutro,GPT-3.5_fs_multiplication
+Los organizadores del evento están preparando los detalles finales.,La organización del evento está preparando los detalles finales.,plural_neutro,GPT-3.5_fs_multiplication
+Los votantes expresaron su opinión en las elecciones locales.,El electorado expresó su opinión en las elecciones locales.,plural_neutro,GPT-3.5_fs_multiplication
+El intendente anunció nuevas medidas para mejorar la seguridad vial.,La intendencia anunció nuevas medidas para mejorar la seguridad vial.,plural_neutro,GPT-3.5_fs_multiplication
+Los funcionarios públicos trabajan para servir a la comunidad.,El funcionariado público trabaja para servir a la comunidad.,plural_neutro,GPT-3.5_fs_multiplication
+El vicedirector supervisó la implementación del nuevo plan de estudios.,La vicedirección supervisó la implementación del nuevo plan de estudios.,plural_neutro,GPT-3.5_fs_multiplication
+Los coordinadores se encargan de organizar las actividades del equipo.,La coordinación se encarga de organizar las actividades del equipo.,plural_neutro,GPT-3.5_fs_multiplication
+Los representantes sindicales negociaron mejores condiciones laborales.,La representación sindical negoció mejores condiciones laborales.,plural_neutro,GPT-3.5_fs_multiplication
+Los asesores legales recomendaron consultar con un experto.,La asesoría legal recomendó consultar con un experto.,plural_neutro,GPT-3.5_fs_multiplication
+Los alumnos destacaron en la competencia deportiva intercolegial.,El alumnado destacó en la competencia deportiva intercolegial.,plural_neutro,GPT-3.5_fs_multiplication
+El vicepresidente presentó el informe financiero en la conferencia.,La vicepresidencia presentó el informe financiero en la conferencia.,plural_neutro,GPT-3.5_fs_multiplication
+Los ciudadanos ejercieron su derecho al voto en las elecciones.,La ciudadanía ejerció su derecho al voto en las elecciones.,plural_neutro,GPT-3.5_fs_multiplication
+Los directores evaluaron el desempeño del personal administrativo.,La dirección evaluó el desempeño del personal administrativo.,plural_neutro,GPT-3.5_fs_multiplication
+El gobernador anunció inversiones en infraestructura.,El gobierno anunció inversiones en infraestructura.,plural_neutro,GPT-3.5_fs_multiplication
+Los senadores discutieron sobre la ley de medio ambiente.,El Senado discutió sobre la ley de medio ambiente.,plural_neutro,GPT-3.5_fs_multiplication
+Los jefes motivaron al equipo a alcanzar sus metas.,La jefatura motivó al equipo a alcanzar sus metas.,plural_neutro,GPT-3.5_fs_multiplication
+Los ministros trabajan en políticas para combatir el cambio climático.,Los ministerios trabajan en políticas para combatir el cambio climático.,plural_neutro,GPT-3.5_fs_multiplication
+Las secretarias gestionaron las agendas de los directivos.,La secretaría gestionó las agendas de los directivos.,plural_neutro,GPT-3.5_fs_multiplication
+Los delegados participaron en la negociación del tratado comercial.,La delegación participó en la negociación del tratado comercial.,plural_neutro,GPT-3.5_fs_multiplication
+Se convoca a los Coordinadores para una reunión urgente.,Se convoca a la Coordinación para una reunión urgente.,plural_neutro,GPT-3.5_fs_multiplication
+Los diputados presentaron un proyecto de ley para mejorar la educación.,El Congreso presentó un proyecto de ley para mejorar la educación.,plural_neutro,GPT-3.5_fs_multiplication
+Los invitados y sus esposas disfrutaron de la cena de gala.,Los participantes y sus cónyuges disfrutaron de la cena de gala.,plural_neutro,GPT-3.5_fs_multiplication
+El respeto por el hombre es fundamental en cualquier sociedad.,El respeto por el ser humano es fundamental en cualquier sociedad.,plural_neutro,GPT-3.5_fs_multiplication
+Los estudiantes recibieron orientación de los profesores de la universidad.,El estudiantado recibió orientación del profesorado de la universidad.,plural_neutro,GPT-3.5_fs_multiplication
+Se anunciaron nuevas medidas económicas por parte del presidente.,Se anunciaron nuevas medidas económicas por parte de la presidencia.,plural_neutro,GPT-3.5_fs_multiplication
+Los clientes recibieron recomendaciones de los asesores legales.,Los clientes recibieron recomendaciones de la asesoría legal.,plural_neutro,GPT-3.5_fs_multiplication
+La sentencia en el caso de corrupción fue dictada por los jueces.,La sentencia en el caso de corrupción fue dictada por el poder judicial.,plural_neutro,GPT-3.5_fs_multiplication
+"En la oficina, los archivos fueron organizados por las secretarias.","En la oficina, los archivos fueron organizados por la secretaría.",plural_neutro,GPT-3.5_fs_multiplication
+"En la conferencia, se presentó el plan de salud por parte del ministro.","En la conferencia, se presentó el plan de salud por parte del ministerio.",plural_neutro,GPT-3.5_fs_multiplication
+Hubo participación de los jóvenes en actividades deportivas.,Hubo participación de la juventud en actividades deportivas.,plural_neutro,GPT-3.5_fs_multiplication
+El gobernador impulsó la educación en la región.,El gobierno impulsó la educación en la región.,plural_neutro,GPT-3.5_fs_multiplication
+Los directores estuvieron supervisando la implementación del proyecto.,La dirección estuvo supervisando la implementación del proyecto.,plural_neutro,GPT-3.5_fs_multiplication
+Las importantes noticias fueron comunicadas por el director del centro.,Las importantes noticias fueron comunicadas por la dirección del centro.,plural_neutro,GPT-3.5_fs_multiplication
+Los docentes recibieron colaboración estrecha del vicedirector.,El personal docente recibió colaboración estrecha de la vicedirección.,plural_neutro,GPT-3.5_fs_multiplication
+"En el concurso de matemáticas, los alumnos destacaron.","En el concurso de matemáticas, el alumnado destacó.",plural_neutro,GPT-3.5_fs_multiplication
+El informe financiero fue presentado por el vicepresidente.,El informe financiero fue presentado por la vicepresidencia.,plural_neutro,GPT-3.5_fs_multiplication
+Los niños fueron atendidos en el hospital por razones médicas.,Las niñas y niños fueron atendidos en el hospital por razones médicas.,plural_neutro,GPT-3.5_fs_multiplication
+El derecho al voto fue ejercido por los ciudadanos.,El derecho al voto fue ejercido por la ciudadanía.,plural_neutro,GPT-3.5_fs_multiplication
+El equipo fue motivado por los jefes para alcanzar sus metas.,El equipo fue motivado por la jefatura para alcanzar sus metas.,plural_neutro,GPT-3.5_fs_multiplication
+"En el país, hay un aumento en el número de parados.","En el país, hay un aumento en el número de personas desempleadas.",plural_neutro,GPT-3.5_fs_multiplication
+La reforma fiscal fue debatida por los legisladores.,La legislación fue debatida por el Senado.,plural_neutro,GPT-3.5_fs_multiplication
+Un nuevo parque público fue inaugurado por el intendente.,Un nuevo parque público fue inaugurado por la intendencia.,plural_neutro,GPT-3.5_fs_multiplication
+Se implementó un plan de salud por los ministros.,Se implementó un plan de salud por parte de los ministerios.,plural_neutro,GPT-3.5_fs_multiplication
+Los casos de corrupción fueron investigados por los senadores.,Los casos de corrupción fueron investigados por el Senado.,plural_neutro,GPT-3.5_fs_multiplication
+Los esposos acompañaron a los participantes de la conferencia al almuerzo.,Las personas que participaron de la conferencia y sus parejas disfrutaron de la cena.,plural_neutro,GPT-3.5_fs_multiplication
+La gestión de los recursos públicos fue llevada a cabo por los funcionarios.,La gestión de los recursos públicos fue llevada a cabo por el funcionariado.,plural_neutro,GPT-3.5_fs_multiplication
+Los tratados comerciales fueron negociados por los delegados.,Los tratados comerciales fueron negociados por la delegación.,plural_neutro,GPT-3.5_fs_multiplication
+El evento fue organizado con éxito por los coordinadores.,El evento fue organizado con éxito por la coordinación.,plural_neutro,GPT-3.5_fs_multiplication
+Los niños fueron asistidos por profesionales en el hospital.,Las niñas y niños fueron asistidas por profesionales en el hospital.,plural_neutro,GPT-3.5_fs_multiplication
+Los estudiantes universitarios se preparan para los exámenes finales.,El estudiantado se prepara para los exámenes finales.,plural_neutro,GPT-3.5_fs_multiplication
+Se publicó un artículo científico por parte de los profesores universitarios.,Se publicó un artículo científico por parte del estudiantado.,plural_neutro,GPT-3.5_fs_multiplication
+Hubo anuncios de cambios en la dirección por parte del presidente de la compañía.,Hubo anuncios de cambios en la dirección por parte de la presidencia de la compañía.,plural_neutro,GPT-3.5_fs_multiplication
+Los clientes recibieron asistencia por parte de los asesores financieros.,La clientela recibió asistencia por parte de la asesoría financiera.,plural_neutro,GPT-3.5_fs_multiplication
+Las decisiones judiciales fueron basadas en la ley por los jueces.,Las decisiones judiciales fueron basadas en la ley por el poder judicial.,plural_neutro,GPT-3.5_fs_multiplication
+Los visitantes fueron recibidos en la recepción por las secretarias.,Las visitas fueron recibidas en la recepción por la secretaría.,plural_neutro,GPT-3.5_fs_multiplication
+Las leyes fueron promulgadas por el ministro de educación.,Las leyes fueron promulgadas por el ministerio de educación.,plural_neutro,GPT-3.5_fs_multiplication
+Se llevó a cabo una campaña de vacunación por los ministros de salud.,Se llevó a cabo una campaña de vacunación por los ministerios de salud.,plural_neutro,GPT-3.5_fs_multiplication
+La reforma fue aprobada por los senadores.,La reforma fue aprobada por el Senado.,plural_neutro,GPT-3.5_fs_multiplication
+Los participantes de la conferencia y sus parejas disfrutaron de la cena.,Las personas que participaron de la conferencia y sus parejas disfrutaron de la cena.,plural_neutro,GPT-3.5_fs_multiplication
+Los funcionarios públicos trabajaron horas extras para completar el proyecto.,El funcionariado público trabajó horas extras para completar el proyecto.,plural_neutro,GPT-3.5_fs_multiplication
+La cumbre internacional fue asistida por los delegados.,La cumbre internacional fue asistida por la delegación.,plural_neutro,GPT-3.5_fs_multiplication
+La coordinación del evento estuvo a cargo de los coordinadores.,La coordinación del evento estuvo a cargo de las personas coordinadoras.,plural_neutro,GPT-3.5_fs_multiplication
+Los niños disfrutaron de una visita al parque de atracciones.,Las niñas y niños disfrutaron de una visita al parque de atracciones.,plural_neutro,GPT-3.5_fs_multiplication
+Las personas indigentes merecen compasión y apoyo.,Las personas en situación de indigencia merecen compasión y apoyo.,terminologia,GPT-3.5_fs_multiplication
+Los ancianos requieren cuidados especiales para mantener su calidad de vida.,Las personas mayores requieren cuidados especiales para mantener su calidad de vida.,terminologia,GPT-3.5_fs_multiplication
+El cojo caminaba con dificultad debido a su lesión en la pierna.,La persona que cojeaba caminaba con dificultad debido a su lesión en la pierna.,terminologia,GPT-3.5_fs_multiplication
+Las personas discapacitadas necesitan accesibilidad en los espacios públicos.,Las personas con discapacidad física necesitan accesibilidad en los espacios públicos.,terminologia,GPT-3.5_fs_multiplication
+Los drogadictos luchan contra la adicción con valentía.,Las personas con problemas de adicción luchan contra esta con valentía.,terminologia,GPT-3.5_fs_multiplication
+La esquizofrénica recibía tratamiento psiquiátrico para controlar sus síntomas.,La mujer que tiene esquizofrenia recibía tratamiento psiquiátrico para controlar sus síntomas.,terminologia,GPT-3.5_fs_multiplication
+Hermafroditas pueden enfrentar desafíos relacionados con su identidad de género.,Personas intersexuales pueden enfrentar desafíos relacionados con su identidad de género.,terminologia,GPT-3.5_fs_multiplication
+El paralítico se desplazaba en silla de ruedas debido a su discapacidad física.,La persona con discapacidad física se desplazaba en silla de ruedas debido a su discapacidad.,terminologia,GPT-3.5_fs_multiplication
+Los homosexuales luchan por la igualdad de derechos en la sociedad.,Las personas homosexuales luchan por la igualdad de derechos en la sociedad.,terminologia,GPT-3.5_fs_multiplication
+Los países del tercer mundo enfrentan desafíos económicos y sociales.,Los países empobrecidos enfrentan desafíos económicos y sociales.,terminologia,GPT-3.5_fs_multiplication
+Los sin techo necesitan refugio y apoyo para salir de la calle.,Las personas sin hogar necesitan refugio y apoyo para salir de la calle.,terminologia,GPT-3.5_fs_multiplication
+El esquizofrénico recibía terapia para manejar sus episodios psicóticos.,El hombre que tiene esquizofrenia recibía terapia para manejar sus episodios psicóticos.,terminologia,GPT-3.5_fs_multiplication
+Los mendigos dependen de la caridad pública para sobrevivir en la calle.,Las personas en situación de calle dependen de la caridad pública para sobrevivir.,terminologia,GPT-3.5_fs_multiplication
+Los prisioneros cumplen condena en centros penitenciarios.,Las personas que están presas cumplen condena en centros penitenciarios.,terminologia,GPT-3.5_fs_multiplication
+Los países tercermundistas requieren ayuda internacional para su desarrollo.,Los países empobrecidos requieren ayuda internacional para su desarrollo.,terminologia,GPT-3.5_fs_multiplication
+El cambio de sexo es un proceso personal y significativo para muchas personas.,La transición de género es un proceso personal y significativo para muchas personas.,terminologia,GPT-3.5_fs_multiplication
+Los gitanos enfrentan discriminación étnica en algunas sociedades.,El pueblo gitano enfrenta discriminación étnica en algunas sociedades.,terminologia,GPT-3.5_fs_multiplication
+La desempleada buscaba activamente trabajo para sustentar a su familia.,La mujer que estaba desempleada buscaba activamente trabajo para sustentar a su familia.,terminologia,GPT-3.5_fs_multiplication
+El manco adaptaba su vida diaria a su discapacidad física.,La persona con discapacidad física adaptaba su vida diaria a su discapacidad.,terminologia,GPT-3.5_fs_multiplication
+Los sordos utilizan el lenguaje de señas para comunicarse.,Las personas sordas utilizan el lenguaje de señas para comunicarse.,terminologia,GPT-3.5_fs_multiplication
+La coja necesitaba ayuda para movilizarse debido a su dificultad para caminar.,La mujer con movilidad reducida necesitaba ayuda para movilizarse debido a su dificultad para caminar.,terminologia,GPT-3.5_fs_multiplication
+Los autistas tienen habilidades y talentos únicos.,Las personas con autismo tienen habilidades y talentos únicos.,terminologia,GPT-3.5_fs_multiplication
+El deudor negociaba con el banco para refinanciar su préstamo.,La persona deudora negociaba con el banco para refinanciar su préstamo.,terminologia,GPT-3.5_fs_multiplication
+Los criminales deben enfrentar las consecuencias de sus acciones.,Las personas que cometen crímenes deben enfrentar las consecuencias de sus acciones.,terminologia,GPT-3.5_fs_multiplication
+Los musulmanes practican su religión en comunidades diversas.,Las personas musulmanas practican su religión en comunidades diversas.,terminologia,GPT-3.5_fs_multiplication
+La deudora estaba preocupada por su deuda acumulada.,La persona deudora estaba preocupada por su deuda acumulada.,terminologia,GPT-3.5_fs_multiplication
+Los niños hiperactivos requieren un enfoque educativo especializado.,Los niños y niñas con Trastorno por Déficit de Atención e Hiperactividad requieren un enfoque educativo especializado.,terminologia,GPT-3.5_fs_multiplication
+Los padres son modelos a seguir para sus hijos.,La familia es fundamental en la educación y crianza de los hijos.,terminologia,GPT-3.5_fs_multiplication
+Las lesbianas luchan por el reconocimiento de sus derechos en la sociedad.,Las mujeres lesbianas luchan por el reconocimiento de sus derechos en la sociedad.,terminologia,GPT-3.5_fs_multiplication
+Las personas que sufren Síndrome de Down merecen inclusión y respeto.,Las personas que tienen Síndrome de Down merecen inclusión y respeto.,terminologia,GPT-3.5_fs_multiplication
+Los minusválidos necesitan adaptaciones para vivir de forma independiente.,Las personas con discapacidad necesitan adaptaciones para vivir de forma independiente.,terminologia,GPT-3.5_fs_multiplication
+Los alcohólicos buscan ayuda para superar su adicción.,Las personas con problemas de alcoholismo buscan ayuda para superar su adicción.,terminologia,GPT-3.5_fs_multiplication
+Los migrantes buscan una vida mejor en otro país.,Las personas migrantes buscan una vida mejor en otro país.,terminologia,GPT-3.5_fs_multiplication
+Los delincuentes enfrentan sanciones legales por sus actos.,Las personas que cometen delitos enfrentan sanciones legales por sus actos.,terminologia,GPT-3.5_fs_multiplication
+Los inmigrantes contribuyen al enriquecimiento cultural de su país de acogida.,Las personas inmigrantes contribuyen al enriquecimiento cultural de su país de acogida.,terminologia,GPT-3.5_fs_multiplication
+La paralítica necesitaba asistencia para realizar tareas cotidianas.,La persona con movilidad reducida necesitaba asistencia para realizar tareas cotidianas.,terminologia,GPT-3.5_fs_multiplication
+Los padres tienen la responsabilidad de criar y educar a sus hijos.,Las madres y los padres son responsables de criar y educar a sus hijos.,terminologia,GPT-3.5_fs_multiplication
+La comunidad transexual lucha por la igualdad de derechos.,La comunidad de personas transexuales lucha por la igualdad de derechos.,terminologia,GPT-3.5_fs_multiplication
+Los transexuales merecen respeto y apoyo en su transición de género.,Las personas transexuales merecen respeto y apoyo en su transición de género.,terminologia,GPT-3.5_fs_multiplication
+Las dificultades económicas afectan especialmente a los pobres.,Las dificultades económicas afectan especialmente a las personas en situación de pobreza.,terminologia,GPT-3.5_fs_multiplication
+La manca aprendió a hacer muchas cosas con una sola mano.,La persona con movilidad reducida aprendió a hacer muchas cosas con una sola mano.,terminologia,GPT-3.5_fs_multiplication
+Los mendigos buscan refugio en los rincones de la ciudad.,Las personas que viven en situación de calle buscan refugio en los rincones de la ciudad.,terminologia,GPT-3.5_fs_multiplication
+Los deudores deben cumplir con sus compromisos financieros.,Quienes tienen deudas deben cumplir con sus compromisos financieros.,terminologia,GPT-3.5_fs_multiplication
+Los refugiados huyen de la guerra en busca de seguridad.,Las personas refugiadas huyen de la guerra en busca de seguridad.,terminologia,GPT-3.5_fs_multiplication
+Los inmigrantes ilegales cruzan la frontera en busca de una vida mejor.,Las personas inmigrantes en situación irregular cruzan la frontera en busca de una vida mejor.,terminologia,GPT-3.5_fs_multiplication
+Los desempleados enfrentan grandes dificultades para encontrar trabajo.,Las personas en situación de desempleo enfrentan grandes dificultades para encontrar trabajo.,terminologia,GPT-3.5_fs_multiplication
+El enfermo mental necesita apoyo y comprensión de su entorno.,El hombre con trastorno de salud mental necesita apoyo y comprensión de su entorno.,terminologia,GPT-3.5_fs_multiplication
+Los negros enfrentan discriminación racial en muchas sociedades.,Las personas negras enfrentan discriminación racial en muchas sociedades.,terminologia,GPT-3.5_fs_multiplication
+No permitieron que el cojo participara en la competencia.,No permitieron que el hombre con discapacidad física participara en la competencia.,terminologia,GPT-3.5_fs_multiplication
+La coja camina con dificultad debido a su discapacidad.,La persona con movilidad reducida camina con dificultad debido a su discapacidad.,terminologia,GPT-3.5_fs_multiplication
+El esquizofrénico experimenta episodios de alucinaciones.,El hombre diagnóstico de esquizofrenia experimenta episodios de alucinaciones.,terminologia,GPT-3.5_fs_multiplication
+Los criminales deben ser llevados ante la justicia por sus acciones.,Quienes cometen actos delictivos deben ser llevadas ante la justicia por sus acciones.,terminologia,GPT-3.5_fs_multiplication
+Los hermafroditas nacen con características sexuales ambiguas.,Las personas intersexuales nacen con características sexuales ambiguas.,terminologia,GPT-3.5_fs_multiplication
+Los sordomudos utilizan lenguaje de señas para comunicarse.,Las personas sordomudas utilizan lenguaje de señas para comunicarse.,terminologia,GPT-3.5_fs_multiplication
+La enferma mental necesita tratamiento y apoyo emocional.,La persona con enfermedad mental necesita tratamiento y apoyo emocional.,terminologia,GPT-3.5_fs_multiplication
+Los mendigos piden limosna en las esquinas de la calle.,Las personas que piden limosna se encuentran en las esquinas de la calle.,terminologia,GPT-3.5_fs_multiplication
+Los deudores deben saldar sus deudas para evitar problemas financieros.,Quienes adeudan deben saldar sus deudas para evitar problemas financieros.,terminologia,GPT-3.5_fs_multiplication
+El cambio de sexo es un proceso complejo y personal.,La transición de género es un proceso complejo y personal.,terminologia,GPT-3.5_fs_multiplication
+Los ciegos utilizan bastones para desplazarse con seguridad.,Las personas ciegas utilizan bastones para desplazarse con seguridad.,terminologia,GPT-3.5_fs_multiplication
+Los autistas tienen dificultades para comunicarse y socializar.,Las personas con trastorno del espectro autista tienen dificultades para comunicarse y socializar.,terminologia,GPT-3.5_fs_multiplication
+Las personas que sufren Síndrome de Down necesitan apoyo especializado.,Las personas que presentan Síndrome de Down necesitan apoyo especializado.,terminologia,GPT-3.5_fs_multiplication
+Los gordos enfrentan estigmatización y discriminación por su peso.,Las personas con sobrepeso u obesidad enfrentan estigmatización y discriminación por su peso.,terminologia,GPT-3.5_fs_multiplication
+Los inmigrantes ilegales cruzan la frontera en busca de oportunidades.,Las personas extranjeras en situación administrativa irregular cruzan la frontera en busca de oportunidades.,terminologia,GPT-3.5_fs_multiplication
+Los enfermos mentales necesitan tratamiento y apoyo emocional.,Las personas con enfermedades mentales necesitan tratamiento y apoyo emocional.,terminologia,GPT-3.5_fs_multiplication
+Los ancianos merecen respeto y cuidados en su vejez.,Las personas de la tercera edad merecen respeto y cuidados en su vejez.,terminologia,GPT-3.5_fs_multiplication

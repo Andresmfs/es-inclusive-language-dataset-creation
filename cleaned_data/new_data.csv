@@ -1,0 +1,315 @@
+gender_exclusive,gender_inclusive,origin,difficulty
+La música y la danza de los vascos reflejan su rica cultura,La música y la danza vasca reflejan su rica cultura,GPT-3.5_fewshot,culturas
+La gastronomía y el folclore de los andaluces son famosos en todo el país,La gastronomía y el folclore andaluz son famosos en todo el país,GPT-3.5_fewshot,culturas
+La literatura y la poesía de los catalanes han dejado una huella duradera en la historia,La literatura y la poesía catalana han dejado una huella duradera en la historia,GPT-3.5_fewshot,culturas
+Las festividades y las ceremonias de los japoneses reflejan su profundo respeto por la naturaleza,Las festividades y las ceremonias japonesas reflejan su profundo respeto por la naturaleza,GPT-3.5_fewshot,culturas
+La gastronomía y la música de los cubanos son conocidas en todo el mundo por su sabor y ritmo,La gastronomía y la música cubanas son conocidas en todo el mundo por su sabor y ritmo,GPT-3.5_fewshot,culturas
+La arquitectura y el arte de los egipcios muestran la grandeza de su civilización antigua,La arquitectura y el arte egipcios muestran la grandeza de su civilización antigua,GPT-3.5_fewshot,culturas
+La moda y el diseño de los italianos son reconocidos por su elegancia y estilo,La moda y el diseño italianos son reconocidos por su elegancia y estilo,GPT-3.5_fewshot,culturas
+La espiritualidad y las prácticas religiosas de los hindúes son variadas y profundamente arraigadas en su cultura,La espiritualidad y las prácticas religiosas hindúes son variadas y profundamente arraigadas en su cultura,GPT-3.5_fewshot,culturas
+La arquitectura antigua de los griegos es fascinante,La arquitectura antigua griega es fascinante,GPT-3.5_fewshot,culturas
+Los platos típicos de los mexicanos son muy sabrosos,Los platos típicos mexicanos son muy sabrosos,GPT-3.5_fewshot,culturas
+La música popular de los brasileros es muy diversa,La música popular brasileña es muy diversa,GPT-3.5_fewshot,culturas
+La literatura clásica de los italianos es reconocida a nivel mundial,La literatura clásica italiana es reconocida a nivel mundial,GPT-3.5_fewshot,culturas
+Los bailes tradicionales de los argentinos son muy animados,Los bailes tradicionales argentinos son muy animados,GPT-3.5_fewshot,culturas
+La moda contemporánea de los franceses es muy influyente,La moda contemporánea francesa es muy influyente,GPT-3.5_fewshot,culturas
+Las festividades religiosas de los filipinos son muy coloridas,Las festividades religiosas filipinas son muy coloridas,GPT-3.5_fewshot,culturas
+Los deportes populares de los españoles son muy emocionantes,Los deportes populares españoles son muy emocionantes,GPT-3.5_fewshot,culturas
+La arquitectura moderna de los japoneses es impresionante,La arquitectura moderna japonesa es impresionante,GPT-3.5_fewshot,culturas
+Los rituales ceremoniales de los indígenas son muy significativos,Los rituales ceremoniales indígenas son muy significativos,GPT-3.5_fewshot,culturas
+La moda y el diseño de los parisinos son vanguardistas y sofisticados,La moda y el diseño parisino son vanguardistas y sofisticados,GPT-3.5_fewshot,culturas
+La agricultura y la ganadería de los argentinos son fundamentales para su economía,La agricultura y la ganadería argentina son fundamentales para su economía,GPT-3.5_fewshot,culturas
+La tecnología y la innovación de los coreanos son líderes en el mercado global,La tecnología y la innovación coreana son líderes en el mercado global,GPT-3.5_fewshot,culturas
+La arquitectura de los madrileños refleja su historia diversa,La arquitectura madrileña refleja su historia diversa,GPT-3.5_fewshot,culturas
+La artesanía de los canarios es muy colorida y variada,La artesanía canaria es muy colorida y variada,GPT-3.5_fewshot,culturas
+El clima mediterráneo de los valencianos favorece la agricultura,El clima mediterráneo valenciano favorece la agricultura,GPT-3.5_fewshot,culturas
+La literatura de los extremeños es rica en folclore,La literatura extremeña es rica en folclore,GPT-3.5_fewshot,culturas
+Los trajes típicos de las aragonesas son elegantes y detallados,Los trajes típicos aragoneses son elegantes y detallados,GPT-3.5_fewshot,culturas
+Las festividades de los castellanos son muy celebradas en todo el país,Las festividades castellanas son muy celebradas en todo el país,GPT-3.5_fewshot,culturas
+El paisaje montañoso de los asturianos es impresionante,El paisaje montañoso asturiano es impresionante,GPT-3.5_fewshot,culturas
+Los bomberos combaten incendios,El personal de bomberos combate incendios,GPT-3.5_fewshot,plural_complejo
+Los médicos salvan vidas,El personal médico salva vidas,GPT-3.5_fewshot,plural_complejo
+Los ingenieros diseñan puentes,El equipo de ingeniería diseña puentes,GPT-3.5_fewshot,plural_complejo
+Los abogados defienden a sus clientes,Los profesionales del derecho defienden a sus clientes,GPT-3.5_fewshot,plural_complejo
+Los músicos tocan instrumentos,El grupo musical toca instrumentos,GPT-3.5_fewshot,plural_complejo
+Los escritores escriben novelas,Los y las escritoras escriben novelas,GPT-3.5_fewshot,plural_complejo
+la madre de Gonzalo es ingeniera,la madre de Gonzalo es ingeniera,human_combinatory,feminizar_profesiones
+la prima de Marina es médico,la prima de Marina es médica,human_combinatory,feminizar_profesiones
+la mujer de mi abuelo era abogado,la mujer de mi abuelo era abogada,human_combinatory,feminizar_profesiones
+Lorena trabaja de gerente,Lorena trabaja de gerente,human_combinatory,feminizar_profesiones
+la mujer de mi amigo está trabajando de programador,la mujer de mi amigo está trabajando de programadora,human_combinatory,feminizar_profesiones
+la amiga de mi prima trabaja de contador,la amiga de mi prima trabaja de contable,human_combinatory,feminizar_profesiones
+Raquel es administrador,Raquel es administradora,human_combinatory,feminizar_profesiones
+Alejandra está trabajando de policía,Alejandra está trabajando de policía,human_combinatory,feminizar_profesiones
+Adriana es ejecutivo de ventas,Adriana es ejecutiva de ventas,human_combinatory,feminizar_profesiones
+la cuñada de Isabel está trabajando de electricista,la cuñada de Isabel está trabajando de electricista,human_combinatory,feminizar_profesiones
+la tía de mi cuñada Sofía está trabajando de mecánico,la tía de mi cuñada Sofía está trabajando de mecánica,human_combinatory,feminizar_profesiones
+Diana está trabajando de carpintero,Diana está trabajando de carpintera,human_combinatory,feminizar_profesiones
+la novia de Roberto es fontanero,la novia de Roberto es fontanera,human_combinatory,feminizar_profesiones
+mi abuela es chef,mi abuela es chef,human_combinatory,feminizar_profesiones
+la tía de Ángel trabaja de periodista,la tía de Ángel trabaja de periodista,human_combinatory,feminizar_profesiones
+la hermana de Andrés era fotógrafo,la hermana de Andrés era fotógrafa,human_combinatory,feminizar_profesiones
+la tía de mi amiga es bombero,la tía de mi amiga es bombera,human_combinatory,feminizar_profesiones
+Eva era actor,Eva era actriz,human_combinatory,feminizar_profesiones
+la hermana de Lidia es muy buena cantante,la hermana de Lidia es muy buena cantante,human_combinatory,feminizar_profesiones
+Rosa es una gran escritor,Rosa es una gran escritora,human_combinatory,feminizar_profesiones
+la cuñada de mi primo es muy buena artista plástico,la cuñada de mi primo es muy buena artista plástica,human_combinatory,feminizar_profesiones
+la madre de Pablo es una gran economista,la madre de Pablo es una gran economista,human_combinatory,feminizar_profesiones
+Clara era una fantástica piloto,Clara era una fantástica piloto,human_combinatory,feminizar_profesiones
+Nerea era una fantástica farmacéutica,Nerea era una fantástica farmacéutica,human_combinatory,feminizar_profesiones
+la prima de Miguel es muy buena ingeniero civil,la prima de Miguel es muy buena ingeniera civil,human_combinatory,feminizar_profesiones
+Eva era una fantástica arquitecto,Eva era una fantástica arquitecta,human_combinatory,feminizar_profesiones
+Inés es una gran diseñador gráfico,Inés es una gran diseñadora gráfica,human_combinatory,feminizar_profesiones
+la madre de mi amigo es una gran técnico de sistemas,la madre de mi amigo es una gran técnica de sistemas,human_combinatory,feminizar_profesiones
+la madre de Diego es muy buena psicólogo,la madre de Diego es muy buena psicóloga,human_combinatory,feminizar_profesiones
+la tía de mi madre es muy buena abogado,la tía de mi madre es muy buena abogada,human_combinatory,feminizar_profesiones
+Lidia era una fantástica vendedor,Lidia era una fantástica vendedora,human_combinatory,feminizar_profesiones
+la hermana de Patricia es muy buena entrenador,la hermana de Patricia es muy buena entrenadora,human_combinatory,feminizar_profesiones
+la madre de Juan es una gran investigador,la madre de Juan es una gran investigadora,human_combinatory,feminizar_profesiones
+la cuñada de Inés es una gran analista financiero,la cuñada de Inés es una gran analista financiera,human_combinatory,feminizar_profesiones
+la mujer de David es muy buena consultor,la mujer de David es muy buena consultora,human_combinatory,feminizar_profesiones
+la hermana de Daniel es muy buena recepcionista,la hermana de Daniel es muy buena recepcionista,human_combinatory,feminizar_profesiones
+la hermana de Emilio era una soldador fantástica,la hermana de Emilio era una soldadora fantástica,human_combinatory,feminizar_profesiones
+mi novia era una soldado fantástica,mi novia era una soldado fantástica,human_combinatory,feminizar_profesiones
+la prima de mi cuñado Juan era una conductor de autobús estupenda,la prima de mi cuñado Juan era una conductora de autobús estupenda,human_combinatory,feminizar_profesiones
+la amiga de mi prima es una conductor de camión fantástica,la amiga de mi prima es una conductora de camión fantástica,human_combinatory,feminizar_profesiones
+la cuñada de mi abuelo era una científico bastante mala,la cuñada de mi abuelo era una científica bastante mala,human_combinatory,feminizar_profesiones
+Carmen es una asistente administrativo bastante mala,Carmen es una asistente administrativa bastante mala,human_combinatory,feminizar_profesiones
+la novia de mi cuñada es una asistente social bastante mala,la novia de mi cuñada es una asistente social bastante mala,human_combinatory,feminizar_profesiones
+la cuñada de mi marido es una asesor financiero buenísima,la cuñada de mi marido es una asesora financiera buenísima,human_combinatory,feminizar_profesiones
+mi hermana era una médico de familia buenísima,mi hermana era una médica de familia buenísima,human_combinatory,feminizar_profesiones
+la prima de mi marido era una dentista estupenda,la prima de mi marido era una dentista estupenda,human_combinatory,feminizar_profesiones
+la prima de Silvia es una veterinario estupenda,la prima de Silvia es una veterinaria estupenda,human_combinatory,feminizar_profesiones
+la tía de mi novia es una científico de datos fantástica,la tía de mi novia es una científica de datos fantástica,human_combinatory,feminizar_profesiones
+la tía de Adriana era una instructor de fitness estupenda,la tía de Adriana era una instructora de fitness estupenda,human_combinatory,feminizar_profesiones
+la cuñada de Eva era una profesor bastante mala,la cuñada de Eva era una profesora bastante mala,human_combinatory,feminizar_profesiones
+Laura era una enfermero muy buena,Laura era una enfermera muy buena,human_combinatory,feminizar_profesiones
+la cuñada de mi hermana Elena es una secretario malísima,la cuñada de mi hermana Elena es una secretaria malísima,human_combinatory,feminizar_profesiones
+la amiga de mi abuelo Antonio es una asistente administrativo estupenda,la amiga de mi abuelo Antonio es una asistente administrativa estupenda,human_combinatory,feminizar_profesiones
+mi cuñada era una asistente social bastante mala,mi cuñada era una asistente social bastante mala,human_combinatory,feminizar_profesiones
+Desde el amanecer  Ana era muy buena recepcionista,Desde el amanecer  Ana era muy buena recepcionista,human_combinatory,feminizar_profesiones
+"A pesar de su juventud,  la mujer de Alejandro era muy buena maestra","A pesar de su juventud,  la mujer de Alejandro era muy buena maestra",human_combinatory,feminizar_profesiones
+Desde el inicio de su carrera  la novia de Carmen trabajaba de asistente ejecutivo,Desde el inicio de su carrera  la novia de Carmen trabajaba de asistente ejecutiva,human_combinatory,feminizar_profesiones
+Desde temprana edad  la cuñada de mi mujer Elena trabajaba de psicóloga,Desde temprana edad  la cuñada de mi mujer Elena trabajaba de psicóloga,human_combinatory,feminizar_profesiones
+"Desde que se mudó a la ciudad,  la novia de Fernando era abogado","Desde que se mudó a la ciudad,  la novia de Fernando era abogada",human_combinatory,feminizar_profesiones
+Durante años  mi amiga era contadora,Durante años  mi amiga era contadora,human_combinatory,feminizar_profesiones
+En la oficina  la novia de mi padre era una fantástica administrador,En la oficina  la novia de mi padre era una fantástica administradora,human_combinatory,feminizar_profesiones
+"Desde la primera vez que pisó una obra,  la hermana de Carolina era cajero","Desde la primera vez que pisó una obra,  la hermana de Carolina era cajera",human_combinatory,feminizar_profesiones
+"Desde la adolescencia,  la cuñada de mi hermano Miguel trabajaba de vendedor","Desde la adolescencia,  la cuñada de mi hermano Miguel trabajaba de vendedora",human_combinatory,feminizar_profesiones
+Con experiencia previa  la prima de Elena era muy buena cocinero,Con experiencia previa  la prima de Elena era muy buena cocinera,human_combinatory,feminizar_profesiones
+Durante la semana  la mujer de mi padre Carlos era una gran esteticista,Durante la semana  la mujer de mi padre Carlos era una gran esteticista,human_combinatory,feminizar_profesiones
+"Con conocimientos sólidos,  mi mujer era una gran peluquero","Con conocimientos sólidos,  mi mujer era una gran peluquera",human_combinatory,feminizar_profesiones
+Desde muy temprano  la hermana de Raúl trabajaba de médico,Desde muy temprano  la hermana de Raúl trabajaba de médica,human_combinatory,feminizar_profesiones
+En la oficina  la hermana de Ismael era dentista,En la oficina  la hermana de Ismael era dentista,human_combinatory,feminizar_profesiones
+Con experiencia previa  la mujer de Tomás era muy buena veterinario,Con experiencia previa  la mujer de Tomás era muy buena veterinaria,human_combinatory,feminizar_profesiones
+"A pesar de su juventud,  la cuñada de Francisco solía trabajar de diseñador gráfico","A pesar de su juventud,  la cuñada de Francisco solía trabajar de diseñadora gráfica",human_combinatory,feminizar_profesiones
+Con compromiso profesional  la hermana de Hugo solía trabajar de artista plástico,Con compromiso profesional  la hermana de Hugo solía trabajar de artista plástica,human_combinatory,feminizar_profesiones
+Con experiencia previa  la cuñada de mi madre era muy buena escritor,Con experiencia previa  la cuñada de mi madre era muy buena escritora,human_combinatory,feminizar_profesiones
+Después de mucho esfuerzo  Cristina era una gran periodista y dijo que quería ser artista plástico,Después de mucho esfuerzo  Cristina era una gran periodista y dijo que quería ser artista plástica,human_combinatory,feminizar_profesiones
+Con el apoyo de su familia  Marina solía trabajar de actriz y soñaba con ser entrenador,Con el apoyo de su familia  Marina solía trabajar de actriz y soñaba con ser entrenadora,human_combinatory,feminizar_profesiones
+Después de mucho esfuerzo  Beatriz solía trabajar de modelo aunque desde hace poco es artista plástica,Después de mucho esfuerzo  Beatriz solía trabajar de modelo aunque desde hace poco es artista plástica,human_combinatory,feminizar_profesiones
+En su puesto de trabajo  la madre de mi hermana solía trabajar de cantante y dijo que quería ser chef,En su puesto de trabajo  la madre de mi hermana solía trabajar de cantante y dijo que quería ser chef,human_combinatory,feminizar_profesiones
+Con experiencia previa  la mujer de Laura era una gran bailarina pero ahora es mecánico,Con experiencia previa  la mujer de Laura era una gran bailarina pero ahora es mecánica,human_combinatory,feminizar_profesiones
+Desde el inicio de su carrera  la prima de mi novia era muy buena director de marketing y ahora se dedica trabajar como diseñadora gráfica,Desde el inicio de su carrera  la prima de mi novia era muy buena directora de marketing y ahora se dedica trabajar como diseñadora gráfica,human_combinatory,feminizar_profesiones
+"Con habilidades excepcionales,  Luisa era ejecutivo de ventas y ahora se dedica trabajar como fotógrafo","Con habilidades excepcionales,  Luisa era ejecutiva de ventas y ahora se dedica trabajar como fotógrafa",human_combinatory,feminizar_profesiones
+Después de graduarse  la novia de mi mujer solía trabajar de consultor aunque desde hace poco es administradora,Después de graduarse  la novia de mi mujer solía trabajar de consultora aunque desde hace poco es administradora,human_combinatory,feminizar_profesiones
+Con meticulosidad  la madre de mi abuela Luisa trabajaba de entrenador aunque le hubiera gustado ser analista financiero,Con meticulosidad  la madre de mi abuela Luisa trabajaba de coach aunque le hubiera gustado ser analista financiera,human_combinatory,feminizar_profesiones
+"Con entrega total,  la mujer de Pedro era nutricionista pero ahora es conductora de autobús","Con entrega total,  la mujer de Pedro era nutricionista pero ahora es conductora de autobús",human_combinatory,feminizar_profesiones
+En la oficina  la novia de mi hermano trabajaba de entrenador personal pero ahora es contable,En la oficina  la novia de mi hermano trabajaba de entrenadora personal pero ahora es contable,human_combinatory,feminizar_profesiones
+Con el apoyo de su familia  la madre de Víctor era psiquiatra y soñaba con ser entrenador,Con el apoyo de su familia  la madre de Víctor era psiquiatra y soñaba con ser entrenadora,human_combinatory,feminizar_profesiones
+Con pasión por su profesión  la amiga de mi abuela era ingeniero y soñaba con ser actor,Con pasión por su profesión  la amiga de mi abuela era ingeniera y soñaba con ser actriz,human_combinatory,feminizar_profesiones
+Desde que comenzó a trabajar  la mujer de Teresa era una gran arquitecto aunque desde hace poco es investigadora,Desde que comenzó a trabajar  la mujer de Teresa era una gran arquitecta aunque desde hace poco es investigadora,human_combinatory,feminizar_profesiones
+Al terminar la universidad  la novia de Josué era una fantástica diseñador de moda aunque desde hace poco es carpintera,Al terminar la universidad  la novia de Josué era una fantástica diseñadora de moda aunque desde hace poco es carpintera,human_combinatory,feminizar_profesiones
+Con compromiso profesional  la prima de mi cuñada trabajaba de ingeniero de software pero ahora es abogado,Con compromiso profesional  la prima de mi cuñada trabajaba de ingeniera de software pero ahora es abogada,human_combinatory,feminizar_profesiones
+Desde la mañana hasta la noche  la amiga de Ana era desarrolladora web sin embargo desde el mes pasado trabaja de cantante,Desde la mañana hasta la noche  la amiga de Ana era desarrolladora web sin embargo desde el mes pasado trabaja de cantante,human_combinatory,feminizar_profesiones
+"Desde la primera vez que pisó una obra,  mi novia era una fantástica investigador sin embargo desde el mes pasado trabaja de consultor","Desde la primera vez que pisó una obra,  mi novia era una fantástica investigadora sin embargo desde el mes pasado trabaja de consultora",human_combinatory,feminizar_profesiones
+la novia de Sergio trabaja de científico y dedica tiempo a la escritura y la creación de poesía.,la novia de Sergio trabaja de científica y dedica tiempo a la escritura y la creación de poesía.,human_combinatory,feminizar_profesiones
+la prima de Andrea está trabajando de instructor de yoga y asiste a clases de cocina para aprender nuevas recetas.,la prima de Andrea está trabajando de instructora de yoga y asiste a clases de cocina para aprender nuevas recetas.,human_combinatory,feminizar_profesiones
+la prima de Manuel trabaja de fotógrafo y toca el piano y compone sus propias melodías.,la prima de Manuel trabaja de fotógrafa y toca el piano y compone sus propias melodías.,human_combinatory,feminizar_profesiones
+Marta es piloto y participa en clases de baile para divertirse.,Marta es piloto y participa en clases de baile para divertirse.,human_combinatory,feminizar_profesiones
+la prima de Jorge era ingeniero civil y practica actividades de mindfulness como la yoga y la meditación.,la prima de Jorge era ingeniera civil y practica actividades de mindfulness como la yoga y la meditación.,human_combinatory,feminizar_profesiones
+la cuñada de mi marido Miguel era marina y se involucra en la protección y rescate de animales.,la cuñada de mi marido Miguel era marina y se involucra en la protección y rescate de animales.,human_combinatory,feminizar_profesiones
+la prima de mi tío Juan es astronauta y colabora con organizaciones ambientales en la protección del medio ambiente.,la prima de mi tío Juan es astronauta y colabora con organizaciones ambientales en la protección del medio ambiente.,human_combinatory,feminizar_profesiones
+la mujer de Rafael es oficial de policía y visita museos y galerías de arte para inspirarse.,la mujer de Rafael es oficial de policía y visita museos y galerías de arte para inspirarse.,human_combinatory,feminizar_profesiones
+la tía de Rosa es bombera y practica la meditación y la atención plena para encontrar calma interior.,la tía de Rosa es bombera y practica la meditación y la atención plena para encontrar calma interior.,human_combinatory,feminizar_profesiones
+la hermana de Fernando era ingeniero y aprende un nuevo idioma en línea.,la hermana de Fernando era ingeniera y aprende un nuevo idioma en línea.,human_combinatory,feminizar_profesiones
+Natalia trabaja de médico y se reúne con colegas para jugar al ajedrez.,Natalia trabaja de médica y se reúne con colegas para jugar al ajedrez.,human_combinatory,feminizar_profesiones
+mi tía es abogado y se sumerge en la lectura de libros de filosofía.,mi tía es abogada y se sumerge en la lectura de libros de filosofía.,human_combinatory,feminizar_profesiones
+mi tía era gerente y aprende a tocar un nuevo instrumento musical.,mi tía era gerente y aprende a tocar un nuevo instrumento musical.,human_combinatory,feminizar_profesiones
+la hermana de Mario era programador y disfruta de largas caminatas por el campo.,la hermana de Mario era programadora y disfruta de largas caminatas por el campo.,human_combinatory,feminizar_profesiones
+la amiga de mi hermana trabaja de contador y aprende un nuevo idioma en línea.,la amiga de mi hermana trabaja de contable y aprende un nuevo idioma en línea.,human_combinatory,feminizar_profesiones
+Rocío es administrador y practica yoga para relajarse y mantenerse en forma.,Rocío es administradora y practica yoga para relajarse y mantenerse en forma.,human_combinatory,feminizar_profesiones
+la cuñada de mi tía es policía y se reúne con colegas para jugar al ajedrez.,la cuñada de mi tía es policía y se reúne con colegas para jugar al ajedrez.,human_combinatory,feminizar_profesiones
+Carolina es ejecutivo de ventas y realiza actividades de voluntariado en refugios de animales.,Carolina es ejecutiva de ventas y realiza actividades de voluntariado en refugios de animales.,human_combinatory,feminizar_profesiones
+la madre de Nerea era una electricista malísima y se involucra en proyectos de reforestación y conservación del medio ambiente.,la madre de Nerea era una electricista malísima y se involucra en proyectos de reforestación y conservación del medio ambiente.,human_combinatory,feminizar_profesiones
+la hermana de Clara es una mecánico muy buena y se une a grupos de música o coros para cantar y hacer música.,la hermana de Clara es una mecánica muy buena y se une a grupos de música o coros para cantar y hacer música.,human_combinatory,feminizar_profesiones
+Victoria era una carpintero malísima y se une a grupos de lectura para discutir y compartir libros favoritos.,Victoria era una carpintera malísima y se une a grupos de lectura para discutir y compartir libros favoritos.,human_combinatory,feminizar_profesiones
+la cuñada de Alejandra era una fontanero muy buena y disfruta de largas caminatas por el campo.,la cuñada de Alejandra era una fontanera muy buena y disfruta de largas caminatas por el campo.,human_combinatory,feminizar_profesiones
+la amiga de Carlos es una chef buenísima y participa en talleres de arte y manualidades para adultos.,la amiga de Carlos es una chef buenísima y participa en talleres de arte y manualidades para adultos.,human_combinatory,feminizar_profesiones
+la prima de José es una periodista malísima y realiza actividades de observación de aves y vida silvestre.,la prima de José es una periodista malísima y realiza actividades de observación de aves y vida silvestre.,human_combinatory,feminizar_profesiones
+la mujer de Raquel es una fotógrafo fantástica y organiza eventos benéficos para su comunidad.,la mujer de Raquel es una fotógrafa fantástica y organiza eventos benéficos para su comunidad.,human_combinatory,feminizar_profesiones
+la prima de mi novio es una bombero malísima y organiza reuniones literarias para discutir libros con amigos.,la prima de mi novio es una bombera malísima y organiza reuniones literarias para discutir libros con amigos.,human_combinatory,feminizar_profesiones
+Elena era una actor buenísima y participa en grupos de debate y discusión sobre temas de actualidad.,Elena era una actriz buenísima y participa en grupos de debate y discusión sobre temas de actualidad.,human_combinatory,feminizar_profesiones
+mi amiga es una cantante bastante mala y practica actividades de mindfulness como la yoga y la meditación.,mi amiga es una cantante bastante mala y practica actividades de mindfulness como la yoga y la meditación.,human_combinatory,feminizar_profesiones
+la novia de mi tía Isabel era una escritor buenísima y practica yoga para relajarse y mantenerse en forma.,la novia de mi tía Isabel era una escritora buenísima y practica yoga para relajarse y mantenerse en forma.,human_combinatory,feminizar_profesiones
+la madre de mi novio era una artista plástico bastante buena y disfruta haciendo manualidades y artesanías.,la madre de mi novio era una artista plástica bastante buena y disfruta haciendo manualidades y artesanías.,human_combinatory,feminizar_profesiones
+la cuñada de Rubén es una economista estupenda y aprende técnicas de cocina gourmet y realiza cenas especiales en casa.,la cuñada de Rubén es una economista estupenda y aprende técnicas de cocina gourmet y realiza cenas especiales en casa.,human_combinatory,feminizar_profesiones
+la mujer de Simón era una piloto muy buena y disfruta haciendo manualidades y artesanías.,la mujer de Simón era una piloto muy buena y disfruta haciendo manualidades y artesanías.,human_combinatory,feminizar_profesiones
+la hermana de Miriam era una farmacéutico muy buena y se dedica a la costura y confección de sus propias prendas de vestir.,la hermana de Miriam era una farmacéutica muy buena y se dedica a la costura y confección de sus propias prendas de vestir.,human_combinatory,feminizar_profesiones
+la novia de Luisa era una ingeniera civil estupenda y organiza reuniones literarias para discutir libros con amigos.,la novia de Luisa era una ingeniera civil estupenda y organiza reuniones literarias para discutir libros con amigos.,human_combinatory,feminizar_profesiones
+la mujer de Antonio es una arquitecto muy buena y asiste a conciertos y recitales de música en vivo.,la mujer de Antonio es una arquitecta muy buena y asiste a conciertos y recitales de música en vivo.,human_combinatory,feminizar_profesiones
+la novia de Javier es una diseñador gráfico buenísima y realiza actividades de observación de aves y vida silvestre.,la novia de Javier es una diseñadora gráfica buenísima y realiza actividades de observación de aves y vida silvestre.,human_combinatory,feminizar_profesiones
+"Con conocimientos sólidos,  la prima de Alicia era una técnico de sistemas malísima","Con conocimientos sólidos,  la prima de Alicia era una técnica de sistemas malísima",human_combinatory,feminizar_profesiones
+"Desde la primera vez que pisó una obra,  mi madre es una psicólogo malísima","Desde la primera vez que pisó una obra,  mi madre es una psicóloga malísima",human_combinatory,feminizar_profesiones
+En su tiempo libre  la cuñada de Rocío es una abogado bastante buena,En su tiempo libre  la cuñada de Rocío es una abogada bastante buena,human_combinatory,feminizar_profesiones
+Con pasión por su profesión  Patricia era una vendedor bastante mala,Con pasión por su profesión  Patricia era una vendedora bastante mala,human_combinatory,feminizar_profesiones
+Desde muy temprano  la novia de Diana era una entrenador estupenda,Desde muy temprano  la novia de Diana era una entrenadora estupenda,human_combinatory,feminizar_profesiones
+Desde que comenzó a trabajar  la amiga de Eva es una investigador fantástica,Desde que comenzó a trabajar  la amiga de Eva es una investigadora fantástica,human_combinatory,feminizar_profesiones
+Desde temprana edad  Andrea es una analista financiero buenísima,Desde temprana edad  Andrea es una analista financiera buenísima,human_combinatory,feminizar_profesiones
+Desde el amanecer  la novia de Paula era una consultor bastante buena,Desde el amanecer  la novia de Paula era una consultora bastante buena,human_combinatory,feminizar_profesiones
+Durante años  la novia de Luis es una recepcionista malísima,Durante años  la novia de Luis es una recepcionista malísima,human_combinatory,feminizar_profesiones
+"Desde que se especializó en su área,  la madre de mi madre Luisa era una soldador fantástica","Desde que se especializó en su área,  la madre de mi madre Luisa era una soldadora fantástica",human_combinatory,feminizar_profesiones
+"A pesar de su juventud,  la hermana de Ignacio es una soldado bastante mala","A pesar de su juventud,  la hermana de Ignacio es una soldado bastante mala",human_combinatory,feminizar_profesiones
+Cada mañana  la tía de mi primo es una conductor de autobús bastante mala,Cada mañana  la tía de mi primo es una conductora de autobús bastante mala,human_combinatory,feminizar_profesiones
+"Desde la primera vez que pisó una obra,  Teresa era una conductor de camión malísima","Desde la primera vez que pisó una obra,  Teresa era una conductora de camión malísima",human_combinatory,feminizar_profesiones
+Con gran dedicación  la hermana de mi primo Pedro es una científico bastante mala,Con gran dedicación  la hermana de mi primo Pedro es una científica bastante mala,human_combinatory,feminizar_profesiones
+"Desde que se mudó a la ciudad,  Sara es una asistente administrativa estupenda","Desde que se mudó a la ciudad,  Sara es una asistente administrativa estupenda",human_combinatory,feminizar_profesiones
+Desde el inicio de su carrera  la amiga de mi novia Lucía era una asistente social fantástica,Desde el inicio de su carrera  la amiga de mi novia Lucía era una asistente social fantástica,human_combinatory,feminizar_profesiones
+Durante años  Paula es una asesor financiero bastante buena,Durante años  Paula es una asesora financiera bastante buena,human_combinatory,feminizar_profesiones
+Con compromiso profesional  Sofía era una médico de familia malísima,Con compromiso profesional  Sofía era una médica de familia malísima,human_combinatory,feminizar_profesiones
+"Con gran vocación,  la hermana de mi novio Pedro era una gran dentista aunque desde hace poco es escritor y cuida de su jardín y cultiva hermosas flores.","Con gran vocación,  la hermana de mi novio Pedro era una gran dentista aunque desde hace poco es escritora y cuida de su jardín y cultiva hermosas flores.",human_combinatory,feminizar_profesiones
+Desde el inicio de su carrera  la mujer de Lorena era una fantástica veterinario aunque desde hace poco es diseñador gráfico y visita museos y exposiciones de arte.,Desde el inicio de su carrera  la mujer de Lorena era una fantástica veterinaria aunque desde hace poco es diseñadora gráfica y visita museos y exposiciones de arte.,human_combinatory,feminizar_profesiones
+Con dedicación sin igual  la mujer de mi tía era muy buena científico de datos aunque desde hace poco es técnico de sistemas y realiza actividades de voluntariado en refugios de animales.,Con dedicación sin igual  la mujer de mi tía era muy buena científica de datos aunque desde hace poco es técnica de sistemas y realiza actividades de voluntariado en refugios de animales.,human_combinatory,feminizar_profesiones
+"Durante los días laborales,  la tía de Cristina trabajaba de instructor de fitness aunque desde hace poco es abogado y se dedica a pintar paisajes en su estudio.","Durante los días laborales,  la tía de Cristina trabajaba de instructora de fitness aunque desde hace poco es abogada y se dedica a pintar paisajes en su estudio.",human_combinatory,feminizar_profesiones
+"Con habilidades excepcionales,  Silvia era una fantástica profesor pero ahora es fotógrafo y se involucra en la protección y rescate de animales.","Con habilidades excepcionales,  Silvia era una fantástica profesora pero ahora es fotógrafa y se involucra en la protección y rescate de animales.",human_combinatory,feminizar_profesiones
+Con dedicación sin igual  la novia de mi amigo Manuel era muy buena enfermero y dijo que quería ser técnica de sistemas y visita regularmente el teatro para disfrutar de obras de teatro.,Con dedicación sin igual  la novia de mi amigo Manuel era muy buena enfermera y dijo que quería ser técnica de sistemas y visita regularmente el teatro para disfrutar de obras de teatro.,human_combinatory,feminizar_profesiones
+Desde el inicio de su carrera  mi prima era secretario y dijo que quería ser diseñadora gráfica y dedica tiempo a la escritura de poesía.,Desde el inicio de su carrera  mi prima era secretaria y dijo que quería ser diseñadora gráfica y dedica tiempo a la escritura de poesía.,human_combinatory,feminizar_profesiones
+"Desde hace décadas,  la tía de Sofía era una gran asistente administrativo sin embargo desde el mes pasado trabaja de vendedora y realiza actividades de voluntariado en refugios de animales.","Desde hace décadas,  la tía de Sofía era una gran asistente administrativa sin embargo desde el mes pasado trabaja de vendedora y realiza actividades de voluntariado en refugios de animales.",human_combinatory,feminizar_profesiones
+Con pasión por su profesión  la amiga de Sara era muy buena asistente social y dijo que quería ser actor y visita museos y galerías de arte para inspirarse.,Con pasión por su profesión  la amiga de Sara era muy buena asistente social y dijo que quería ser actriz y visita museos y galerías de arte para inspirarse.,human_combinatory,feminizar_profesiones
+Durante la temporada alta  mi madre era una gran recepcionista sin embargo desde el mes pasado trabaja de economista y practica la meditación y la atención plena para encontrar calma interior.,Durante la temporada alta  mi madre era una gran recepcionista sin embargo desde el mes pasado trabaja de economista y practica la meditación y la atención plena para encontrar calma interior.,human_combinatory,feminizar_profesiones
+Después de graduarse  María trabajaba de maestro aunque le hubiera gustado ser administrador y participa en programas de mentoría para ayudar a jóvenes talentos.,Después de graduarse  María trabajaba de maestra aunque le hubiera gustado ser administradora y participa en programas de mentoría para ayudar a jóvenes talentos.,human_combinatory,feminizar_profesiones
+Durante la semana  la prima de Victoria solía trabajar de asistente ejecutivo y soñaba con ser fontanero y se reúne con colegas para jugar al ajedrez.,Durante la semana  la prima de Victoria solía trabajar de asistente ejecutiva y soñaba con ser fontanera y se reúne con colegas para jugar al ajedrez.,human_combinatory,feminizar_profesiones
+"Con perseverancia,  la prima de Gabriel solía trabajar de psicóloga aunque desde hace poco es soldador y visita regularmente el teatro para disfrutar de obras de teatro.","Con perseverancia,  la prima de Gabriel solía trabajar de psicóloga aunque desde hace poco es soldadora y visita regularmente el teatro para disfrutar de obras de teatro.",human_combinatory,feminizar_profesiones
+Con entusiasmo  Miriam solía trabajar de abogado pero ahora es ejecutivo de ventas y se involucra en la protección y rescate de animales.,Con entusiasmo  Miriam solía trabajar de abogada pero ahora es ejecutiva de ventas y se involucra en la protección y rescate de animales.,human_combinatory,feminizar_profesiones
+Con gran dedicación  Lucía era una fantástica contable aunque le hubiera gustado ser gerente y colabora con organizaciones ambientales en la protección del medio ambiente.,Con gran dedicación  Lucía era una fantástica contadora aunque le hubiera gustado ser gerente y colabora con organizaciones ambientales en la protección del medio ambiente.,human_combinatory,feminizar_profesiones
+En su puesto de trabajo  la cuñada de mi abuela era administrador y dijo que quería ser chef y practica la meditación y la atención plena para encontrar calma interior.,En su puesto de trabajo  la cuñada de mi abuela era administradora y dijo que quería ser chef y practica la meditación y la atención plena para encontrar calma interior.,human_combinatory,feminizar_profesiones
+Tras obtener su título  la madre de mi hermano era una gran cajera y ahora se dedica trabajar como bombero y participa en proyectos de arte comunitario en su vecindario.,Tras obtener su título  la madre de mi hermano era una gran cajera y ahora se dedica trabajar como bombera y participa en proyectos de arte comunitario en su vecindario.,human_combinatory,feminizar_profesiones
+Con pasión por su profesión  la tía de mi mujer solía trabajar de vendedora y soñaba con ser actor y se sumerge en la lectura de libros de filosofía.,Con pasión por su profesión  la tía de mi mujer solía trabajar de vendedora y soñaba con ser actriz y se sumerge en la lectura de libros de filosofía.,human_combinatory,feminizar_profesiones
+Desde el inicio de su carrera mi abuela era una gran cocinero,Desde el inicio de su carrera mi abuela era una gran cocinera,human_combinatory,feminizar_profesiones
+Con pasión por su profesión Alicia era esteticista,Con pasión por su profesión Alicia era esteticista,human_combinatory,feminizar_profesiones
+"Con gran vocación, Isabel trabajaba de peluquero","Con gran vocación, Isabel trabajaba de peluquera",human_combinatory,feminizar_profesiones
+"Con gran vocación, la amiga de Natalia era muy buena médico","Con gran vocación, la amiga de Natalia era muy buena médica",human_combinatory,feminizar_profesiones
+En la oficina la amiga de mi padre trabajaba de dentista,En la oficina la amiga de mi padre trabajaba de dentista,human_combinatory,feminizar_profesiones
+"Desde la primera vez que pisó una obra, mi hermana era muy buena veterinario","Desde la primera vez que pisó una obra, mi hermana era muy buena veterinaria",human_combinatory,feminizar_profesiones
+Con experiencia previa la novia de María era una fantástica diseñador gráfico,Con experiencia previa la novia de María era una fantástica diseñadora gráfica,human_combinatory,feminizar_profesiones
+Al terminar la universidad mi cuñada trabajaba de artista plástico,Al terminar la universidad mi cuñada trabajaba de artista plástica,human_combinatory,feminizar_profesiones
+"Desde la llegada de la primavera, la madre de Lucía solía trabajar de escritora","Desde la llegada de la primavera, la madre de Lucía solía trabajar de escritora",human_combinatory,feminizar_profesiones
+Durante la temporada alta la madre de Alberto trabajaba de periodista,Durante la temporada alta la madre de Alberto trabajaba de periodista,human_combinatory,feminizar_profesiones
+Desde que comenzó a trabajar la tía de mi cuñado trabajaba de actor,Desde que comenzó a trabajar la tía de mi cuñado trabajaba de actriz,human_combinatory,feminizar_profesiones
+"Desde que se mudó a la ciudad, la tía de mi amiga era una fantástica modelo","Desde que se mudó a la ciudad, la tía de mi amiga era una fantástica modelo",human_combinatory,feminizar_profesiones
+Con dedicación sin igual la hermana de Beatriz era una gran cantante,Con dedicación sin igual la hermana de Beatriz era una gran cantante,human_combinatory,feminizar_profesiones
+Desde el inicio de su carrera mi prima era bailarín,Desde el inicio de su carrera mi prima era bailarina,human_combinatory,feminizar_profesiones
+Desde el amanecer la tía de mi tío era director de marketing,Desde el amanecer la tía de mi tío era directora de marketing,human_combinatory,feminizar_profesiones
+Desde muy temprano la hermana de mi amiga Ana era muy buena ejecutivo de ventas,Desde muy temprano la hermana de mi amiga Ana era muy buena ejecutiva de ventas,human_combinatory,feminizar_profesiones
+Durante la temporada alta la amiga de Marta era una fantástica consultor,Durante la temporada alta la amiga de Marta era una fantástica consultora,human_combinatory,feminizar_profesiones
+"Con perseverancia, mi mujer solía trabajar de entrenador","Con perseverancia, mi mujer solía trabajar de coach",human_combinatory,feminizar_profesiones
+Con pasión por su profesión la mujer de mi prima Laura era una fantástica nutricionista,Con pasión por su profesión la mujer de mi prima Laura era una fantástica nutricionista,human_combinatory,feminizar_profesiones
+Con compromiso profesional la tía de Joaquín trabajaba de entrenador personal,Con compromiso profesional la tía de Joaquín trabajaba de entrenadora personal,human_combinatory,feminizar_profesiones
+Con el apoyo de su familia la mujer de Ricardo solía trabajar de psiquiatra,Con el apoyo de su familia la mujer de Ricardo solía trabajar de psiquiatra,human_combinatory,feminizar_profesiones
+Después de mucho esfuerzo  el marido de Sergio era un ingeniero buenísimo,Después de mucho esfuerzo  el marido de Sergio era un ingeniero buenísimo,human_combinatory,feminizar_profesiones
+"Con gran vocación, el primo de Alberto era médico","Con gran vocación, el primo de Alberto era médico",human_combinatory,feminizar_profesiones
+Con dedicación sin igual  mi tío era un fantástico abogado y soñaba con ser ingeniero y disfruta haciendo manualidades y artesanías.,Con dedicación sin igual  mi tío era un fantástico abogado y soñaba con ser ingeniero y disfruta haciendo manualidades y artesanías.,human_combinatory,feminizar_profesiones
+mi amigo es un gerente buenísimo y aprende técnicas de cocina gourmet y realiza cenas especiales en casa.,mi amigo es un gerente buenísimo y aprende técnicas de cocina gourmet y realiza cenas especiales en casa.,human_combinatory,feminizar_profesiones
+el marido de Cristina trabaja de programador y disfruta haciendo manualidades y artesanías.,el marido de Cristina trabaja de programador y disfruta haciendo manualidades y artesanías.,human_combinatory,feminizar_profesiones
+Durante años  el tío de Antonio solía trabajar de contador,Durante años  el tío de Antonio solía trabajar de contador,human_combinatory,feminizar_profesiones
+el tío de Raquel está trabajando de administrador,el tío de Raquel está trabajando de administrador,human_combinatory,feminizar_profesiones
+Javier es un gran policía,Javier es un gran policía,human_combinatory,feminizar_profesiones
+el tío de Nerea es muy buen ejecutivo de ventas,el tío de Nerea es muy buen ejecutivo de ventas,human_combinatory,feminizar_profesiones
+Durante años  el tío de Nerea es un ejecutivo de ventas bastante bueno,Durante años  el tío de Nerea es un ejecutivo de ventas bastante bueno,human_combinatory,feminizar_profesiones
+Cada mañana el amigo de mi cuñada es electricista,Cada mañana el amigo de mi cuñada es electricista,human_combinatory,feminizar_profesiones
+"Durante los días laborales,  el cuñado de mi abuela era un gran mecánico y dijo que quería ser médico y visita regularmente el teatro para disfrutar de obras de teatro.","Durante los días laborales,  el cuñado de mi abuela era un gran mecánico y dijo que quería ser médico y visita regularmente el teatro para disfrutar de obras de teatro.",human_combinatory,feminizar_profesiones
+el tío de Lorena es un carpintero bastante bueno y realiza actividades de meditación y mindfulness para relajarse.,el tío de Lorena es un carpintero bastante bueno y realiza actividades de meditación y mindfulness para relajarse.,human_combinatory,feminizar_profesiones
+el primo de Luis trabaja de fontanero y visita museos y exposiciones de arte.,el primo de Luis trabaja de fontanero y visita museos y exposiciones de arte.,human_combinatory,feminizar_profesiones
+"Desde que se especializó en su área,  el padre de mi prima Luisa era chef","Desde que se especializó en su área,  el padre de mi prima Luisa era chef",human_combinatory,feminizar_profesiones
+Alejandro es periodista,Alejandro es periodista,human_combinatory,feminizar_profesiones
+Pedro es un gran fotógrafo,Pedro es un gran fotógrafo,human_combinatory,feminizar_profesiones
+Rafael es muy buen bombero,Rafael es muy buen bombero,human_combinatory,feminizar_profesiones
+"Con habilidades excepcionales,  Rafael era un bombero estupendo","Con habilidades excepcionales,  Rafael era un bombero estupendo",human_combinatory,feminizar_profesiones
+Al terminar la universidad el amigo de mi amiga está trabajando de actor,Al terminar la universidad el amigo de mi amiga está trabajando de actor,human_combinatory,feminizar_profesiones
+Al terminar la universidad  el tío de Juan solía trabajar de cantante aunque le hubiera gustado ser médico y explora la naturaleza haciendo camping y senderismo.,Al terminar la universidad  el tío de Juan solía trabajar de cantante aunque le hubiera gustado ser médico y explora la naturaleza haciendo camping y senderismo.,human_combinatory,feminizar_profesiones
+el novio de Marina es un escritor bastante malo y cuida de su jardín y cultiva hermosas flores.,el novio de Marina es un escritor bastante malo y cuida de su jardín y cultiva hermosas flores.,human_combinatory,feminizar_profesiones
+el cuñado de mi hermano Miguel trabaja de artista plástico y se une a grupos de música o coros para cantar y hacer música.,el cuñado de mi hermano Miguel trabaja de artista plástico y se une a grupos de música o coros para cantar y hacer música.,human_combinatory,feminizar_profesiones
+"Con habilidades excepcionales,  el tío de Eva era un fantástico economista","Con habilidades excepcionales,  el tío de Eva era un fantástico economista",human_combinatory,feminizar_profesiones
+el primo de mi amiga María era piloto,el primo de mi amiga María era piloto,human_combinatory,feminizar_profesiones
+el amigo de Alejandra es un gran farmacéutico,el amigo de Alejandra es un gran farmacéutico,human_combinatory,feminizar_profesiones
+mi novio es un gran ingeniero civil,mi novio es un gran ingeniero civil,human_combinatory,feminizar_profesiones
+Con experiencia previa  mi novio es un ingeniero civil estupendo,Con experiencia previa  mi novio es un ingeniero civil estupendo,human_combinatory,feminizar_profesiones
+Desde el amanecer el tío de Rafael trabaja de arquitecto,Desde el amanecer el tío de Rafael trabaja de arquitecto,human_combinatory,feminizar_profesiones
+En la oficina  Daniel era diseñador gráfico aunque le hubiera gustado ser ingeniero y participa en actividades de rescate y ayuda en situaciones de emergencia.,En la oficina  Daniel era diseñador gráfico aunque le hubiera gustado ser ingeniero y participa en actividades de rescate y ayuda en situaciones de emergencia.,human_combinatory,feminizar_profesiones
+Pablo era un técnico de sistemas malísimo y aprende nuevas habilidades de idiomas a través de cursos en línea.,Pablo era un técnico de sistemas malísimo y aprende nuevas habilidades de idiomas a través de cursos en línea.,human_combinatory,feminizar_profesiones
+el tío de Pedro trabaja de psicólogo y se dedica a la costura y confección de sus propias prendas de vestir.,el tío de Pedro trabaja de psicólogo y se dedica a la costura y confección de sus propias prendas de vestir.,human_combinatory,feminizar_profesiones
+Durante la semana  mi abuelo era un fantástico abogado,Durante la semana  mi abuelo era un fantástico abogado,human_combinatory,feminizar_profesiones
+David es vendedor,David es vendedor,human_combinatory,feminizar_profesiones
+el novio de mi prima es muy buen entrenador,el novio de mi prima es muy buen entrenador,human_combinatory,feminizar_profesiones
+el padre de mi primo Luis es un gran investigador,el padre de mi primo Luis es un gran investigador,human_combinatory,feminizar_profesiones
+Desde muy temprano  el padre de mi primo Luis era un investigador bastante malo,Desde muy temprano  el padre de mi primo Luis era un investigador bastante malo,human_combinatory,feminizar_profesiones
+"A pesar de su juventud, el novio de Teresa está trabajando de analista financiero","A pesar de su juventud, el novio de Teresa está trabajando de analista financiero",human_combinatory,feminizar_profesiones
+Desde el amanecer  mi cuñado era un gran consultor y soñaba con ser médico y dedica tiempo a la escritura y la creación de poesía.,Desde el amanecer  mi cuñado era un gran consultor y soñaba con ser médico y dedica tiempo a la escritura y la creación de poesía.,human_combinatory,feminizar_profesiones
+el primo de Manuel era un recepcionista fantástico y se dedica a la jardinería y cultiva su propio huerto.,el primo de Manuel era un recepcionista fantástico y se dedica a la jardinería y cultiva su propio huerto.,human_combinatory,feminizar_profesiones
+el marido de mi abuelo era soldador y practica yoga para relajarse y mantenerse en forma.,el marido de mi abuelo era soldador y practica yoga para relajarse y mantenerse en forma.,human_combinatory,feminizar_profesiones
+"Con habilidades excepcionales,  Andrés era un gran soldado","Con habilidades excepcionales,  Andrés era un gran soldado",human_combinatory,feminizar_profesiones
+Juan es conductor de autobús,Juan es conductor de autobús,human_combinatory,feminizar_profesiones
+el tío de David es muy buen conductor de camión,el tío de David es muy buen conductor de camión,human_combinatory,feminizar_profesiones
+el marido de José es un gran científico,el marido de José es un gran científico,human_combinatory,feminizar_profesiones
+Tras obtener su título  el marido de José es un científico fantástico,Tras obtener su título  el marido de José es un científico fantástico,human_combinatory,feminizar_profesiones
+Cada mañana el hermano de Miguel está trabajando de asistente administrativo,Cada mañana el hermano de Miguel está trabajando de asistente administrativo,human_combinatory,feminizar_profesiones
+Después de graduarse  el cuñado de mi madre Elena era un gran asistente social aunque le hubiera gustado ser médico y colabora con organizaciones ambientales en la protección del medio ambiente.,Después de graduarse  el cuñado de mi madre Elena era un gran asistente social aunque le hubiera gustado ser médico y colabora con organizaciones ambientales en la protección del medio ambiente.,human_combinatory,feminizar_profesiones
+el primo de Andrés era un asesor financiero bastante malo y realiza viajes en bicicleta para descubrir nuevos lugares.,el primo de Andrés era un asesor financiero bastante malo y realiza viajes en bicicleta para descubrir nuevos lugares.,human_combinatory,feminizar_profesiones
+el cuñado de mi amigo está trabajando de médico de familia y se dedica a la fotografía y captura momentos especiales.,el cuñado de mi amigo está trabajando de médico de familia y se dedica a la fotografía y captura momentos especiales.,human_combinatory,feminizar_profesiones
+Desde el inicio de su carrera  el novio de Fernando era un fantástico dentista,Desde el inicio de su carrera  el novio de Fernando era un fantástico dentista,human_combinatory,feminizar_profesiones
+el tío de Javier trabaja de veterinario,el tío de Javier trabaja de veterinario,human_combinatory,feminizar_profesiones
+el tío de mi padre es un gran científico de datos,el tío de mi padre es un gran científico de datos,human_combinatory,feminizar_profesiones
+el tío de Andrea es muy buen instructor de fitness,el tío de Andrea es muy buen instructor de fitness,human_combinatory,feminizar_profesiones
+"Desde la llegada de la primavera,  el tío de Andrea era un instructor de fitness bastante bueno","Desde la llegada de la primavera,  el tío de Andrea era un instructor de fitness bastante bueno",human_combinatory,feminizar_profesiones
+Con dedicación sin igual Mario era profesor,Con dedicación sin igual Mario era profesor,human_combinatory,feminizar_profesiones
+En la oficina  el hermano de Carlos era enfermero aunque desde hace poco es médico y asiste a eventos culturales como festivales de cine y teatro.,En la oficina  el hermano de Carlos era enfermero aunque desde hace poco es médico y asiste a eventos culturales como festivales de cine y teatro.,human_combinatory,feminizar_profesiones
+mi hermano era un secretario fantástico y realiza actividades de voluntariado en refugios de animales.,mi hermano era un secretario fantástico y realiza actividades de voluntariado en refugios de animales.,human_combinatory,feminizar_profesiones
+el marido de Rocío era asistente administrativo y organiza viajes de voluntariado para ayudar a comunidades necesitadas.,el marido de Rocío era asistente administrativo y organiza viajes de voluntariado para ayudar a comunidades necesitadas.,human_combinatory,feminizar_profesiones
+Con meticulosidad  el novio de mi abuela Isabel era asistente social,Con meticulosidad  el novio de mi abuela Isabel era asistente social,human_combinatory,feminizar_profesiones
+el hermano de mi primo está trabajando de recepcionista,el hermano de mi primo está trabajando de recepcionista,human_combinatory,feminizar_profesiones
+el padre de Mario es un gran maestro,el padre de Mario es un gran maestro,human_combinatory,feminizar_profesiones
+el amigo de mi tía Lucía es un gran asistente ejecutivo,el amigo de mi tía Lucía es un gran asistente ejecutivo,human_combinatory,feminizar_profesiones
+La música y danzas de los argentinos son muy alegres,La música y danzas argentinas son muy alegres,GPT-3.5_fewshot,culturas
+Los festivales y celebraciones de las brasileñas son muy coloridos,Los festivales y celebraciones brasileñas son muy coloridos,GPT-3.5_fewshot,culturas
+Las artes culinarias y la gastronomía de los franceses son reconocidas internacionalmente,Las artes culinarias y la gastronomía francesas son reconocidas internacionalmente,GPT-3.5_fewshot,culturas
+La arquitectura y el arte urbano de los italianos son impresionantes,La arquitectura y el arte urbano italianos son impresionantes,GPT-3.5_fewshot,culturas
+Los paisajes y la naturaleza de las canadienses son increíbles,Los paisajes y la naturaleza canadienses son increíbles,GPT-3.5_fewshot,culturas
+La literatura y la poesía de los españoles son muy apreciadas en todo el mundo,La literatura y la poesía españolas son muy apreciadas en todo el mundo,GPT-3.5_fewshot,culturas
+Los deportes y juegos de las japonesas son una parte importante de su cultura,Los deportes y juegos japoneses son una parte importante de su cultura,GPT-3.5_fewshot,culturas
+La moda y el diseño de los parisinos marcan tendencia en la industria,La moda y el diseño parisinos marcan tendencia en la industria,GPT-3.5_fewshot,culturas
+Las tradiciones y festividades de las hindúes son llenas de color y alegría,Las tradiciones y festividades hindúes son llenas de color y alegría,GPT-3.5_fewshot,culturas
+La filosofía y el pensamiento de los griegos han influido profundamente en la historia,La filosofía y el pensamiento griegos han influido profundamente en la historia,GPT-3.5_fewshot,culturas
+Los avances tecnológicos y la innovación de las estadounidenses son notables,Los avances tecnológicos y la innovación estadounidenses son notables,GPT-3.5_fewshot,culturas
+La música y las danzas de las africanas son muy diversas y llenas de ritmo,La música y las danzas africanas son muy diversas y llenas de ritmo,GPT-3.5_fewshot,culturas
+Las tradiciones y costumbres de los tailandeses reflejan su rica historia y cultura,Las tradiciones y costumbres tailandesas reflejan su rica historia y cultura,GPT-3.5_fewshot,culturas
+Los valores y la ética de las suecas promueven la igualdad y el bienestar,Los valores y la ética suecos promueven la igualdad y el bienestar,GPT-3.5_fewshot,culturas
+La gastronomía y los sabores de las peruanas son reconocidos como algunos de los mejores del mundo,La gastronomía y los sabores peruanos son reconocidos como algunos de los mejores del mundo,GPT-3.5_fewshot,culturas
+Los paisajes y la naturaleza de las noruegas son impresionantes en su belleza,Los paisajes y la naturaleza noruegas son impresionantes en su belleza,GPT-3.5_fewshot,culturas
+La arquitectura y el arte urbano de los argentinos son una expresión única de su identidad,La arquitectura y el arte urbano argentinos son una expresión única de su identidad,GPT-3.5_fewshot,culturas
+Los festivales y las celebraciones de las colombianas son vibrantes y llenos de energía,Los festivales y las celebraciones colombianas son vibrantes y llenos de energía,GPT-3.5_fewshot,culturas
+La literatura y la poesía de las chilenas reflejan su diversidad cultural y geográfica,La literatura y la poesía chilenas reflejan su diversidad cultural y geográfica,GPT-3.5_fewshot,culturas
+Los avances tecnológicos y la innovación de las surcoreanas son destacados a nivel mundial,Los avances tecnológicos y la innovación surcoreanas son destacados a nivel mundial,GPT-3.5_fewshot,culturas
+Los hábitos y tradiciones de los mexicanos están arraigados en su historia,Los hábitos y tradiciones mexicanas están arraigados en su historia,GPT-3.5_fewshot,culturas
+Las costumbres y la religión de las indias son parte fundamental de su identidad,Las costumbres y la religión indias son parte fundamental de su identidad,GPT-3.5_fewshot,culturas
+Los paisajes y la naturaleza de las australianas son impresionantes en su diversidad,Los paisajes y la naturaleza australianas son impresionantes en su diversidad,GPT-3.5_fewshot,culturas
+La gastronomía y los sabores de los italianos son reconocidos a nivel mundial,La gastronomía y los sabores italianos son reconocidos a nivel mundial,GPT-3.5_fewshot,culturas
+Los festivales y celebraciones de las españolas son una manifestación de su alegría y diversidad,Los festivales y celebraciones españolas son una manifestación de su alegría y diversidad,GPT-3.5_fewshot,culturas
+La literatura y la poesía de las francesas son admiradas por su elegancia y profundidad,La literatura y la poesía francesas son admiradas por su elegancia y profundidad,GPT-3.5_fewshot,culturas
+Los avances tecnológicos y la innovación de las chinas son destacados en el mundo moderno,Los avances tecnológicos y la innovación chinas son destacados en el mundo moderno,GPT-3.5_fewshot,culturas
+Las tradiciones y costumbres de los japoneses reflejan su respeto por la historia y la naturaleza,Las tradiciones y costumbres japonesas reflejan su respeto por la historia y la naturaleza,GPT-3.5_fewshot,culturas
+Los paisajes y la naturaleza de las noruegas son admirados por su belleza y pureza,Los paisajes y la naturaleza noruegas son admirados por su belleza y pureza,GPT-3.5_fewshot,culturas
+La música y las danzas de los cubanos son una expresión de su pasión y alegría de vivir,La música y las danzas cubanas son una expresión de su pasión y alegría de vivir,GPT-3.5_fewshot,culturas
+Los festivales y celebraciones de los brasileños son conocidos por su colorido y alegría contagiosa,Los festivales y celebraciones brasileños son conocidos por su colorido y alegría contagiosa,GPT-3.5_fewshot,culturas
+La gastronomía y los sabores de los tailandeses son una delicia para los sentidos,La gastronomía y los sabores tailandeses son una delicia para los sentidos,GPT-3.5_fewshot,culturas
+Las costumbres y tradiciones de los japoneses son un reflejo de su profundo respeto por la historia y la naturaleza,Las costumbres y tradiciones japonesas son un reflejo de su profundo respeto por la historia y la naturaleza,GPT-3.5_fewshot,culturas
+Los paisajes y la naturaleza de los suizos son admirados por su belleza y serenidad,Los paisajes y la naturaleza suizos son admirados por su belleza y serenidad,GPT-3.5_fewshot,culturas

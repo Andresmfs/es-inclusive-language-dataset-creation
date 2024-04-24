@@ -1,0 +1,94 @@
+,gender_exclusive,gender_inclusive,origin,difficulty
+0,Unos dos mil asistentes,Aproximadamente dos mil asistentes,guía_CCGG,persona_generica
+1,Según han denunciado muchos expertos,Según ha denunciado multitud de especialistas,guía_CCGG,parafrasis
+2,Según han denunciado muchos expertos,Según han denunciado gran cantidad de especialistas,guía_CCGG,parafrasis
+3,Podrán ser candidatos,Podrán presentar su candidatura,guía_CCGG,parafrasis
+4,Se pedirá a los titulares que ejerzan su derecho,Se pedirá a cada titular que ejerza su derecho,guía_CCGG,parafrasis
+5,Dichos responsables supervisarán,Tales responsables supervisarán,guía_CCGG,persona_generica
+6,"Han optado, forzados por las circunstancias, por establecer la firma electrónica","Han optado, debido a las circunstancias, por establecer la firma electrónica",guía_CCGG,parafrasis
+7,Que no estén incluidos en la lista,Que no figuren en la lista,guía_CCGG,parafrasis
+8,No podrá ser declarado apto,No podrá aceptarse,guía_CCGG,parafrasis
+9,El que tenga mayores a su cargo,Quien tenga mayores a su cargo,guía_CCGG,persona_generica
+10,La que ocupe el puesto de gerente,Quien ocupe el puesto de gerente,guía_CCGG,persona_generica
+11,Los que superen la prueba de aptitud,Quienes superen la prueba de aptitud,guía_CCGG,persona_generica
+12,Las que se gradúen con honores,Quienes se gradúen con honores,guía_CCGG,persona_generica
+13,Uno que desee participar,Cualquiera que desee participar,guía_CCGG,persona_generica
+14,Todos los que cumplan con los requisitos,Cualesquiera que cumplan con los requisitos,guía_CCGG,persona_generica
+15,Uno que desee participar,Alguien que desee participar,guía_CCGG,persona_generica
+16,El que que cumpla con los requisitos,Alguien que cumpla con los requisitos,guía_CCGG,persona_generica
+17,Cuando uno quiere acceder al formulario,Cuando alguien quiere acceder al formulario,guía_CCGG,persona_generica
+18,Todos los interesados pueden presentar su instancia,Cualquier persona interesada puede presentar su instancia,guía_CCGG,persona_generica
+19,Si los empleados trabajamos eficazmente reduciremos los plazos,Trabajando eficazmente se reducirán los plazos,guía_CCGG,omision
+20,Los miembros de la Junta de Personal propondrán soluciones,Se propondrán soluciones por la Junta de Personal,guía_CCGG,omision
+21,Los representantes de los trabajadores y de la Administración debatirán cuestiones esenciales,La representación del personal y de la Administración debatirán cuestiones esenciales,guía_CCGG,plural_neutro
+22,Intervendrán distintos ponentes,Intervendrán diferentes ponentes,guía_CCGG,parafrasis
+23,Están capacitados para,Son capaces de,guía_CCGG,parafrasis
+24,Los restantes vocales,El resto de vocales,guía_CCGG,parafrasis
+25,Debe ponerse en conocimiento del familiar o la persona que lo solicite,Debe ponerse en conocimiento de la persona o familiar que lo solicite,guía_CCGG,parafrasis
+26,Los juristas de reconocido prestigio Carmen López y Jaime Aguirre,"Carmen López y Jaime Aguirre, juristas de reconocido prestigio",guía_CCGG,parafrasis
+27,Intervendrán distintos ponentes,Intervendrán diferentes ponentes,guía_CCGG,parafrasis
+28,Los restantes vocales,El resto de vocales,guía_CCGG,parafrasis
+29,Los funcionarios,El funcionariado,guía_CCGG,plural_generico
+30,Los funcionarios,El personal funcionario,guía_CCGG,plural_complejo
+31,Los empleados,El personal,guía_CCGG,plural_generico
+34,Firmas de los reunidos,Firmas de las personas asistentes,guía_CCGG,parafrasis
+37,Unos dos mil asistentes,Aproximadamente dos mil asistentes,guía_CCGG,parafrasis
+43,Los miembros de la Junta de Personal propondrán soluciones,Se propondrán soluciones por la Junta de Personal,guía_CCGG,omision
+44,Los representantes de los trabajadores y de la Administración debatirán cuestiones esenciales,La representación del personal y de la Administración debatirán cuestiones esenciales,guía_CCGG,plural_complejo
+45,Todos los alumnos deben entregar la tarea mañana.,Todo el alumnado debe entregar la tarea mañana.,GPT-4_human,plurales
+46,Los ciudadanos tienen derecho a votar,La ciudadanía tiene derecho a votar,GPT-4_human,plurales
+47,Los profesores serán evaluados por su desempeño.,El profesorado será evaluado por su desempeño.,GPT-4_human,plurales
+48,Los trabajadores recibirán un aumento.,La plantilla recibirá un aumento.,GPT-4_human,plurales
+49,Los españoles son conocidos por su hospitalidad.,La población española es conocida por su hospitalidad.,GPT-4_human,plurales
+50,Los niños y las niñas juegan en el parque.,Los niños y las niñas juegan en el parque.,GPT-4_human,plurales
+51,Los médicos tienen una larga jornada laboral.,El personal médico tiene una larga jornada laboral.,GPT-4_human,plurales
+52,Los ingenieros y las ingenieras trabajan en el proyecto.,El equipo de ingeniería trabaja en el proyecto.,GPT-4_human,plurales
+53,Los actores se preparan para el estreno.,El elenco se prepara para el estreno.,GPT-4_human,plurales
+54,Los científicos presentaron sus descubrimientos.,El equipo científico presentó sus descubrimientos.,GPT-4_human,plurales
+55,Los jugadores entrenan para el campeonato.,El equipo entrena para el campeonato.,GPT-4_human,plurales
+56,Los estudiantes de último año buscan empleo.,El estudiantado de último año busca empleo.,GPT-4_human,plurales
+57,Los escritores famosos publicarán nuevos libros.,Los y las escritoras famosas publicarán nuevos libros.,GPT-4_human,plurales
+58,Los programadores trabajan en software innovador.,El personal de programación trabaja en software innovador.,GPT-4_human,plurales
+59,Los artistas expondrán sus obras en la galería.,Las y los artistas expondrán sus obras en la galería.,GPT-4_human,plurales
+60,Los políticos debaten sobre la nueva ley.,La clase política debate sobre la nueva ley.,GPT-4_human,plurales
+61,Los periodistas investigan el caso.,Las y los periodistas investigan el caso.,GPT-4_human,plurales
+62,Los voluntarios ayudan en la comunidad.,El grupo de voluntariado ayuda en la comunidad.,GPT-4_human,plurales
+63,Los jueces toman decisiones importantes.,El aparato judicial toma decisiones importantes.,GPT-4_human,plurales
+64,Los abogados presentarán el caso ante la corte.,La abogacía presentará el caso ante la corte.,GPT-4_human,plurales
+65,Los agricultores enfrentan desafíos climáticos.,El sector agrícola enfrenta desafíos climáticos.,GPT-4_human,plurales
+66,Los bailarines se preparan para el espectáculo.,Las bailarinas y los bailarines se preparan para el espectáculo.,GPT-4_human,plurales
+67,Los cantantes ensayan para el concierto.,El grupo de cantantes ensaya para el concierto.,GPT-4_human,plurales
+68,Los chefs innovan en la cocina.,Las y los chefs innovan en la cocina.,GPT-4_human,plurales
+69,Los ciudadanos protestaron la mañana del domingo contra los recortes económicos,La ciudadanía protestó la mañana del domingo contra los recortes económicos,human,plurales
+70,Los ciudadanos son el pilar fundamental de cualquier sociedad democrática.,La ciudadanía es el pilar fundamental de cualquier sociedad democrática.,human,plurales
+71,"Los profesores son claves en la formación de las nuevas generaciones, siendo los responsables de construir bases sólidas para su desarrollo intelectual y personal.","El profesorado es clave en la formación de las nuevas generaciones, siendo responsables de construir bases sólidas para su desarrollo intelectual y personal.",human,plurales
+72,El equipo de profesores colabora estrechamente para ofrecer una educación de calidad,El equipo docente colabora estrechamente para ofrecer una educación de calidad,human,plurales
+73,Jesús y Manuel eran los profesores más estrictos del colegio,Jesús y Manuel eran los profesores más estrictos del colegio,human,nombres_propios
+74,"A los andaluces se nos ha educado con eso de que para triunfar hay que irse a Madrid. Pero creo que ha cambiado. Sobre todo con el acento: si ya me parece reivindicativo el hecho de que te salga natural, mantenerlo en tus proyectos aún más todavía","Al pueblo andaluz se nos ha educado con eso de que para triunfar hay que irse a Madrid. Pero creo que ha cambiado. Sobre todo con el acento: si ya me parece reivindicativo el hecho de que te salga natural, mantenerlo en tus proyectos aún más todavía",human,culturas
+75,"Lo dejaron claro en el adelanto lanzado hace unas semanas, Andaluce yorá, homenaje a los andaluces exiliados en clave flamenca y electrónica a partir de la poesía de Romero Esteo","Lo dejaron claro en el adelanto lanzado hace unas semanas, Andaluce yorá, homenaje a las personas andaluzas exiliados en clave flamenca y electrónica a partir de la poesía de Romero Esteo",human,culturas
+76,En mi bloque viven dos chicos andaluces,En mi bloque viven dos chicos andaluces,human,no_traducir
+77,Las dos chicas de la izquierda son andaluzas,Las dos chicas de la izquierda son andaluzas,human,no_traducir
+78,Los últimos acontecimientos políticos han tenido en vilo a los catalanes,Los últimos acontecimientos políticos han tenido en vilo al pueblo catalán,human,culturas
+79,"Amaia y Nerea son vascas, mientras que Jose y Luis son extremeños","Amaia y Nerea son vascas, mientras que Jose y Luis son extremeños",human,nombres_propios
+80,Mis primos Marta y Miguel son de galicia,Mis primos Marta y Miguel son de galicia,human,nombres_propios
+81,Los mejillones gallegos están buenísimos,Los mejillones gallegos están buenísimos,human,no_traducir
+82,Las costumbres y tradiciones de los gallegos están muy relacionadas con el mar,Las costumbres y tradiciones gallegas están muy relacionadas con el mar,human,culturas
+83,El presidente del club deportivo anunció importantes cambios en la gestión administrativa.,La presidencia del club deportivo anunció importantes cambios en la gestión administrativa.,human,plural_neutro
+84,los migrantes y sus familias,la población migrante ,human,plural_complejo
+85,"fallecieron 10 personas, entre ellas 3 mujeres y 2 niños ","fallecieron 10 personas: 5 hombres, 3 mujeres y 2 niños",human,otros
+86,las mujeres de la limpieza ,el personal de limpieza,human,plural_complejo
+87,es un gran logro para el hombre,es un gran logro para la humanidad ,human,plural_neutro
+88,al interesado ,a quien le pueda interesar,human,persona_generica
+89,estamos comprometidos con este proyecto,tenemos un compromiso con este proyecto ,human,persona_generica
+90,"si mandas un mensaje a alguien, este puede verlo","si mandas un mensaje a alguien, puede verlo ",human,persona_generica
+91,"Una persona de 38 años, de nacionalidad francesa, ha sido detenido en Irún.","Una persona de 38 años, de nacionalidad francesa, ha sido detenida en Irún.",human,falsa_concordancia
+92,Las personas más afectadas por la crisis son los desempleados de larga duración.,Las personas más afectadas por la crisis son las desempleadas de larga duración.,human,falsa_concordancia
+93,Estas siete parejas van a dar lo mejor de sí mismos.,Estas siete parejas van a dar lo mejor de sí mismas.,human,falsa_concordancia
+94,Este documental está dirigido a personas que se definen como viajeros.,Este documental está dirigido a personas que se definen como viajeras.,human,falsa_concordancia
+95,"Vi una frenética masa de gente caminando en todas las direcciones, unos solos, otros en grupos","Vi una frenética masa de gente caminando en todas las direcciones, unas solas, otras en grupos",human,falsa_concordancia
+96,Las manualidades de mi niña son dignas de un artesano profesional. ,Las manualidades de mi niña son dignas de una artesana profesional. ,human,feminizar_profesiones
+97,Dijo Marta: “Lo que más me gusta de mi trabajo es que soy mi propio jefe.”,Dijo Marta: “Lo que más me gusta de mi trabajo es que soy mi propia jefa.”,human,feminizar_profesiones
+98,"A María le gustaba la música como al que más, pero Antonio la ponía a todas horas.","A María le gustaba la música como a la que más, pero Antonio la ponía a todas horas.",human,falsa_concordancia
+99,Queremos que sigas escuchando la radio. Aunque sea en el móvil con conexión wifi. Aunque sea en calzoncillos. ,Queremos que sigas escuchando la radio. Aunque sea en el móvil con conexión wifi. Aunque sea en ropa interior. ,human,otros
+100,50 ucranianos muertos,50 personas muertas en Ucrania,human,plural_neutro
+101,la redactora jefe,La jefa de redacción,human,feminizar_profesiones

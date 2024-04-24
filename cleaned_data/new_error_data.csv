@@ -1,0 +1,277 @@
+gender_exclusive,gender_inclusive,difficulty,origin
+Ningún empleado puede acceder al área restringida sin autorización previa.,Ninguna persona puede acceder al área restringida sin autorización previa.,persona_generica,GPT-3.5_fewshot
+Ningún alumno puede faltar a la clase de hoy sin justificación.,Ningún estudiante puede faltar a la clase de hoy sin justificación.,persona_generica,GPT-3.5_fewshot
+Cada alumno debe realizar una presentación sobre un tema de su elección.,Cada estudiante debe realizar una presentación sobre un tema de su elección.,persona_generica,GPT-3.5_fewshot
+El profesor pidió a cada alumno que entregara su tarea antes del fin de semana.,El profesor pidió a cada estudiante que entregara su tarea antes del fin de semana.,persona_generica,GPT-3.5_fewshot
+Cada cliente debe completar el formulario de registro antes de utilizar el servicio.,Cada usuario debe completar el formulario de registro antes de utilizar el servicio.,persona_generica,GPT-3.5_fewshot
+Es esencial que cada conductor respete los límites de velocidad en la carretera.,Es esencial que cada conductor o conductora respete los límites de velocidad en la carretera.,persona_generica,GPT-3.5_fewshot
+La empresa necesita contratar a un nuevo trabajador para el departamento de ventas.,La empresa necesita contratar a una nueva persona para el departamento de ventas.,persona_generica,GPT-3.5_fewshot
+Se requiere la colaboración de cada miembro del equipo para completar el proyecto a tiempo.,Se requiere la colaboración de cada integrante del equipo para completar el proyecto a tiempo.,persona_generica,GPT-3.5_fewshot
+Es fundamental que cada ciudadano cumpla con sus obligaciones tributarias.,Es fundamental que cada ciudadano o ciudadana cumpla con sus obligaciones tributarias.,persona_generica,GPT-3.5_fewshot
+Todos los invitados deben confirmar su asistencia antes del evento.,Todas las personas invitadas deben confirmar su asistencia antes del evento.,persona_generica,GPT-3.5_fewshot
+Haz clic en el botón Aceptar para mantenerte conectado,Haz clic en el botón Aceptar para mantener la conexión,persona_generica,GPT-3.5_fewshot
+No hay alumno que no tenga la solicitud cumplimentada,No hay estudiante que no tenga la solicitud cumplimentada,persona_generica,GPT-3.5_fewshot
+Los estudiantes de la UPC se reúnen para acordar los detalles de la huelga estudiantil,Estudiantes de la UPC se reúnen para acordar los detalles de la huelga estudiantil,persona_generica,GPT-3.5_fewshot
+Los profesionales de la educación no aconsejan el uso de pantallas a edad temprana,Profesionales de la educación no aconsejan el uso de pantallas a edad temprana,persona_generica,GPT-3.5_fewshot
+Ofrecemos una plaza de secretario de dirección y una de ingeniero técnico de obras públicas,Ofrecemos una plaza de secretario o secretaria de dirección y una de ingeniero técnico o ingeniera técnica de obras públicas,persona_generica,GPT-3.5_fewshot
+Los japoneses son expertos en la elaboración del sushi.,La población japonesa es experta en la elaboración del sushi.,cultura,GPT-3.5_fewshot
+Los franceses son famosos por su cocina refinada y exquisita.,La población francesa es famosa por su cocina refinada y exquisita.,cultura,GPT-3.5_fewshot
+Los mexicanos celebran con alegría el Día de los Muertos.,La población mexicana celebra con alegría el Día de los Muertos.,cultura,GPT-3.5_fewshot
+Los suecos disfrutan de la sauna como parte de su cultura.,La población sueca disfruta de la sauna como parte de su cultura.,cultura,GPT-3.5_fewshot
+Los australianos son aficionados al deporte al aire libre.,La población australiana es aficionada al deporte al aire libre.,cultura,GPT-3.5_fewshot
+Los brasileños son conocidos por su pasión por el fútbol.,La población brasileña es conocida por su pasión por el fútbol.,cultura,GPT-3.5_fewshot
+Los egipcios tienen una rica historia cultural milenaria.,La población egipcia tiene una rica historia cultural milenaria.,cultura,GPT-3.5_fewshot
+Los rusos son famosos por su literatura y música.,La población rusa es famosa por su literatura y música.,cultura,GPT-3.5_fewshot
+Los estadounidenses son innovadores en tecnología.,La población estadounidense es innovadora en tecnología.,cultura,GPT-3.5_fewshot
+Los chinos son maestros en la cocina tradicional.,La población china es maestra en la cocina tradicional.,cultura,GPT-3.5_fewshot
+Los argentinos son apasionados por el tango.,La población argentina es apasionada por el tango.,cultura,GPT-3.5_fewshot
+Los canadienses son respetuosos con el medio ambiente.,La población canadiense es respetuosa con el medio ambiente.,cultura,GPT-3.5_fewshot
+Los nigerianos son conocidos por su diversidad cultural.,La población nigeriana es conocida por su diversidad cultural.,cultura,GPT-3.5_fewshot
+Los holandeses son expertos en el manejo del agua.,La población holandesa es experta en el manejo del agua.,cultura,GPT-3.5_fewshot
+Los tailandeses disfrutan de una deliciosa gastronomía.,La población tailandesa disfruta de una deliciosa gastronomía.,cultura,GPT-3.5_fewshot
+Los británicos son amantes del té.,La población británica es amante del té.,cultura,GPT-3.5_fewshot
+Los colombianos son reconocidos por su alegría y fiesta.,La población colombiana es reconocida por su alegría y fiesta.,cultura,GPT-3.5_fewshot
+Los keniatas son famosos por su talento en el atletismo.,La población keniana es famosa por su talento en el atletismo.,cultura,GPT-3.5_fewshot
+Los suizos son expertos en la fabricación de relojes.,La población suiza es experta en la fabricación de relojes.,cultura,GPT-3.5_fewshot
+Los indios tienen una rica tradición culinaria.,La población india tiene una rica tradición culinaria.,cultura,GPT-3.5_fewshot
+Los empleados de la empresa organizaron una jornada de voluntariado.,La plantilla de la empresa organizó una jornada de voluntariado.,omision,GPT-3.5_fewshot
+Los miembros del club deportivo se preparan para el próximo torneo.,Miembros del club deportivo se preparan para el próximo torneo.,omision,GPT-3.5_fewshot
+Los empleados de la biblioteca están organizando un evento de lectura para niños.,El personal de la biblioteca está organizando un evento de lectura para niños.,omision,GPT-3.5_fewshot
+Los abogados del bufete de abogados están preparando una estrategia legal.,Miembros del bufete de abogados están preparando una estrategia legal.,omision,GPT-3.5_fewshot
+Los músicos de la orquesta están ensayando para el próximo concierto.,La orquesta está ensayando para el próximo concierto.,omision,GPT-3.5_fewshot
+Los científicos del laboratorio están llevando a cabo experimentos importantes.,El personal científico del laboratorio está llevando a cabo experimentos importantes.,omision,GPT-3.5_fewshot
+Los artistas de la comunidad están pintando un mural en el parque.,Artistas de la comunidad están pintando un mural en el parque.,omision,GPT-3.5_fewshot
+Los miembros del equipo de marketing están planificando una nueva campaña publicitaria.,Miembros del equipo de marketing están planificando una nueva campaña publicitaria.,omision,GPT-3.5_fewshot
+Los médicos del centro de salud están ofreciendo consultas gratuitas a la comunidad.,El personal médico del centro de salud está ofreciendo consultas gratuitas a la comunidad.,omision,GPT-3.5_fewshot
+Los empleados del hotel están preparando las habitaciones para la llegada de los huéspedes.,La plantilla del hotel está preparando las habitaciones para la llegada de los huéspedes.,omision,GPT-3.5_fewshot
+Los profesionales de recursos humanos están realizando entrevistas de trabajo para nuevas contrataciones.,Profesionales de recursos humanos están realizando entrevistas de trabajo para nuevas contrataciones.,omision,GPT-3.5_fewshot
+Los ingenieros de software están desarrollando nuevas funciones para la aplicación móvil.,El equipo de ingeniería de software está desarrollando nuevas funciones para la aplicación móvil.,omision,GPT-3.5_fewshot
+Los músicos de la banda están componiendo nuevas canciones para su próximo álbum.,La banda de música está componiendo nuevas canciones para su próximo álbum.,omision,GPT-3.5_fewshot
+Los diseñadores de moda están creando diseños para la próxima colección de ropa.,Profesionales del diseño de moda están creando diseños para la próxima colección de ropa.,omision,GPT-3.5_fewshot
+Los trabajadores de la construcción están levantando un nuevo edificio en el centro de la ciudad.,Los trabajadores y las trabajadoras de la construcción están levantando un nuevo edificio en el centro de la ciudad.,omision,GPT-3.5_fewshot
+El personal que no esté asignado a este proyecto debe abstenerse de participar,El personal que no se asigne a este proyecto debe abstenerse de participar,parafrasis,GPT-3.5_fewshot
+Los invitados que no estén registrados no podrán ingresar al evento,Los invitados que no se registren no podrán ingresar al evento,parafrasis,GPT-3.5_fewshot
+El personal que no esté capacitado para esta tarea debe solicitar formación,El personal que no tenga capacitación para esta tarea debe solicitar formación,parafrasis,GPT-3.5_fewshot
+Los participantes que no estén inscritos no recibirán el material del curso,Los participantes que no se hayan inscrito no recibirán el material del curso,parafrasis,GPT-3.5_fewshot
+El personal que no esté autorizado no podrá acceder a esta área,El personal que no tenga autorización no podrá acceder a esta área,parafrasis,GPT-3.5_fewshot
+Los asistentes que no estén registrados no podrán ingresar al edificio,Quienes no se registren no podrán ingresar al edificio,parafrasis,GPT-3.5_fewshot
+Los estudiantes que no estén inscritos no podrán acceder al examen,El estudiantado que no se haya inscrito no podrá acceder al examen,parafrasis,GPT-3.5_fewshot
+Los usuarios que no estén registrados no podrán acceder al sistema,Quienes no se registren no podrán acceder al sistema,parafrasis,GPT-3.5_fewshot
+El personal que no esté asignado a esta tarea no podrá completarla,El personal que no tenga asignación para esta tarea no podrá completarla,parafrasis,GPT-3.5_fewshot
+Los participantes que no estén conformes con las reglas no podrán participar en el evento,Los participantes que no estén conformes con las reglas no podrán participar en el evento,parafrasis,GPT-3.5_fewshot
+El equipo que no esté disponible para la reunión no será considerado en las decisiones,El equipo que no esté disponible para la reunión no será considerado en las decisiones,parafrasis,GPT-3.5_fewshot
+Los participantes que no estén comprometidos con el programa no podrán completarlo,Las personas participantes que no estén comprometidas con el programa no podrán completarlo,parafrasis,GPT-3.5_fewshot
+El personal que no esté familiarizado con el procedimiento no podrá llevarlo a cabo,El personal que no conozca el procedimiento no podrá llevarlo a cabo,parafrasis,GPT-3.5_fewshot
+Los estudiantes que no estén interesados en el tema no podrán participar en el debate,Estudiantes que no se interesen en el tema no podrán participar en el debate,parafrasis,GPT-3.5_fewshot
+El conductor del autobús debe tener licencia de conducir.,Cada conductor o conductora del autobús debe tener licencia de conducir.,persona_generica,GPT-3.5_fewshot
+El chef preparará platos deliciosos para los comensales.,Cada chef preparará platos deliciosos para los comensales.,persona_generica,GPT-3.5_fewshot
+El camarero atenderá a los clientes con amabilidad.,Cada camarera o camarero atenderá a los clientes con amabilidad.,persona_generica,GPT-3.5_fewshot
+El doctor recetará medicamentos según el diagnóstico.,Cada doctora o doctor recetará medicamentos según el diagnóstico.,persona_generica,GPT-3.5_fewshot
+El arquitecto diseñará edificios modernos y funcionales.,Cada arquitecta o arquitecto diseñará edificios modernos y funcionales.,persona_generica,GPT-3.5_fewshot
+El juez impartirá justicia de manera imparcial.,Cada jueza o juez impartirá justicia de manera imparcial.,persona_generica,GPT-3.5_fewshot
+El programador desarrollará software innovador.,Cada programadora o programador desarrollará software innovador.,persona_generica,GPT-3.5_fewshot
+El policía velará por la seguridad de la comunidad.,Cada policía velará por la seguridad de la comunidad.,persona_generica,GPT-3.5_fewshot
+El ingeniero construirá puentes resistentes.,Cada ingeniera o ingeniero construirá puentes resistentes.,persona_generica,GPT-3.5_fewshot
+El artista creará obras que inspiren a la gente.,Cada artista creará obras que inspiren a la gente.,persona_generica,GPT-3.5_fewshot
+Dichos estudiantes serán premiados por su excelencia académica.,Tales estudiantes serán premiados por su excelencia académica.,persona_generica,GPT-3.5_fewshot
+Dichos clientes disfrutarán de descuentos exclusivos.,Tales clientes disfrutarán de descuentos exclusivos.,persona_generica,GPT-3.5_fewshot
+Dichos voluntarios participarán en labores de limpieza.,Tales voluntarios participarán en labores de limpieza.,persona_generica,GPT-3.5_fewshot
+Dichos miembros del equipo serán promovidos por su desempeño.,Tales miembros del equipo serán promovidos por su desempeño.,persona_generica,GPT-3.5_fewshot
+Dichos artistas expondrán sus obras en la galería.,Tales artistas expondrán sus obras en la galería.,persona_generica,GPT-3.5_fewshot
+Dichos empleados serán reconocidos en la ceremonia de premiación.,Tales empleados serán reconocidos en la ceremonia de premiación.,persona_generica,GPT-3.5_fewshot
+Dichos invitados serán recibidos con una recepción especial.,Tales invitados serán recibidos con una recepción especial.,persona_generica,GPT-3.5_fewshot
+Dichos participantes serán evaluados según su desempeño.,Tales participantes serán evaluados según su desempeño.,persona_generica,GPT-3.5_fewshot
+Dichos candidatos serán entrevistados para el puesto.,Tales candidatos serán entrevistados para el puesto.,persona_generica,GPT-3.5_fewshot
+Dichos alumnos serán guiados por el tutor.,Tales alumnos serán guiados por el tutor.,persona_generica,GPT-3.5_fewshot
+Dichos pacientes serán atendidos por el médico de guardia.,Tales pacientes serán atendidos por el médico de guardia.,persona_generica,GPT-3.5_fewshot
+Dichos atletas competirán en los Juegos Olímpicos.,Tales atletas competirán en los Juegos Olímpicos.,persona_generica,GPT-3.5_fewshot
+Se busca un empleado de limpieza para mantener la oficina en orden.,Se busca un empleado o empleada de limpieza para mantener la oficina en orden.,plural_complejo,GPT-3.5_fewshot
+Necesitamos un programador para desarrollar una nueva aplicación móvil.,Necesitamos un programador o programadora para desarrollar una nueva aplicación móvil.,plural_complejo,GPT-3.5_fewshot
+El restaurante está buscando un chef para liderar la cocina.,El restaurante está buscando chef para liderar la cocina.,plural_complejo,GPT-3.5_fewshot
+Estamos buscando un médico para unirse a nuestro equipo de atención médica.,Estamos buscando un médico o médica para unirse a nuestro equipo de atención médica.,plural_complejo,GPT-3.5_fewshot
+La empresa necesita un contable para manejar las finanzas.,La empresa necesita contable para manejar las finanzas.,plural_complejo,GPT-3.5_fewshot
+Se requiere un consultor de marketing para mejorar la estrategia de la empresa.,Se requiere una consultora o un consultor de marketing para mejorar la estrategia de la empresa.,plural_complejo,GPT-3.5_fewshot
+Estamos buscando un diseñador gráfico para crear contenido visual.,Estamos buscando un diseñador o una diseñadora gráfica para crear contenido visual.,plural_complejo,GPT-3.5_fewshot
+Se necesita un traductor para trabajar en la traducción de documentos importantes.,Se necesita una traductora o un traductor para trabajar en la traducción de documentos importantes.,plural_complejo,GPT-3.5_fewshot
+La compañía está buscando un/a ingeniero/a eléctrico/a para diseñar sistemas de energía.,La compañía está buscando un ingeniero o una ingeniera eléctrica para diseñar sistemas de energía.,plural_complejo,GPT-3.5_fewshot
+Estamos buscando un arquitecto para diseñar nuestra próxima construcción.,Estamos buscando una arquitecta o un arquitecto para diseñar nuestra próxima construcción.,plural_complejo,GPT-3.5_fewshot
+Los artistas mexicanos son reconocidos por su talento y creatividad.,La comunidad artística mexicana es reconocida por su talento y creatividad.,plural_complejo,GPT-3.5_fewshot
+Los ingenieros japoneses son líderes en innovación tecnológica.,La comunidad ingeniera japonesa es líder en innovación tecnológica.,plural_complejo,GPT-3.5_fewshot
+Los italianos son famosos por su amor por la buena comida y el buen vino.,La población italiana es famosa por su amor por la buena comida y el buen vino.,plural_complejo,GPT-3.5_fewshot
+Los científicos indios están contribuyendo significativamente al avance de la medicina.,La comunidad científica india está contribuyendo significativamente al avance de la medicina.,plural_complejo,GPT-3.5_fewshot
+Los estudiantes franceses disfrutan de una rica vida cultural en sus universidades.,El estudiantado francés disfruta de una rica vida cultural en sus universidades.,plural_complejo,GPT-3.5_fewshot
+Los músicos brasileños son reconocidos internacionalmente por su talento.,La comunidad musical brasileña es reconocida internacionalmente por su talento.,plural_complejo,GPT-3.5_fewshot
+Los chefs tailandeses son maestros en la cocina asiática.,La comunidad culinaria tailandesa es maestra en la cocina asiática.,plural_complejo,GPT-3.5_fewshot
+Los bailarines españoles son apasionados y expresivos en sus movimientos.,La comunidad de bailarines y bailarinas españoles es apasionada y expresiva en sus movimientos.,plural_complejo,GPT-3.5_fewshot
+Los escritores rusos han dejado un legado literario invaluable.,La comunidad de escritores y escritoras rusas ha dejado un legado literario invaluable.,plural_complejo,GPT-3.5_fewshot
+Los atletas kenianos son reconocidos por su dominio en carreras de larga distancia.,La comunidad atlética de Kenia es reconocida por su dominio en carreras de larga distancia.,plural_complejo,GPT-3.5_fewshot
+Los empresarios chinos están liderando la economía global.,La comunidad empresarial china está liderando la economía global.,plural_complejo,GPT-3.5_fewshot
+Los diseñadores de moda parisinos marcan tendencias en el mundo entero.,La comunidad de diseñadores y diseñadoras de moda parisina marca tendencias en el mundo entero.,plural_complejo,GPT-3.5_fewshot
+Los activistas sudafricanos luchan por la justicia y la igualdad.,La comunidad activista sudafricana lucha por la justicia y la igualdad.,plural_complejo,GPT-3.5_fewshot
+Los actores británicos son reconocidos por su versatilidad en el escenario y la pantalla.,La comunidad de actores y actrices británicas es reconocida por su versatilidad en el escenario y la pantalla.,plural_complejo,GPT-3.5_fewshot
+Los cineastas argentinos están ganando reconocimiento internacional por sus películas.,La comunidad cinematográfica argentina está ganando reconocimiento internacional por sus películas.,plural_complejo,GPT-3.5_fewshot
+Los surfistas hawaianos son maestros en domar las olas del océano.,La comunidad de surfistas hawaiana es maestra en domar las olas del océano.,plural_complejo,GPT-3.5_fewshot
+Los programadores suecos son pioneros en el desarrollo de tecnologías sostenibles.,La comunidad de programadores y programadoras sueca es pionera en el desarrollo de tecnologías sostenibles.,plural_complejo,GPT-3.5_fewshot
+Los bailarines de ballet rusos son conocidos por su gracia y habilidad técnica.,La comunidad de bailarines y bailarinas de ballet rusas es conocida por su gracia y habilidad técnica.,plural_complejo,GPT-3.5_fewshot
+Los astronautas estadounidenses son héroes modernos que exploran el espacio exterior.,La comunidad de astronautas estadounidenses son héroes y heroínas modernas que exploran el espacio exterior.,plural_complejo,GPT-3.5_fewshot
+Los niños juegan en el parque,Las criaturas juegan en el parque,plural_neutro,GPT-3.5_fewshot
+Los niños estudian en la escuela,Las niñas y los niños estudian en la escuela,plural_neutro,GPT-3.5_fewshot
+Los habitantes disfrutan del clima tropical,La población disfruta del clima tropical,plural_neutro,GPT-3.5_fewshot
+Los costarricenses celebran el día de la independencia,La población costarricense celebra el día de la independencia,plural_neutro,GPT-3.5_fewshot
+Los ciudadanos tienen derecho a votar,La ciudadanía tiene derecho a votar,plural_neutro,GPT-3.5_fewshot
+Los descendientes honran a sus ancestros,La descendencia honra a sus ancestros,plural_neutro,GPT-3.5_fewshot
+Los trabajadores están en huelga,El personal está en huelga,plural_neutro,GPT-3.5_fewshot
+Los profesores enseñan matemáticas,El profesorado enseña matemáticas,plural_neutro,GPT-3.5_fewshot
+Los profesores trabajan en equipo,El profesorado trabaja en equipo,plural_neutro,GPT-3.5_fewshot
+Los alumnos estudian para los exámenes,El alumnado estudia para los exámenes,plural_neutro,GPT-3.5_fewshot
+Las señoras de la limpieza mantienen la higiene en la escuela,El personal de limpieza mantiene la higiene en la escuela,plural_neutro,GPT-3.5_fewshot
+Los votantes eligen a sus representantes,El electorado elige a sus representantes,plural_neutro,GPT-3.5_fewshot
+Los jóvenes disfrutan de la vida nocturna,La juventud disfruta de la vida nocturna,plural_neutro,GPT-3.5_fewshot
+Los amigos comparten momentos felices,Las amistades comparten momentos felices,plural_neutro,GPT-3.5_fewshot
+Es importante que los trabajadores colaboren en la elaboración del informe.,Es importante que se colabore en la elaboración del informe.,dificultades_variadas,GPT-3.5_fewshot
+Se espera que los ciudadanos respeten las normas de convivencia en la comunidad.,Se espera que la ciudadanía respete las normas de convivencia en la comunidad.,dificultades_variadas,GPT-3.5_fewshot
+Los voluntarios ayudarán en la organización del evento benéfico.,El grupo de voluntariado ayudará en la organización del evento benéfico.,dificultades_variadas,GPT-3.5_fewshot
+Los artistas locales participarán en la exposición de arte del próximo mes.,Artistas locales participarán en la exposición de arte del próximo mes.,dificultades_variadas,GPT-3.5_fewshot
+Los profesionales de la salud aconsejan mantener una dieta equilibrada y hacer ejercicio regularmente.,Profesionales de la salud aconsejan mantener una dieta equilibrada y hacer ejercicio regularmente.,dificultades_variadas,GPT-3.5_fewshot
+Los vecinos están invitados a colaborar en la limpieza del parque el sábado por la mañana.,El vecindario está invitado a colaborar en la limpieza del parque el sábado por la mañana.,dificultades_variadas,GPT-3.5_fewshot
+Los miembros del club deportivo deben seguir las normas establecidas por la organización.,Se deben seguir las normas establecidas por la organización.,dificultades_variadas,GPT-3.5_fewshot
+Los estudiantes son alentados a participar en actividades extracurriculares para enriquecer su experiencia educativa.,Se alienta a participar en actividades extracurriculares para enriquecer la experiencia educativa.,dificultades_variadas,GPT-3.5_fewshot
+Los empleados de la empresa están invitados a contribuir con ideas para mejorar el ambiente laboral.,Se invita a contribuir con ideas para mejorar el ambiente laboral.,dificultades_variadas,GPT-3.5_fewshot
+Los residentes del barrio pueden colaborar en la decoración de las calles para las fiestas navideñas.,Quienes residan en el barrio pueden colaborar en la decoración de las calles para las fiestas navideñas.,dificultades_variadas,GPT-3.5_fewshot
+Los integrantes del equipo de investigación deben trabajar juntos para alcanzar los objetivos propuestos.,Quienes integren el equipo de investigación deben trabajar juntos para alcanzar los objetivos propuestos.,dificultades_variadas,GPT-3.5_fewshot
+Los conductores deben respetar las normas de tránsito para garantizar la seguridad vial.,Se debe respetar las normas de tránsito para garantizar la seguridad vial.,dificultades_variadas,GPT-3.5_fewshot
+Los participantes del evento tendrán la oportunidad de interactuar con expertos en el tema.,Se tendrá la oportunidad de interactuar con expertos en el tema.,dificultades_variadas,GPT-3.5_fewshot
+Los pacientes deben seguir las indicaciones del médico para asegurar una pronta recuperación.,Se deben seguir las indicaciones médicas para asegurar una pronta recuperación.,dificultades_variadas,GPT-3.5_fewshot
+Los escritores están invitados a enviar sus obras para ser consideradas en el concurso literario.,Se invita a enviar sus obras para ser consideradas en el concurso literario.,dificultades_variadas,GPT-3.5_fewshot
+Los asistentes al seminario recibirán un certificado de participación al finalizar el evento.,Se recibirá un certificado de participación al finalizar el evento.,dificultades_variadas,GPT-3.5_fewshot
+Los voluntarios serán capacitados para llevar a cabo labores de asistencia en casos de emergencia.,El voluntariado será capacitado para llevar a cabo labores de asistencia en casos de emergencia.,dificultades_variadas,GPT-3.5_fewshot
+Los candidatos deben presentar su currículum vitae y carta de motivación para solicitar el puesto.,Quienes presenten al puesto deben presentar su currículum vitae y carta de motivación para solicitarlo.,dificultades_variadas,GPT-3.5_fewshot
+Los músicos tocarán en el concierto benéfico para recaudar fondos para una causa solidaria.,Se realizará un concierto benéfico para recaudar fondos para una causa solidaria.,dificultades_variadas,GPT-3.5_fewshot
+Los estudiantes deben entregar sus proyectos finales antes de la fecha límite.,Quienes deseen entregar sus proyectos finales deben hacerlo antes de la fecha límite.,dificultades_variadas,GPT-3.5_fewshot
+Los participantes deben registrarse en línea para asistir al evento.,Quienes deseen participar en el evento deben registrarse en línea para asistir al mismo.,dificultades_variadas,GPT-3.5_fewshot
+Los clientes deben seleccionar el método de pago al finalizar su compra en línea.,Quienes deseen realizar una compra en línea deben seleccionar el método de pago al finalizar.,dificultades_variadas,GPT-3.5_fewshot
+Los solicitantes deben completar el formulario de solicitud de beca antes de la fecha límite.,Quienes deseen solicitar la beca deben completar el formulario de solicitud antes de la fecha límite.,dificultades_variadas,GPT-3.5_fewshot
+Los participantes deben seguir las instrucciones del coordinador durante el taller.,Quienes deseen participar deben seguir las instrucciones del coordinador durante el taller.,dificultades_variadas,GPT-3.5_fewshot
+Los pacientes deben esperar en la sala de espera hasta ser llamados por el médico.,Quienes deseen ser atendidos deben esperar en la sala de espera hasta ser llamados por el médico.,dificultades_variadas,GPT-3.5_fewshot
+Los suscriptores deben actualizar su información de pago antes de la fecha de vencimiento.,Quienes deseen mantener su suscripción deben actualizar su información de pago antes de la fecha de vencimiento.,dificultades_variadas,GPT-3.5_fewshot
+Los adolescentes están disfrutando de su tiempo libre en el parque.,La adolescencia disfruta de su tiempo libre en el parque.,plurales,GPT-3.5_fewshot
+Los mayores disfrutan de paseos tranquilos por el vecindario.,Las personas mayores disfrutan de paseos tranquilos por el vecindario.,plurales,GPT-3.5_fewshot
+Los jóvenes están organizando una protesta pacífica.,La juventud está organizando una protesta pacífica.,plurales,GPT-3.5_fewshot
+Los niños juegan felices en el patio de recreo.,Las criaturas juegan felices en el patio de recreo.,plurales,GPT-3.5_fewshot
+Los estudiantes están estudiando para sus exámenes finales.,El estudiantado está estudiando para sus exámenes finales.,plurales,GPT-3.5_fewshot
+Los alumnos están entusiasmados por el próximo viaje escolar.,El alumnado está entusiasmado por el próximo viaje escolar.,plurales,GPT-3.5_fewshot
+Los profesores están impartiendo clases en línea debido a la pandemia.,El profesorado está impartiendo clases en línea debido a la pandemia.,plurales,GPT-3.5_fewshot
+Los pilotos y las azafatas están preparando el avión para el despegue.,El personal de aviación está preparando el avión para el despegue.,plurales,GPT-3.5_fewshot
+Las mujeres de la limpieza mantienen impecable el edificio de la empresa.,El personal de limpieza mantiene impecable el edificio de la empresa.,plurales,GPT-3.5_fewshot
+Los médicos están trabajando horas extra para atender a los pacientes.,El personal médico está trabajando horas extra para atender a los pacientes.,plurales,GPT-3.5_fewshot
+Las enfermeras cuidan con dedicación a los enfermos en el hospital.,El personal de enfermería cuida con dedicación a los enfermos en el hospital.,plurales,GPT-3.5_fewshot
+Los médicos y las enfermeras forman un equipo excepcional en el hospital.,El personal de la salud forma un equipo excepcional en el hospital.,plurales,GPT-3.5_fewshot
+Los candidatos están debatiendo sus propuestas ante el público.,Las personas candidatas están debatiendo sus propuestas ante el público.,plurales,GPT-3.5_fewshot
+El encargado está supervisando el trabajo en la fábrica.,La persona encargada está supervisando el trabajo en la fábrica.,plurales,GPT-3.5_fewshot
+El hombre camina erguido gracias a la evolución del hombre.,El ser humano camina erguido gracias a la evolución humana.,plurales,GPT-3.5_fewshot
+Los derechos del hombre deben ser respetados en todo momento.,Los derechos humanos deben ser respetados en todo momento.,plurales,GPT-3.5_fewshot
+El cuerpo del hombre es un tema de estudio en anatomía.,El cuerpo humano es un tema de estudio en anatomía.,plurales,GPT-3.5_fewshot
+Los andaluces disfrutan de su rica cultura y gastronomía.,El pueblo andaluz disfruta de su rica cultura y gastronomía.,plurales,GPT-3.5_fewshot
+Los irlandeses son conocidos por su hospitalidad y alegría.,La población de Irlanda es conocida por su hospitalidad y alegría.,plurales,GPT-3.5_fewshot
+El hombre urbano está acostumbrado al bullicio de la ciudad.,La población urbana está acostumbrada al bullicio de la ciudad.,plurales,GPT-3.5_fewshot
+Los inmigrantes y sus familias buscan una vida mejor en un país nuevo.,La población inmigrante busca una vida mejor en un país nuevo.,plurales,GPT-3.5_fewshot
+Los funcionarios trabajan para garantizar el funcionamiento del gobierno.,El funcionariado trabaja para garantizar el funcionamiento del gobierno.,plurales,GPT-3.5_fewshot
+Los vecinos se reúnen para celebrar el cumpleaños del barrio.,El vecindario se reúne para celebrar el cumpleaños del barrio.,plurales,GPT-3.5_fewshot
+"Los electores, los votantes, tienen la responsabilidad de elegir a sus representantes políticos.",El electorado tiene la responsabilidad de elegir a sus representantes políticos.,plurales,GPT-3.5_fewshot
+El director de estudios anunció nuevas políticas educativas.,La dirección de estudios anunció nuevas políticas educativas.,plural_neutro,GPT-3.5_fewshot
+La directora de estudios supervisó la implementación del nuevo plan de estudios.,La dirección de estudios supervisó la implementación del nuevo plan de estudios.,plural_neutro,GPT-3.5_fewshot
+Los directores de estudios están debatiendo sobre el currículo escolar.,La dirección de estudios está debatiendo sobre el currículo escolar.,plural_neutro,GPT-3.5_fewshot
+Las directoras de estudios organizaron un seminario para padres y maestros.,La dirección de estudios organizó un seminario para padres y maestros.,plural_neutro,GPT-3.5_fewshot
+El tutor ayudó al estudiante a prepararse para el examen.,La tutoría ayudó al estudiante a prepararse para el examen.,plural_neutro,GPT-3.5_fewshot
+La tutora ofreció apoyo académico individualizado a los alumnos.,La tutoría ofreció apoyo académico individualizado a los alumnos.,plural_neutro,GPT-3.5_fewshot
+Los tutores trabajaron en equipo para brindar orientación a los estudiantes.,La tutoría trabajó en equipo para brindar orientación a los estudiantes.,plural_neutro,GPT-3.5_fewshot
+Las tutoras organizaron sesiones de tutoría para mejorar el rendimiento académico.,La tutoría organizó sesiones para mejorar el rendimiento académico.,plural_neutro,GPT-3.5_fewshot
+El consultor brindó asesoramiento sobre estrategias de marketing.,La consultoría brindó asesoramiento sobre estrategias de marketing.,plural_neutro,GPT-3.5_fewshot
+La consultora realizó un análisis exhaustivo de la situación financiera.,La consultoría realizó un análisis exhaustivo de la situación financiera.,plural_neutro,GPT-3.5_fewshot
+Los consultores están desarrollando un plan de acción para la empresa.,La consultoría está desarrollando un plan de acción para la empresa.,plural_neutro,GPT-3.5_fewshot
+Las consultoras presentaron recomendaciones para mejorar la eficiencia operativa.,La consultoría presentó recomendaciones para mejorar la eficiencia operativa.,plural_neutro,GPT-3.5_fewshot
+El secretario organizó la agenda de la reunión.,La secretaría organizó la agenda de la reunión.,plural_neutro,GPT-3.5_fewshot
+La secretaria gestionó la correspondencia y los documentos importantes.,La secretaría gestionó la correspondencia y los documentos importantes.,plural_neutro,GPT-3.5_fewshot
+Los secretarios atendieron las llamadas telefónicas y programaron citas.,La secretaría atendió las llamadas telefónicas y programó citas.,plural_neutro,GPT-3.5_fewshot
+Las secretarias mantuvieron el orden en la oficina y recibieron a los visitantes.,La secretaría mantuvo el orden en la oficina y recibió a los visitantes.,plural_neutro,GPT-3.5_fewshot
+El redactor redactó un informe detallado sobre el proyecto.,La redacción redactó un informe detallado sobre el proyecto.,plural_neutro,GPT-3.5_fewshot
+La redactora revisó cuidadosamente el documento antes de su publicación.,La redacción revisó cuidadosamente el documento antes de su publicación.,plural_neutro,GPT-3.5_fewshot
+Los redactores colaboraron en la creación del manual de políticas.,La redacción colaboró en la creación del manual de políticas.,plural_neutro,GPT-3.5_fewshot
+Las redactoras escribieron artículos para el boletín informativo de la empresa.,La redacción escribió artículos para el boletín informativo de la empresa.,plural_neutro,GPT-3.5_fewshot
+El asesor ofreció orientación legal a sus clientes.,El consejo asesor ofreció orientación legal a sus clientes.,plural_neutro,GPT-3.5_fewshot
+La asesora brindó asesoramiento financiero a pequeñas empresas.,El consejo asesor brindó asesoramiento financiero a pequeñas empresas.,plural_neutro,GPT-3.5_fewshot
+Los asesores están capacitando a nuevos empleados en habilidades de comunicación.,El consejo asesor está capacitando a nuevos empleados en habilidades de comunicación.,plural_neutro,GPT-3.5_fewshot
+Las asesoras proporcionaron estrategias de desarrollo profesional a los clientes.,El consejo asesor proporcionó estrategias de desarrollo profesional a los clientes.,plural_neutro,GPT-3.5_fewshot
+El coordinador planificó el evento cultural de la escuela.,La coordinación planificó el evento cultural de la escuela.,plural_neutro,GPT-3.5_fewshot
+La coordinadora aseguró que todo estuviera listo para el día del evento.,La coordinación aseguró que todo estuviera listo para el día del evento.,plural_neutro,GPT-3.5_fewshot
+Los coordinadores trabajaron en estrecha colaboración con el equipo de logística.,La coordinación trabajó en estrecha colaboración con el equipo de logística.,plural_neutro,GPT-3.5_fewshot
+Las coordinadoras supervisaron la distribución de boletos y la seguridad durante el evento.,La coordinación supervisó la distribución de boletos y la seguridad durante el evento.,plural_neutro,GPT-3.5_fewshot
+El colaborador aportó nuevas ideas al proyecto de investigación.,Las colaboraciones aportaron nuevas ideas al proyecto de investigación.,plural_neutro,GPT-3.5_fewshot
+La colaboradora se destacó por su compromiso y dedicación al equipo.,Las colaboraciones se destacaron por su compromiso y dedicación al equipo.,plural_neutro,GPT-3.5_fewshot
+Los colaboradores trabajaron juntos para alcanzar los objetivos del proyecto.,Las colaboraciones trabajaron juntas para alcanzar los objetivos del proyecto.,plural_neutro,GPT-3.5_fewshot
+Las colaboradoras organizaron una jornada de voluntariado para ayudar a la comunidad.,Las colaboraciones organizaron una jornada de voluntariado para ayudar a la comunidad.,plural_neutro,GPT-3.5_fewshot
+El notario certificó la autenticidad del documento legal.,La notaría certificó la autenticidad del documento legal.,plural_neutro,GPT-3.5_fewshot
+La notaria revisó los detalles del contrato antes de la firma.,La notaría revisó los detalles del contrato antes de la firma.,plural_neutro,GPT-3.5_fewshot
+Los notarios están capacitados para realizar trámites legales importantes.,La notaría está capacitada para realizar trámites legales importantes.,plural_neutro,GPT-3.5_fewshot
+Las notarias mantuvieron registros precisos de las transacciones comerciales.,La notaría mantuvo registros precisos de las transacciones comerciales.,plural_neutro,GPT-3.5_fewshot
+El ministro anunció nuevas políticas para mejorar el sistema de salud.,El ministerio anunció nuevas políticas para mejorar el sistema de salud.,plural_neutro,GPT-3.5_fewshot
+La ministra lideró la reforma educativa con determinación.,El ministerio lideró la reforma educativa con determinación.,plural_neutro,GPT-3.5_fewshot
+Los ministros se reunieron para discutir sobre temas de seguridad nacional.,El grupo ministerial se reunió para discutir sobre temas de seguridad nacional.,plural_neutro,GPT-3.5_fewshot
+Las ministras trabajaron en conjunto para promover la igualdad de género en el gobierno.,El grupo ministerial trabajó en conjunto para promover la igualdad de género en el gobierno.,plural_neutro,GPT-3.5_fewshot
+El traductor ayudó a los visitantes extranjeros a comunicarse durante la conferencia.,La traducción ayudó a los visitantes extranjeros a comunicarse durante la conferencia.,plural_neutro,GPT-3.5_fewshot
+La traductora proporcionó interpretación simultánea durante la reunión internacional.,La traducción proporcionó interpretación simultánea durante la reunión internacional.,plural_neutro,GPT-3.5_fewshot
+Los traductores tradujeron documentos legales para clientes internacionales.,El equipo de traducción tradujo documentos legales para clientes internacionales.,plural_neutro,GPT-3.5_fewshot
+Las traductoras realizaron la traducción de un libro del inglés al español.,El equipo de traducción realizó la traducción de un libro del inglés al español.,plural_neutro,GPT-3.5_fewshot
+El distribuidor entregó los productos a tiempo en todas las tiendas.,La distribución entregó los productos a tiempo en todas las tiendas.,plural_neutro,GPT-3.5_fewshot
+La distribuidora coordinó la logística del transporte de mercancías.,La distribución coordinó la logística del transporte de mercancías.,plural_neutro,GPT-3.5_fewshot
+Los distribuidores trabajaron en estrecha colaboración con los fabricantes.,La distribución trabajó en estrecha colaboración con los fabricantes.,plural_neutro,GPT-3.5_fewshot
+Las distribuidoras negociaron nuevos contratos con proveedores para mejorar la oferta de productos.,La distribución negoció nuevos contratos con proveedores para mejorar la oferta de productos.,plural_neutro,GPT-3.5_fewshot
+"En una familia unida, los hermanos siempre intentan entenderse entre ellos, incluso en los momentos más difíciles.","En una familia unida, los hermanos siempre intentan entenderse, incluso en los momentos más difíciles.",omision,GPT-3.5_fewshot
+"En un equipo de trabajo colaborativo, los miembros siempre intentan entenderse entre ellos para lograr los objetivos comunes.","En un equipo de trabajo colaborativo, las personas que lo integran siempre intentan entenderse para lograr los objetivos comunes.",omision,GPT-3.5_fewshot
+"En una comunidad diversa, las personas siempre intentan entenderse entre ellas, respetando las diferencias culturales y de opinión.","En una comunidad diversa, las personas siempre intentan entenderse entre ellas, respetando las diferencias culturales y de opinión.",omision,GPT-3.5_fewshot
+"En una relación de pareja saludable, la pareja siempre intenta entenderse entre ellos, comunicándose abierta y honestamente.","En una relación de pareja saludable, la pareja siempre intenta entenderse, comunicándose abierta y honestamente.",omision,GPT-3.5_fewshot
+"En un grupo de amigos cercanos, siempre intentan entenderse entre ellos apoyándose mutuamente en los momentos de alegría y tristeza.","En un grupo de amigos cercanos, siempre intentan entenderse apoyándose mutuamente en los momentos de alegría y tristeza.",omision,GPT-3.5_fewshot
+El sospechoso podrá ser declarado culpable después del juicio.,La persona sospechosa podrá ser declarada culpable después del juicio.,parafrasis,GPT-3.5_fewshot
+El acusado podrá ser declarado inocente si se demuestra su coartada.,La persona acusada podrá ser declarada inocente si se demuestra su coartada.,parafrasis,GPT-3.5_fewshot
+El demandante podrá ser declarado victorioso si se demuestra su reclamación.,La persona demandante podrá ser declarada victoriosa si se demuestra su reclamación.,parafrasis,GPT-3.5_fewshot
+El imputado podrá ser declarado responsable si se encuentra evidencia en su contra.,La persona imputada podrá ser declarada responsable si se encuentra evidencia en su contra.,parafrasis,GPT-3.5_fewshot
+El beneficiario podrá ser declarado apto para recibir el subsidio si cumple con los requisitos.,La persona beneficiaria podrá ser declarada apta para recibir el subsidio si cumple con los requisitos.,parafrasis,GPT-3.5_fewshot
+El solicitante podrá ser declarado elegible para el puesto si supera la entrevista.,La persona solicitante podrá ser declarada elegible para el puesto si supera la entrevista.,parafrasis,GPT-3.5_fewshot
+El candidato podrá ser declarado idóneo para el cargo después de las pruebas de aptitud.,La candidatura podrá ser declarada idónea para el cargo después de las pruebas de aptitud.,parafrasis,GPT-3.5_fewshot
+El acusado podrá ser declarado apto para el tratamiento si el médico lo determina.,La persona acusada podrá ser declarada apta para el tratamiento si el médico lo determina.,parafrasis,GPT-3.5_fewshot
+El estudiante podrá ser declarado apto para pasar de año si aprueba todas las asignaturas.,El estudiantado podrá aceptarse para pasar de año si aprueba todas las asignaturas.,parafrasis,GPT-3.5_fewshot
+El trabajador podrá ser declarado capacitado para realizar la tarea si completa el curso de formación.,El personal podrá capacitarse para realizar la tarea si completa el curso de formación.,parafrasis,GPT-3.5_fewshot
+Había unos cincuenta asistentes en la conferencia sobre inteligencia artificial.,Había cerca de cincuenta asistentes en la conferencia sobre inteligencia artificial.,persona_generica,GPT-3.5_fewshot
+"En el concierto de rock, unos dos mil asistentes coreaban las canciones del grupo.","En el concierto de rock, aproximadamente dos mil asistentes coreaban las canciones del grupo.",persona_generica,GPT-3.5_fewshot
+Unos veinte asistentes participaron en el taller de cocina italiana.,Cerca de veinte asistentes participaron en el taller de cocina italiana.,persona_generica,GPT-3.5_fewshot
+"Durante el evento deportivo, unos trescientos asistentes animaban a su equipo favorito.","Durante el evento deportivo, aproximadamente trescientos asistentes animaban a su equipo favorito.",persona_generica,GPT-3.5_fewshot
+La exposición de arte contó con unos cien asistentes que admiraban las obras expuestas.,La exposición de arte contó con cerca de cien asistentes que admiraban las obras expuestas.,persona_generica,GPT-3.5_fewshot
+"En el seminario sobre emprendimiento, unos cuarenta asistentes tomaron notas y participaron en las discusiones.","En el seminario sobre emprendimiento, aproximadamente cuarenta asistentes tomaron notas y participaron en las discusiones.",persona_generica,GPT-3.5_fewshot
+Unos cincuenta asistentes disfrutaron de la presentación de la nueva colección de moda.,Cerca de cincuenta asistentes disfrutaron de la presentación de la nueva colección de moda.,persona_generica,GPT-3.5_fewshot
+"En la feria de tecnología, unos mil asistentes exploraban los últimos avances en dispositivos electrónicos.","En la feria de tecnología, aproximadamente mil asistentes exploraban los últimos avances en dispositivos electrónicos.",persona_generica,GPT-3.5_fewshot
+"Durante la reunión anual, unos doscientos asistentes discutieron los planes para el próximo año.","Durante la reunión anual, cerca de doscientos asistentes discutieron los planes para el próximo año.",persona_generica,GPT-3.5_fewshot
+Unos diez asistentes se unieron al grupo de voluntarios para limpiar el parque local.,Aproximadamente diez asistentes se unieron al grupo de voluntarios para limpiar el parque local.,persona_generica,GPT-3.5_fewshot
+"Esto no siempre lo comprenden los historiadores tradicionales, pues estos historiadores piensan que la Hacienda es el territorio propio de unos especialistas dedicados a acumular cifras y textos legales, sin preocupación alguna por las realidades de los humanos. Lo malo es que, con esta segregación, los especialistas de Hacienda se sienten empujados a la investigación especializada de sus cosas, sin profundizar en su contexto político y económico. Y los investigadores de la política y la economía se privan de herramientas indispensables para comprender los problemas que investigan.","Esto no siempre se comprende en la historia tradicional, pues se parte de que la investigación sobre la Hacienda es el territorio propio de una especialidad dedicada a acumular cifras y textos legales, sin preocupación alguna por las realidades humanas. Lo malo es que, con esta segregación, los estudios sobre este campo se concentran en la propia disciplina, sin profundizar en su contexto político y económico. Y quienes analizan la política y la economía se privan de herramientas indispensables para comprender los problemas que investigan.",otros,guia_IEM
+Los historiadores tradicionales,La historia tradicional,otros,guia_IEM
+la Hacienda es el territorio propio de unos especialistas dedicados,la Hacienda es el territorio propio de una especialidad,otros,guia_IEM
+realidades de los humanos,realidades humanas,otros,guia_IEM
+los investigadores de la política y la economía,quienes analizan la política y la economía,otros,guia_IEM
+"Como consecuencia del acelerado ritmo de vida actual, las múltiples tareas laborales y los diversos roles que actualmente deben cumplir los profesionales, se observa un problema en del aumento del nivel de estrés en las profesiones de académicos universitarios, problemática que conlleva a cambios de ánimo, disminución del rendimiento, ansiedad, dolores físicos, aparición de enfermedades y, en algunos casos, depresión severa; todo lo cual perjudica el cumplimiento de la labor profesional de estos.","Como consecuencia del acelerado ritmo de la vida moderna, las múltiples tareas laborales y los diversos roles profesionales que actualmente se deben cumplir, se observa un considerable aumento del nivel de estrés en la población académica universitaria, situación que conlleva a cambios de ánimo, disminución del rendimiento, estados de ansiedad, dolores físicos, aparición de enfermedades y, en algunos casos, depresión severa; todo lo cual perjudica su desempeño.",otros,guia_IEM
+"Dado que este no es un problema que se pueda evitar totalmente, la mejor manera de enfrentarlo es saber identificarlo, reconocer su impacto en la vida de los académicos y buscar el establecimiento de adecuados ambientes laborales para así disminuir los efectos negativos de este problema en la universidad.los diversos roles que actualmente deben cumplir los profesionales","Dado que este no un es problema que se pueda evitar totalmente, la mejor manera de enfrentarlo es saber identificarlo, reconocer su impacto en la vida de las personas y buscar el establecimiento de adecuados ambientes de trabajo para así disminuir sus efectos negativos en la institución.",otros,guia_IEM
+las profesiones de académicos universitarios,los diversos roles profesionales,otros,guia_IEM
+labor profesional de estos,la población académica universitaria,otros,guia_IEM
+labor profesional de estos,su desempeño,otros,guia_IEM
+en la vida de los académicos,su labor profesional,otros,guia_IEM
+"Arguedas tuvo la iniciativa de entrevistar a variedad de personajes del mundo nacional de las artes, editó las entrevistas filmadas y las incluyó como parte del material que se mostraba durante el desarrollo de sus clases. Esta actividad la realizó por espacio de varios años. Durante este tiempo, su archivo creció.",en la vida de las personas,otros,guia_IEM
+Las filmaciones incluyen las opiniones de artistas del grabado y conceptos y comentarios de especialistas en historia del arte. El escritor de este texto se interesó en el pensamiento manifestado por múltiples protagonistas del medio artístico en relación con el grabado en nuestro país.,"Arguedas tuvo la iniciativa de entrevistar a distintos grabadores y personajes del mundo artístico nacional, editó las entrevistas filmadas y las incluyó como parte del material que se mostraba durante el desarrollo de sus clases. Esta actividad, Arguedas la realizó por espacio de varios años. Durante este tiempo, su material creció.",otros,guia_IEM
+distintos grabadores y personajes del mundo artístico nacional,Las filmaciones incluyen las opiniones de artistas del grabado y conceptos y comentarios de historiadores del arte. Arguedas se interesó en el pensamiento que todos estos protagonistas del medio artístico manifestaban en relación con el grabado en nuestro país.,otros,guia_IEM
+las opiniones de artistas del grabado y conceptos y comentarios de historiadores del arte,variedad de personajes del mundo artístico nacional,otros,guia_IEM
+en el pensamiento que todos estos protagonistas del medio artístico manifestaban en relación con el grabado en nuestro país.,las opiniones de artistas del grabado y conceptos y comentarios de especialistas en historia del arte,otros,guia_IEM
+"Las redes sociales en internet son sitios web que permiten a los hombres establecer contactos entre sí para compartir  contenidos, intercambiar información y establecer discusiones y opiniones sobre temas comunes.",en el pensamiento manifestado por múltiples protagonistas del medio artístico en relación con el grabado en nuestro país.,otros,guia_IEM
+"Estas redes son de aparición relativamente reciente en el mundo de la informática, lo que implica que los jóvenes son los que han crecido junto a su desarrollo. Para los mayores, esto es, a partir de los 65 años, la situación no ha sido tan sencilla, en muchos casos, pues estos crecieron junto a los radios de transistores y televisores de perilla–, nunca han tenido contacto con una computadora, por eso comúnmente se les llama ""los inmigrantes de la tecnología""","Las redes sociales en internet son sitios web que permiten a los seres humanos establecer contactos entre sí para compartir contenidos, intercambiar información y establecer discusiones y opiniones sobre temas comunes.",otros,guia_IEM
+"Las redes sociales más populares están diseñadas generalmente para los jóvenes, por lo que no toman en cuenta las necesidades y limitaciones de los adultos mayores.","Estas redes son de aparición relativamente reciente en el mundo de la informática, lo que implica que las generaciones más jóvenes son las que han crecido junto a su desarrollo. Para las mayores, esto es, a partir de los 65 años, en muchos casos, la situación no ha sido tan sencilla, pues crecieron junto a los radios de transistores y televisores de perilla–, nunca han tenido contacto con una computadora, por eso comúnmente se les llama ""inmigrantes de la tecnología""",otros,guia_IEM
+los jóvenes,"Las redes sociales más populares están diseñadas generalmente para jóvenes, por lo que no toman en cuenta las necesidades y limitaciones de la persona adulta mayor.",otros,guia_IEM
+los mayores,las generaciones más jóvenes,otros,guia_IEM
+los inmigrantes de la tecnología ,las generaciones mayores,otros,guia_IEM
+"En esta segunda etapa se desarrolló la fase cualitativa de la investigación, pues los dos tutores que mediaron el curso contestaron una encuesta con escalas, listas de cotejo y preguntas abiertas. Asimismo, se les aplicó una entrevista con preguntas abiertas. Además, la investigadora los observó mientras estos atendían sus grupos en el aula.Las inundaciones afectaron a los vecinos del lugar. Estas inundaciones ocurren todos los inviernos. Los vecinos están muy preocupados por estas inundaciones; por el contrario, los munícipes no se refieren a las inundaciones y desconocen los daños que le hacen a este vecindario",inmigrantes de la tecnología,otros,guia_IEM
+,"En esta segunda etapa se desarrolló la fase cualitativa de la investigación, pues el tutor y la tutora que mediaron el curso contestaron una encuesta con escalas, listas de cotejo y preguntas abiertas. Asimismo, se les aplicó una entrevista con preguntas abiertas. Además, la investigadora les observó mientras estos atendían sus grupos en el aula.Las inundaciones afectaron a las familias del lugar. Esta situación ocurre todos los inviernos. Estas personas están muy preocupadas por este hecho; por el contrario, en la municipalidad no se refieren al tema y desconocen los daños causados a esta gente.",otros,guia_IEM

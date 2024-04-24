@@ -1,0 +1,103 @@
+gender_exclusive,gender_inclusive,origin,difficulty
+Los alumnos asistieron a clases regularmente,El alumnado asistió a clases regularmente,GPT-3.5_fewshot,plural_neutro
+Los alumnos organizaron un evento cultural,El alumnado organizó un evento cultural,GPT-3.5_fewshot,plural_neutro
+Los alumnos destacaron en sus estudios,El alumnado destacó en sus estudios,GPT-3.5_fewshot,plural_neutro
+Los alumnos recibieron reconocimiento por su trabajo,El alumnado recibió reconocimiento por su trabajo,GPT-3.5_fewshot,plural_neutro
+Los ciudadanos ejercieron su derecho al voto,La ciudadanía ejerció su derecho al voto,GPT-3.5_fewshot,plural_neutro
+Los ciudadanos protestaron por mejores servicios públicos,La ciudadanía protestó por mejores servicios públicos,GPT-3.5_fewshot,plural_neutro
+Los ciudadanos contribuyeron al desarrollo de la comunidad,La ciudadanía contribuyó al desarrollo de la comunidad,GPT-3.5_fewshot,plural_neutro
+Los ciudadanos participaron en la manifestación,La ciudadanía participó en la manifestación,GPT-3.5_fewshot,plural_neutro
+Los coordinadores organizaron el evento con éxito,La coordinación organizó el evento con éxito,GPT-3.5_fewshot,plural_neutro
+Los coordinadores dirigieron el proyecto de manera eficiente,La coordinación dirigió el proyecto de manera eficiente,GPT-3.5_fewshot,plural_neutro
+Los coordinadores coordinaron las actividades del equipo,La coordinación coordinó las actividades del equipo,GPT-3.5_fewshot,plural_neutro
+Los coordinadores planificaron el cronograma del proyecto,La coordinación planificó el cronograma del proyecto,GPT-3.5_fewshot,plural_neutro
+Los directores tomaron decisiones importantes para la escuela,La dirección tomó decisiones importantes para la escuela,GPT-3.5_fewshot,plural_neutro
+Los directores supervisaron el rendimiento del personal,La dirección supervisó el rendimiento del personal,GPT-3.5_fewshot,plural_neutro
+Los directores establecieron las políticas de la institución,La dirección estableció las políticas de la institución,GPT-3.5_fewshot,plural_neutro
+Los directores lideraron la implementación del nuevo programa,La dirección lideró la implementación del nuevo programa,GPT-3.5_fewshot,plural_neutro
+Los asesores brindaron orientación a los empleados nuevos,La asesoría brindó orientación a los empleados nuevos,GPT-3.5_fewshot,plural_neutro
+Los asesores ayudaron a resolver problemas de gestión,La asesoría ayudó a resolver problemas de gestión,GPT-3.5_fewshot,plural_neutro
+Los asesores proporcionaron asistencia técnica a los clientes,La asesoría proporcionó asistencia técnica a los clientes,GPT-3.5_fewshot,plural_neutro
+Los asesores ofrecieron recomendaciones para mejorar el rendimiento,La asesoría ofreció recomendaciones para mejorar el rendimiento,GPT-3.5_fewshot,plural_neutro
+Los legisladores debatieron la reforma fiscal,La legislación debatió la reforma fiscal,GPT-3.5_fewshot,plural_neutro
+Los legisladores aprobaron nuevas leyes de medio ambiente,La legislación aprobó nuevas leyes de medio ambiente,GPT-3.5_fewshot,plural_neutro
+Los legisladores promovieron políticas de inclusión social,La legislación promovió políticas de inclusión social,GPT-3.5_fewshot,plural_neutro
+Los legisladores revisaron el código penal,La legislación revisó el código penal,GPT-3.5_fewshot,plural_neutro
+Los senadores discutieron sobre la seguridad nacional,El Senado discutió sobre la seguridad nacional,GPT-3.5_fewshot,plural_neutro
+Los senadores votaron en contra de la reforma fiscal,El Senado votó en contra de la reforma fiscal,GPT-3.5_fewshot,plural_neutro
+Los senadores investigaron casos de corrupción,El Senado investigó casos de corrupción,GPT-3.5_fewshot,plural_neutro
+Los senadores aprobaron el tratado internacional,El Senado aprobó el tratado internacional,GPT-3.5_fewshot,plural_neutro
+Los organizadores coordinaron la logística del evento,La organización coordinó la logística del evento,GPT-3.5_fewshot,plural_neutro
+Los organizadores planificaron la conferencia anual,La organización planificó la conferencia anual,GPT-3.5_fewshot,plural_neutro
+Los organizadores reclutaron voluntarios para el evento,La organización reclutó voluntarios para el evento,GPT-3.5_fewshot,plural_neutro
+Los organizadores aseguraron patrocinadores para el evento,La organización aseguró patrocinadores para el evento,GPT-3.5_fewshot,plural_neutro
+Los estudiantes se reunieron en el aula para la clase,El estudiantado se reunió en el aula para la clase,GPT-3.5_fewshot,plural_neutro
+Los estudiantes demostraron su creatividad en el proyecto,El estudiantado demostró su creatividad en el proyecto,GPT-3.5_fewshot,plural_neutro
+Los estudiantes participaron en actividades extracurriculares,El estudiantado participó en actividades extracurriculares,GPT-3.5_fewshot,plural_neutro
+Los estudiantes organizaron un evento benéfico para la comunidad,El estudiantado organizó un evento benéfico para la comunidad,GPT-3.5_fewshot,plural_neutro
+Los secretarios gestionaron la correspondencia del departamento,La secretaría gestionó la correspondencia del departamento,GPT-3.5_fewshot,plural_neutro
+Los secretarios organizaron los archivos de la oficina,La secretaría organizaron los archivos de la oficina,GPT-3.5_fewshot,plural_neutro
+Los secretarios atendieron las llamadas telefónicas,La secretaría atendió las llamadas telefónicas,GPT-3.5_fewshot,plural_neutro
+Los secretarios programaron las reuniones del equipo,La secretaría programó las reuniones del equipo,GPT-3.5_fewshot,plural_neutro
+Las secretarias recibieron a los visitantes en la recepción,La secretaría recibió a los visitantes en la recepción,GPT-3.5_fewshot,plural_neutro
+Las secretarias coordinaron los viajes de negocios,La secretaría coordinó los viajes de negocios,GPT-3.5_fewshot,plural_neutro
+Las secretarias organizaron los eventos corporativos,La secretaría organizó los eventos corporativos,GPT-3.5_fewshot,plural_neutro
+Las secretarias manejaron la agenda del director ejecutivo,La secretaría manejó la agenda del director ejecutivo,GPT-3.5_fewshot,plural_neutro
+Los consejeros brindaron orientación a los empleados,La consejería brindó orientación a los empleados,GPT-3.5_fewshot,plural_neutro
+Los consejeros participaron en la toma de decisiones,La consejería participó en la toma de decisiones,GPT-3.5_fewshot,plural_neutro
+Los consejeros ofrecieron asesoramiento a los estudiantes,La consejería ofreció asesoramiento a los estudiantes,GPT-3.5_fewshot,plural_neutro
+Los consejeros gestionaron los recursos financieros,La consejería gestionó los recursos financieros,GPT-3.5_fewshot,plural_neutro
+Los delegados representaron a su país en la conferencia,La delegación representó a su país en la conferencia,GPT-3.5_fewshot,plural_neutro
+Los delegados negociaron acuerdos comerciales,La delegación negoció acuerdos comerciales,GPT-3.5_fewshot,plural_neutro
+Los delegados visitaron varias instituciones,La delegación visitó varias instituciones,GPT-3.5_fewshot,plural_neutro
+Los delegados discutieron temas de cooperación internacional,La delegación discutió temas de cooperación internacional,GPT-3.5_fewshot,plural_neutro
+Los funcionarios realizaron inspecciones en la empresa,El funcionariado realizó inspecciones en la empresa,GPT-3.5_fewshot,plural_neutro
+Los funcionarios administraron los recursos públicos,El funcionariado administró los recursos públicos,GPT-3.5_fewshot,plural_neutro
+Los funcionarios gestionaron trámites administrativos,El funcionariado gestionó trámites administrativos,GPT-3.5_fewshot,plural_neutro
+Los funcionarios representaron al gobierno en la reunión,El funcionariado representó al gobierno en la reunión,GPT-3.5_fewshot,plural_neutro
+El presidente anunció nuevas políticas públicas,La presidencia anunció nuevas políticas públicas,GPT-3.5_fewshot,plural_neutro
+El presidente representó al país en la cumbre internacional,La presidencia representó al país en la cumbre internacional,GPT-3.5_fewshot,plural_neutro
+El presidente supervisó la implementación de reformas,La presidencia supervisó la implementación de reformas,GPT-3.5_fewshot,plural_neutro
+El presidente nombró nuevos ministros en su gabinete,La presidencia nombró nuevos ministros en su gabinete,GPT-3.5_fewshot,plural_neutro
+El presidente promulgó leyes para la protección del medio ambiente,La presidencia promulgó leyes para la protección del medio ambiente,GPT-3.5_fewshot,plural_neutro
+El presidente inauguró un nuevo hospital en la región,La presidencia inauguró un nuevo hospital en la región,GPT-3.5_fewshot,plural_neutro
+El intendente inauguró el nuevo centro comunitario,La intendencia inauguró el nuevo centro comunitario,GPT-3.5_fewshot,plural_neutro
+El intendente gestionó los servicios municipales,La intendencia gestionó los servicios municipales,GPT-3.5_fewshot,plural_neutro
+El intendente coordinó la limpieza de la ciudad,La intendencia coordinó la limpieza de la ciudad,GPT-3.5_fewshot,plural_neutro
+El intendente atendió las solicitudes de los ciudadanos,La intendencia atendió las solicitudes de los ciudadanos,GPT-3.5_fewshot,plural_neutro
+El gobernador anunció medidas de seguridad,El gobierno anunció medidas de seguridad,GPT-3.5_fewshot,plural_neutro
+El gobernador implementó políticas de desarrollo económico,El gobierno implementó políticas de desarrollo económico,GPT-3.5_fewshot,plural_neutro
+El gobernador promovió la educación en la región,El gobierno promovió la educación en la región,GPT-3.5_fewshot,plural_neutro
+El gobernador gestionó recursos para infraestructura,El gobierno gestionó recursos para infraestructura,GPT-3.5_fewshot,plural_neutro
+El ministro presentó el plan de salud,El ministerio presentó el plan de salud,GPT-3.5_fewshot,plural_neutro
+El ministro coordinó la entrega de ayudas sociales,El ministerio coordinó la entrega de ayudas sociales,GPT-3.5_fewshot,plural_neutro
+El ministro supervisó la implementación de políticas educativas,El ministerio supervisó la implementación de políticas educativas,GPT-3.5_fewshot,plural_neutro
+El ministro anunció cambios en el sistema judicial,El ministerio anunció cambios en el sistema judicial,GPT-3.5_fewshot,plural_neutro
+Los ministros se reunieron para discutir presupuesto,Los ministerios se reunieron para discutir presupuesto,GPT-3.5_fewshot,plural_neutro
+Los ministros supervisaron la implementación de programas sociales,Los ministerios supervisaron la implementación de programas sociales,GPT-3.5_fewshot,plural_neutro
+Los ministros anunciaron medidas para proteger el medio ambiente,Los ministerios anunciaron medidas para proteger el medio ambiente,GPT-3.5_fewshot,plural_neutro
+Los ministros gestionaron fondos para proyectos de infraestructura,Los ministerios gestionaron fondos para proyectos de infraestructura,GPT-3.5_fewshot,plural_neutro
+Los profesores impartieron clases de matemáticas avanzadas,El profesorado impartió clases de matemáticas avanzadas,GPT-3.5_fewshot,plural_neutro
+Los profesores organizaron talleres de desarrollo profesional,El profesorado organizó talleres de desarrollo profesional,GPT-3.5_fewshot,plural_neutro
+Los profesores evaluaron el desempeño de los estudiantes,El profesorado evaluó el desempeño de los estudiantes,GPT-3.5_fewshot,plural_neutro
+Los profesores participaron en actividades extracurriculares,El profesorado participó en actividades extracurriculares,GPT-3.5_fewshot,plural_neutro
+Los vecinos se reunieron para discutir sobre la seguridad del barrio,El vecindario se reunió para discutir sobre la seguridad del barrio,GPT-3.5_fewshot,plural_neutro
+Los vecinos organizaron una limpieza comunitaria,El vecindario organizó una limpieza comunitaria,GPT-3.5_fewshot,plural_neutro
+Los vecinos compartieron recursos durante la emergencia,El vecindario compartió recursos durante la emergencia,GPT-3.5_fewshot,plural_neutro
+Los vecinos participaron en la planificación de eventos locales,El vecindario participó en la planificación de eventos locales,GPT-3.5_fewshot,plural_neutro
+Los jefes coordinaron la implementación del nuevo sistema,La jefatura coordinó la implementación del nuevo sistema,GPT-3.5_fewshot,plural_neutro
+Los jefes establecieron las políticas de la compañía,La jefatura estableció las políticas de la compañía,GPT-3.5_fewshot,plural_neutro
+Los jefes motivaron al equipo a alcanzar objetivos,La jefatura motivó al equipo a alcanzar objetivos,GPT-3.5_fewshot,plural_neutro
+Los jefes organizaron eventos de integración para el personal,La jefatura organizó eventos de integración para el personal,GPT-3.5_fewshot,plural_neutro
+Los jóvenes participaron en actividades deportivas,La juventud participó en actividades deportivas,GPT-3.5_fewshot,plural_neutro
+Los jóvenes exploraron oportunidades de educación superior,La juventud exploró oportunidades de educación superior,GPT-3.5_fewshot,plural_neutro
+Los jóvenes expresaron sus opiniones en el debate público,La juventud expresó sus opiniones en el debate público,GPT-3.5_fewshot,plural_neutro
+Los jóvenes contribuyeron al desarrollo de la comunidad,La juventud contribuyó al desarrollo de la comunidad,GPT-3.5_fewshot,plural_neutro
+El vicedirector asumió temporalmente las responsabilidades del director,La vicedirección asumió temporalmente las responsabilidades del director,GPT-3.5_fewshot,plural_neutro
+El vicedirector supervisó la implementación de nuevas políticas,La vicedirección supervisó la implementación de nuevas políticas,GPT-3.5_fewshot,plural_neutro
+El vicedirector lideró la reunión del equipo administrativo,La vicedirección lideró la reunión del equipo administrativo,GPT-3.5_fewshot,plural_neutro
+El vicedirector colaboró estrechamente con el personal docente,La vicedirección colaboró estrechamente con el personal docente,GPT-3.5_fewshot,plural_neutro
+El vicepresidente presentó el informe financiero en la junta directiva,La vicepresidencia presentó el informe financiero en la junta directiva,GPT-3.5_fewshot,plural_neutro
+El vicepresidente participó en la planificación estratégica de la empresa,La vicepresidencia participó en la planificación estratégica de la empresa,GPT-3.5_fewshot,plural_neutro
+El vicepresidente coordinó la campaña de responsabilidad social corporativa,La vicepresidencia coordinó la campaña de responsabilidad social corporativa,GPT-3.5_fewshot,plural_neutro
+El vicepresidente representó a la compañía en la conferencia internacional,La vicepresidencia representó a la compañía en la conferencia internacional,GPT-3.5_fewshot,plural_neutro

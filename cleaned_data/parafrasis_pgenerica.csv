@@ -1,0 +1,100 @@
+gender_exclusive,gender_inclusive,origin,difficulty
+Es importante revisar cuidadosamente la lista de invitados para asegurarnos de que no estén incluidos en ella los nombres de personas no autorizadas.,Es importante revisar cuidadosamente la lista de invitados para asegurarnos de que no figuren en ella los nombres de personas no autorizadas.,GPT-3.5_fewshot,persona_generica
+"Para garantizar la imparcialidad del proceso de selección, cualquier candidato con conflictos de interés no podrá ser declarado apto para el puesto.","Para garantizar la imparcialidad del proceso de selección, cualquier candidatura con conflictos de interés no podrá aceptarse para el puesto.",GPT-3.5_fewshot,persona_generica
+"Antes de proceder con la votación, debemos asegurarnos de que todos los candidatos cumplan con los requisitos establecidos y que ninguno esté incluido en la lista de exclusiones.","Antes de proceder con la votación, debemos asegurarnos de que todas las candidaturas cumplan con los requisitos establecidos y que ninguna figure en la lista de exclusiones.",GPT-3.5_fewshot,persona_generica
+"En el examen médico, si se detecta algún problema de salud grave, el paciente no podrá ser declarado apto para participar en la competencia deportiva.","En el examen médico, si se detecta algún problema de salud grave, el paciente no podrá aceptarse para participar en la competencia deportiva.",GPT-3.5_fewshot,persona_generica
+Los nuevos empleados están capacitados para utilizar el software de gestión de proyectos.,Las nuevas incorporaciones son capaces de utilizar el software de gestión de proyectos.,GPT-3.5_fewshot,persona_generica
+Los socorristas están capacitados para brindar primeros auxilios en situaciones de emergencia.,El personal de rescate es capaz de brindar primeros auxilios en situaciones de emergencia.,GPT-3.5_fewshot,persona_generica
+Los ingenieros están capacitados para diseñar y supervisar la construcción de estructuras civiles.,Las personas con formación en ingeniería son capaces de diseñar y supervisar la construcción de estructuras civiles.,GPT-3.5_fewshot,persona_generica
+Unos dos mil empleados fueron afectados por la reducción de personal.,Aproximadamente dos mil empleados fueron afectados por la reducción de personal.,GPT-3.5_fewshot,parafrasis
+Unos cincuenta voluntarios participaron en la limpieza del parque.,Aproximadamente cincuenta voluntarios participaron en la limpieza del parque.,GPT-3.5_fewshot,parafrasis
+Unos trescientos estudiantes asistieron a la conferencia sobre cambio climático.,Aproximadamente trescientos estudiantes asistieron a la conferencia sobre cambio climático.,GPT-3.5_fewshot,parafrasis
+Unos veinte invitados confirmaron su asistencia a la reunión.,Aproximadamente veinte invitados confirmaron su asistencia a la reunión.,GPT-3.5_fewshot,parafrasis
+Unos diez trabajadores se presentaron voluntarios para el proyecto.,Aproximadamente diez trabajadores se presentaron voluntarios para el proyecto.,GPT-3.5_fewshot,parafrasis
+"Según han denunciado muchos expertos, el cambio climático es una amenaza global.","Según ha denunciado multitud de especialistas, el cambio climático es una amenaza global.",GPT-3.5_fewshot,parafrasis
+"Según han denunciado muchos expertos, la contaminación del aire está alcanzando niveles críticos.","Según han denunciado gran cantidad de especialistas, la contaminación del aire está alcanzando niveles críticos.",GPT-3.5_fewshot,parafrasis
+"Según han señalado muchos expertos, la inteligencia artificial transformará nuestras vidas.","Según ha señalado multitud de especialistas, la inteligencia artificial transformará nuestras vidas.",GPT-3.5_fewshot,parafrasis
+"Según han advertido muchos expertos, la deforestación está causando graves daños al medio ambiente.","Según han advertido gran cantidad de especialistas, la deforestación está causando graves daños al medio ambiente.",GPT-3.5_fewshot,parafrasis
+"Según han estimado muchos expertos, la economía mundial enfrentará desafíos significativos en el próximo año.","Según han estimado multitud de especialistas, la economía mundial enfrentará desafíos significativos en el próximo año.",GPT-3.5_fewshot,parafrasis
+"Según han pronosticado muchos expertos, la próxima década será crucial para abordar el cambio climático.","Según han pronosticado gran cantidad de especialistas, la próxima década será crucial para abordar el cambio climático.",GPT-3.5_fewshot,parafrasis
+Podrán ser candidatos a la competencia todos los estudiantes que cumplan con los requisitos.,Podrán presentar su candidatura a la competencia todos los estudiantes que cumplan con los requisitos.,GPT-3.5_fewshot,parafrasis
+En el concurso podrán ser candidatos todos los miembros del equipo de desarrollo.,En el concurso podrán presentar su candidatura todos los miembros del equipo de desarrollo.,GPT-3.5_fewshot,parafrasis
+Se solicitará a los voluntarios que participen en el evento comunitario.,Se solicitará a cada persona voluntaria que participe en el evento comunitario.,GPT-3.5_fewshot,parafrasis
+Se anima a los estudiantes a expresar sus opiniones en la asamblea estudiantil.,Se anima a cada estudiante a expresar sus opiniones en la asamblea estudiantil.,GPT-3.5_fewshot,parafrasis
+Se invitará a los empleados a contribuir con ideas para mejorar el ambiente laboral.,Se invitará a cada persona empleada a contribuir con ideas para mejorar el ambiente laboral.,GPT-3.5_fewshot,parafrasis
+Se alienta a los ciudadanos a reciclar para reducir la contaminación.,Se alienta a cada ciudadano a reciclar para reducir la contaminación.,GPT-3.5_fewshot,parafrasis
+Se espera que los miembros del equipo colaboren estrechamente en el proyecto.,Se espera que cada miembro del equipo colabore estrechamente en el proyecto.,GPT-3.5_fewshot,parafrasis
+"Decidieron, forzados por la crisis económica, reducir los costos operativos.","Decidieron, debido a la crisis económica, reducir los costos operativos.",GPT-3.5_fewshot,parafrasis
+"Escogieron, forzados por las restricciones de tiempo, presentar el informe de manera abreviada.","Escogieron, debido a las restricciones de tiempo, presentar el informe de manera abreviada.",GPT-3.5_fewshot,parafrasis
+El equipo de investigación tuvo que modificar el enfoque metodológico forzado por la falta de datos.,"El equipo de investigación tuvo que modificar el enfoque metodológico, debido a la falta de datos.",GPT-3.5_fewshot,parafrasis
+Los organizadores del evento cambiaron la fecha forzados por las condiciones climáticas adversas.,Los organizadores del evento cambiaron la fecha debido a las condiciones climáticas adversas.,GPT-3.5_fewshot,parafrasis
+Optaron por implementar medidas de seguridad adicionales forzados por incidentes anteriores.,Optaron por implementar medidas de seguridad adicionales debido a incidentes anteriores.,GPT-3.5_fewshot,parafrasis
+Se vieron obligados a cancelar el proyecto forzados por la falta de financiamiento.,Se vieron obligados a cancelar el proyecto debido a la falta de financiamiento.,GPT-3.5_fewshot,parafrasis
+Aquellos que no estén registrados en el sistema;,Aquellas personas que no aparezcan en el sistema,GPT-3.5_fewshot,parafrasis
+El personal que no esté contemplado en el contrato no podrá asistir;,El personal que no se contemple en el contrato no podrá asistir,GPT-3.5_fewshot,parafrasis
+Que no estén contemplados en el presupuesto;,Que no aparezcan en el presupuesto,GPT-3.5_fewshot,parafrasis
+Dichos empleados recibirán capacitación adicional.,Tales empleados recibirán capacitación adicional.,GPT-3.5_fewshot,persona_generica
+Dichos estudiantes asistirán al seminario sobre liderazgo.,Tales estudiantes asistirán al seminario sobre liderazgo.,GPT-3.5_fewshot,persona_generica
+Dichos voluntarios participarán en la limpieza del parque.,Tales voluntarios participarán en la limpieza del parque.,GPT-3.5_fewshot,persona_generica
+Dichos especialistas ofrecerán asesoramiento técnico.,Gran cantidad de especialistas ofrecerán asesoramiento técnico.,GPT-3.5_fewshot,persona_generica
+Dichos miembros del comité revisarán el informe de auditoría.,Tales miembros del comité revisarán el informe de auditoría.,GPT-3.5_fewshot,persona_generica
+El que tenga más experiencia será seleccionado para el puesto.,Quien tenga más experiencia será seleccionado para el puesto.,GPT-3.5_fewshot,persona_generica
+La que demuestre liderazgo será promovida a un puesto de supervisión.,Quien demuestre liderazgo será promovido a un puesto de supervisión.,GPT-3.5_fewshot,persona_generica
+Los que completen el entrenamiento recibirán un certificado de finalización.,Quienes completen el entrenamiento recibirán un certificado de finalización.,GPT-3.5_fewshot,persona_generica
+Las que demuestren habilidades de comunicación serán asignadas al equipo de ventas.,Quienes demuestren habilidades de comunicación serán asignados al equipo de ventas.,GPT-3.5_fewshot,persona_generica
+El que se esfuerce más será recompensado.,Quien se esfuerce más será recompensado.,GPT-3.5_fewshot,persona_generica
+La que demuestre compromiso y dedicación será ascendida.,Quien demuestre compromiso y dedicación será ascendido.,GPT-3.5_fewshot,persona_generica
+Los que sobresalgan en la presentación serán elogiados por el equipo.,Quienes sobresalgan en la presentación serán elogiados por el equipo.,GPT-3.5_fewshot,persona_generica
+Las que muestren liderazgo serán consideradas para roles de gestión.,Quienes muestren liderazgo serán considerados para roles de gestión.,GPT-3.5_fewshot,persona_generica
+El que demuestre iniciativa será reconocido por su contribución.,Quien demuestre iniciativa será reconocido por su contribución.,GPT-3.5_fewshot,persona_generica
+La que tenga la mejor calificación será premiada al final del curso.,Quien tenga la mejor calificación será premiado al final del curso.,GPT-3.5_fewshot,persona_generica
+Los que participen activamente en el proyecto serán reconocidos.,Quienes participen activamente en el proyecto serán reconocidos.,GPT-3.5_fewshot,persona_generica
+Las que presenten propuestas innovadoras serán consideradas para financiamiento.,Quienes presenten propuestas innovadoras serán considerados para financiamiento.,GPT-3.5_fewshot,persona_generica
+El que demuestre comprensión del tema será seleccionado para liderar el equipo.,Quien demuestre comprensión del tema será seleccionado para liderar el equipo.,GPT-3.5_fewshot,persona_generica
+La que tenga experiencia previa en ventas será contratada para el puesto.,Quien tenga experiencia previa en ventas será contratado para el puesto.,GPT-3.5_fewshot,persona_generica
+Los que demuestren habilidades técnicas serán asignados a proyectos especializados.,Quienes demuestren habilidades técnicas serán asignados a proyectos especializados.,GPT-3.5_fewshot,persona_generica
+Las que demuestren capacidad de trabajo en equipo serán consideradas para ascensos.,Quienes demuestren capacidad de trabajo en equipo serán considerados para ascensos.,GPT-3.5_fewshot,persona_generica
+Todos los estudiantes deben entregar sus proyectos antes de la fecha límite.,Cualquier persona estudiante debe entregar su proyecto antes de la fecha límite.,GPT-3.5_fewshot,persona_generica
+Todos los solicitantes deben llenar el formulario de inscripción.,Cualquier persona solicitante debe llenar el formulario de inscripción.,GPT-3.5_fewshot,persona_generica
+Todos los empleados deben asistir a la reunión de hoy.,Cualquier persona empleada debe asistir a la reunión de hoy.,GPT-3.5_fewshot,persona_generica
+Todos los que hayan pagado la cuota de membresía tendrán acceso al evento.,Cualesquiera que hayan pagado la cuota de membresía tendrán acceso al evento.,GPT-3.5_fewshot,persona_generica
+Todos los clientes recibirán un descuento en su próxima compra.,Cualquier persona cliente recibirá un descuento en su próxima compra.,GPT-3.5_fewshot,persona_generica
+Todos los participantes deben firmar el acuerdo de confidencialidad.,Cualesquiera que participen deben firmar el acuerdo de confidencialidad.,GPT-3.5_fewshot,persona_generica
+Se ruega enviar la documentación solicitada al interesado antes del plazo establecido.,Se ruega enviar la documentación solicitada a la persona interesada antes del plazo establecido.,GPT-3.5_fewshot,persona_generica
+El formulario de inscripción debe ser completado y entregado al interesado en la oficina de admisiones.,El formulario de inscripción debe ser completado y entregado a la persona interesada en la oficina de admisiones.,GPT-3.5_fewshot,persona_generica
+La información adicional será proporcionada al interesado durante la entrevista informativa.,La información adicional será proporcionada a la persona interesada durante la entrevista informativa.,GPT-3.5_fewshot,persona_generica
+A los andaluces les gusta pasar tiempo al aire libre disfrutando del clima cálido.,Al pueblo andaluz le gusta pasar tiempo al aire libre disfrutando del clima cálido.,GPT-3.5_fewshot,culturas
+Los andaluces tienen una fuerte identidad regional y están orgullosos de su herencia.,El pueblo andaluz tiene una fuerte identidad regional y está orgulloso de su herencia.,GPT-3.5_fewshot,culturas
+La gastronomía gallega es apreciada por los gallegos y por los visitantes.,La gastronomía gallega es apreciada por el pueblo gallego y por los visitantes.,GPT-3.5_fewshot,culturas
+El folclore vasco es una parte importante de la cultura de los vascos.,El folclore vasco es una parte importante de la cultura del pueblo vasco.,GPT-3.5_fewshot,culturas
+Los canarios disfrutan de un clima cálido durante todo el año.,El pueblo canario disfruta de un clima cálido durante todo el año.,GPT-3.5_fewshot,culturas
+Los extremeños son conocidos por su hospitalidad y calidez.,El pueblo extremeño es conocido por su hospitalidad y calidez.,GPT-3.5_fewshot,culturas
+La arquitectura murciana refleja la historia y la identidad de los murcianos.,La arquitectura murciana refleja la historia y la identidad del pueblo murciano.,GPT-3.5_fewshot,culturas
+La música andaluza es admirada tanto por los andaluces como por los forasteros.,La música andaluza es admirada tanto por el pueblo andaluz como por los forasteros.,GPT-3.5_fewshot,culturas
+La literatura castellana ha influido en la cultura española y en la de otros países.,La literatura castellana ha influido en la cultura española y en la de otros países.,GPT-3.5_fewshot,culturas
+La danza flamenca es una expresión artística muy arraigada entre los sevillanos.,La danza flamenca es una expresión artística muy arraigada entre el pueblo sevillano.,GPT-3.5_fewshot,culturas
+La tradición festiva valenciana atrae a visitantes de todo el mundo y a los valencianos.,La tradición festiva valenciana atrae a visitantes de todo el mundo y al pueblo valenciano.,GPT-3.5_fewshot,culturas
+La rica historia asturiana se refleja en los monumentos y en las tradiciones de los asturianos.,La rica historia asturiana se refleja en los monumentos y en las tradiciones del pueblo asturiano.,GPT-3.5_fewshot,culturas
+La belleza natural de las Islas Baleares es apreciada por los residentes y por los turistas.,La belleza natural de las Islas Baleares es apreciada por los residentes y por el pueblo balear.,GPT-3.5_fewshot,culturas
+La herencia cultural aragonesa se puede ver en las festividades y en la arquitectura de los aragoneses.,La herencia cultural aragonesa se puede ver en las festividades y en la arquitectura del pueblo aragonés.,GPT-3.5_fewshot,culturas
+La comida típica castellana es muy valorada por los castellanos y por los visitantes.,La comida típica castellana es muy valorada por los castellanos y por el pueblo castellano.,GPT-3.5_fewshot,culturas
+La historia canaria está marcada por su posición geográfica y por la diversidad de su población.,La historia canaria está marcada por su posición geográfica y por la diversidad de su pueblo canario.,GPT-3.5_fewshot,culturas
+La artesanía cántabra es reconocida por los cántabros y por quienes la descubren.,La artesanía cántabra es reconocida por el pueblo cántabro y por quienes la descubren.,GPT-3.5_fewshot,culturas
+La cultura navarra se manifiesta en las fiestas y en las tradiciones de los navarros.,La cultura navarra se manifiesta en las fiestas y en las tradiciones del pueblo navarro.,GPT-3.5_fewshot,culturas
+Estamos dedicados a mejorar la calidad de vida de nuestros ciudadanos.,Nos dedicamos a mejorar la calidad de vida de nuestros ciudadanos.,GPT-3.5_fewshot,others
+Estamos comprometidos con la protección del medio ambiente y la conservación de la naturaleza.,Tenemos un compromiso con la protección del medio ambiente y la conservación de la naturaleza.,GPT-3.5_fewshot,others
+Estamos enfocados en brindar soluciones innovadoras a nuestros clientes.,Tenemos el foco puesto en brindar soluciones innovadoras a nuestros clientes.,GPT-3.5_fewshot,others
+Estamos decididos a promover la igualdad de oportunidades en nuestra comunidad.,Tenemos la determinación de promover la igualdad de oportunidades en nuestra comunidad.,GPT-3.5_fewshot,others
+Estamos comprometidos con la mejora continua de nuestros productos y servicios.,Tenemos un compromiso con la mejora continua de nuestros productos y servicios.,GPT-3.5_fewshot,others
+Estamos enfocados en encontrar nuevas formas de resolver problemas.,Tenemos el foco puesto en encontrar nuevas formas de resolver problemas.,GPT-3.5_fewshot,others
+Estamos decididos a superar los desafíos que se nos presenten.,Tenemos la determinación de superar los desafíos que se nos presenten.,GPT-3.5_fewshot,others
+Estamos comprometidos con el desarrollo personal y profesional de nuestros empleados.,Tenemos un compromiso con el desarrollo personal y profesional de nuestros empleados.,GPT-3.5_fewshot,others
+Estamos enfocados en fortalecer nuestras relaciones con nuestros socios comerciales.,Tenemos el foco puesto en fortalecer nuestras relaciones con nuestros socios comerciales.,GPT-3.5_fewshot,others
+Estamos decididos a cumplir con los más altos estándares de calidad.,Tenemos la determinación de cumplir con los más altos estándares de calidad.,GPT-3.5_fewshot,others
+La integración de los migrantes y sus familias en la comunidad es fundamental para promover la diversidad y la inclusión.,La integración de la población migrante en la comunidad es fundamental para promover la diversidad y la inclusión.,GPT-3.5_fewshot,otros
+Es importante brindar apoyo social y recursos educativos a los migrantes y sus familias para facilitar su adaptación al nuevo entorno.,Es importante brindar apoyo social y recursos educativos a la población migrante para facilitar su adaptación al nuevo entorno.,GPT-3.5_fewshot,otros
+"Los migrantes y sus familias enfrentan desafíos al adaptarse a un nuevo país, como el aprendizaje de un nuevo idioma y la búsqueda de empleo.","La población migrante enfrenta desafíos al adaptarse a un nuevo país, como el aprendizaje de un nuevo idioma y la búsqueda de empleo.",GPT-3.5_fewshot,otros
+Se solicita que el interesado presente su documentación completa antes de la fecha límite.,Se solicita que la persona interesada presente su documentación completa antes de la fecha límite.,GPT-3.5_fewshot,otros
+La empresa se compromete a proporcionar toda la información necesaria al interesado durante el proceso de contratación.,La empresa se compromete a proporcionar toda la información necesaria a la persona interesada durante el proceso de contratación.,GPT-3.5_fewshot,otros
+El departamento de atención al cliente está disponible para resolver cualquier duda que tenga el interesado.,El departamento de atención al cliente está disponible para resolver cualquier duda que tenga la persona interesada.,GPT-3.5_fewshot,otros
+Cada persona tiene su propia historia y experiencias que lo moldean.,Cada persona tiene su propia historia y experiencias que la moldean.,GPT-3.5_fewshot,otros

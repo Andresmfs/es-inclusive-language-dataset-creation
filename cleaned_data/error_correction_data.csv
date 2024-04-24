@@ -1,0 +1,174 @@
+gender_exclusive,gender_inclusive,origin,difficulty
+"Siendo las 9.30 hs del 1 de febrero se reúnen los miembros del Consejo Directivo del SVAC, integrado por los Dras. XXX, XXX, XXX; en representación del personal de apoyo, XXXX; en representación de los becarios XXX, convocados por el Director del SVAC, y el Vicedirector, XXX para dar tratamiento a los siguientes temas:","Siendo las 9.30 hs del 1 de febrero se reúnen quienes conforman el Consejo Directivo del Instituto SVAC. En representación de las y los investigadores, las Dras. XXX, XXX, y los Dres. XX y XX; en representación del personal de apoyo, XXX; y en representación de las/los becarias/os XXX. Esta reunión fue convocada por la Dirección del Instituto SVAC, Dr./Dra. XXX y Dr./Dra. XXXXX para dar tratamiento a los siguientes temas:",guia_CONICET,dificultades_variadas
+También se informa sobre la capacitación a miembros del Instituto LCsM que estén interesados en formar parte del comité. Se decide elevar una nota con los nombres de los interesados y su disponibilidad para fijar fechas de reuniones y capacitación con los responsables del área de comunicación.,También se informa que quienes quieran formar parte del comité tienen una capacitación disponible. Se decide elevar una nota incluyendo los nombres de las personas interesadas y su disponibilidad para fijar fechas de reuniones y capacitación con quienes son responsables del área de comunicación.,guia_CONICET,dificultades_variadas
+"Se propone la figura de un coordinador, quien será elegido por sus compañeros del mismo estamento con acuerdo del Consejo Directivo y a la vez siendo miembro del mismo.","Se propone la figura de un/a coordinador/a, quien será elegido/a por sus compañeros del mismo estamento con acuerdo del Consejo Directivo y a la vez siendo miembro del mismo.",guia_CONICET,dificultades_variadas
+personas que sufren Síndrome de Down,personas que presentan Síndrome de Down,guia_CHRYSALLIS,terminologia
+personas que sufren Síndrome de Down,personas que tienen Síndrome de Down,guia_CHRYSALLIS,terminologia
+Los ancianos necesitan cuidados especiales.,Las personas de la tercera edad necesitan cuidados especiales.,GPT-3.5_fewshot,terminologia
+Los ciegos no pueden ver.,Las personas ciegas no pueden ver.,GPT-3.5_fewshot,terminologia
+Los discapacitados tienen dificultades para acceder a ciertos lugares.,Las personas con discapacidad tienen dificultades para acceder a ciertos lugares.,GPT-3.5_fewshot,terminologia
+Los homosexuales enfrentan discriminación en algunos entornos.,Las personas homosexuales enfrentan discriminación en algunos entornos.,GPT-3.5_fewshot,terminologia
+Los indígenas viven en condiciones precarias.,Las personas indígenas viven en condiciones precarias.,GPT-3.5_fewshot,terminologia
+Los delincuentes deben ser castigados con dureza.,Las personas que cometen delitos deben ser castigadas con dureza.,GPT-3.5_fewshot,terminologia
+Los pobres tienen dificultades para acceder a la atención médica.,Las personas en situación de pobreza tienen dificultades para acceder a la atención médica.,GPT-3.5_fewshot,terminologia
+Los drogadictos necesitan ayuda para rehabilitarse.,Las personas con problemas de adicción necesitan ayuda para rehabilitarse.,GPT-3.5_fewshot,terminologia
+Los enfermos mentales a menudo son estigmatizados por la sociedad.,Las personas con enfermedades mentales a menudo son estigmatizadas por la sociedad.,GPT-3.5_fewshot,terminologia
+Los inmigrantes ilegales deben ser deportados.,Las personas inmigrantes en situación irregular deben regularizar su situación migratoria.,GPT-3.5_fewshot,terminologia
+Los minusválidos necesitan adaptaciones en el entorno.,Las personas con discapacidad necesitan adaptaciones en el entorno.,GPT-3.5_fewshot,terminologia
+Los transexuales enfrentan discriminación en el lugar de trabajo.,Las personas transgénero enfrentan discriminación en el lugar de trabajo.,GPT-3.5_fewshot,terminologia
+Los mendigos viven en la calle.,Las personas en situación de calle viven en condiciones precarias.,GPT-3.5_fewshot,terminologia
+Los niños hiperactivos tienen dificultades en la escuela.,Las personas menores con Trastorno por Déficit de Atención e Hiperactividad (TDAH) tienen dificultades en la escuela.,GPT-3.5_fewshot,terminologia
+Los alcohólicos sufren problemas de salud.,Las personas con problemas de alcoholismo sufren problemas de salud.,GPT-3.5_fewshot,terminologia
+Los sin techo necesitan refugio y alimentos.,Las personas sin hogar necesitan refugio y alimentos.,GPT-3.5_fewshot,terminologia
+Los gordos son objeto de burlas en la sociedad.,Las personas con sobrepeso u obesidad son objeto de burlas en la sociedad.,GPT-3.5_fewshot,terminologia
+Los autistas tienen dificultades para comunicarse.,Las personas con trastorno del espectro autista tienen dificultades para comunicarse.,GPT-3.5_fewshot,terminologia
+Los ancianos están más expuestos al riesgo de caídas.,Las personas mayores están más expuestas al riesgo de caídas.,GPT-3.5_fewshot,terminologia
+Los esclavos eran tratados como propiedad.,Las personas esclavizadas eran tratadas como propiedad.,GPT-3.5_fewshot,terminologia
+Los presos deben cumplir sus condenas.,Las personas privadas de libertad deben cumplir sus condenas.,GPT-3.5_fewshot,terminologia
+Los homosexuales tienen el derecho de casarse.,Las personas homosexuales tienen el derecho de casarse.,GPT-3.5_fewshot,terminologia
+Los mendigos buscan refugio en las calles.,Las personas que viven en situación de calle buscan refugio en las calles.,GPT-3.5_fewshot,terminologia
+Los mendigos piden limosna en las esquinas.,Las personas que piden limosna se encuentran en las esquinas.,GPT-3.5_fewshot,terminologia
+Los prisioneros tienen horarios estrictos en la cárcel.,Las personas privadas de libertad tienen horarios estrictos en la cárcel.,GPT-3.5_fewshot,terminologia
+Los drogadictos necesitan tratamiento para superar su adicción.,Las personas con problemas de adicción necesitan tratamiento para superar su adicción.,GPT-3.5_fewshot,terminologia
+Los sordos utilizan lenguaje de señas para comunicarse.,Las personas sordas utilizan lenguaje de señas para comunicarse.,GPT-3.5_fewshot,terminologia
+Los mendigos viven en condiciones precarias en la calle.,Las personas en situación de calle viven en condiciones precarias en la calle.,GPT-3.5_fewshot,terminologia
+Los delincuentes deben pagar por sus crímenes.,Las personas que cometen delitos deben pagar por sus crímenes.,GPT-3.5_fewshot,terminologia
+Los discapacitados necesitan asistencia especial.,Las personas con discapacidad necesitan asistencia especial.,GPT-3.5_fewshot,terminologia
+Los drogadictos luchan contra la adicción.,Las personas con problemas de adicción luchan contra la adicción.,GPT-3.5_fewshot,terminologia
+Los autistas tienen dificultades para socializar.,Las personas con autismo tienen dificultades para socializar.,GPT-3.5_fewshot,terminologia
+Los homosexuales luchan por la igualdad de derechos.,Las personas homosexuales luchan por la igualdad de derechos.,GPT-3.5_fewshot,terminologia
+Los inmigrantes buscan una vida mejor en el extranjero.,Las personas inmigrantes buscan una vida mejor en el extranjero.,GPT-3.5_fewshot,terminologia
+Los negros enfrentan discriminación racial en muchas áreas.,Las personas negras enfrentan discriminación racial en muchas áreas.,GPT-3.5_fewshot,terminologia
+Los discapacitados utilizan rampas para acceder a los edificios.,Las personas con discapacidad utilizan rampas para acceder a los edificios.,GPT-3.5_fewshot,terminologia
+Los migrantes cruzan fronteras en busca de oportunidades.,Las personas migrantes cruzan fronteras en busca de oportunidades.,GPT-3.5_fewshot,terminologia
+Los ancianos pueden sentirse solos en la vejez.,Las personas mayores pueden sentirse solas en la vejez.,GPT-3.5_fewshot,terminologia
+Los discapacitados necesitan adaptaciones en el transporte público.,Las personas con discapacidad necesitan adaptaciones en el transporte público.,GPT-3.5_fewshot,terminologia
+Los indígenas son los primeros habitantes de estas tierras.,Las personas indígenas son los primeros habitantes de estas tierras.,GPT-3.5_fewshot,terminologia
+Los migrantes son una fuerza laboral importante en muchos países.,Las personas migrantes son una fuerza laboral importante en muchos países.,GPT-3.5_fewshot,terminologia
+Los criminales deben ser castigados por sus acciones.,Las personas que cometen crímenes deben ser castigadas por sus acciones.,GPT-3.5_fewshot,terminologia
+Los criminales deben ser castigados por sus acciones.,Las personas que cometen actos delictivos deben ser responsables por sus acciones.,GPT-3.5_fewshot,terminologia
+Los refugiados buscan protección en otros países debido a conflictos armados.,Las personas refugiadas buscan protección en otros países debido a conflictos armados.,GPT-3.5_fewshot,terminologia
+Los sordomudos utilizan lenguaje de señas para comunicarse.,Las personas sordomudas utilizan lenguaje de señas para comunicarse.,GPT-3.5_fewshot,terminologia
+Los gitanos enfrentan discriminación étnica en algunos países.,Las personas gitanas enfrentan discriminación étnica en algunos países.,GPT-3.5_fewshot,terminologia
+Los ciegos utilizan bastones para desplazarse con seguridad.,Las personas ciegas utilizan bastones para desplazarse con seguridad.,GPT-3.5_fewshot,terminologia
+Los discapacitados necesitan apoyo para desarrollar su potencial.,Las personas con discapacidad necesitan apoyo para desarrollar su potencial.,GPT-3.5_fewshot,terminologia
+Los indigentes duermen en las calles debido a la falta de vivienda.,Las personas en situación de indigencia duermen en las calles debido a la falta de vivienda.,GPT-3.5_fewshot,terminologia
+Los musulmanes practican el islam como su religión.,Las personas musulmanas practican el islam como su religión.,GPT-3.5_fewshot,terminologia
+Los musulmanes celebran el mes de Ramadán con ayuno y oración.,Las personas musulmanas celebran el mes de Ramadán con ayuno y oración.,GPT-3.5_fewshot,terminologia
+Los musulmanes enfrentan estereotipos y prejuicios en la sociedad.,Las personas musulmanas enfrentan estereotipos y prejuicios en la sociedad.,GPT-3.5_fewshot,terminologia
+Los musulmanes hacen peregrinación a la ciudad de La Meca.,Las personas musulmanas hacen peregrinación a la ciudad de La Meca.,GPT-3.5_fewshot,terminologia
+Las lesbianas luchan por la igualdad de derechos en la sociedad.,Las mujeres lesbianas luchan por la igualdad de derechos en la sociedad.,GPT-3.5_fewshot,terminologia
+Las lesbianas enfrentan discriminación basada en su orientación sexual.,Las mujeres lesbianas enfrentan discriminación basada en su orientación sexual.,GPT-3.5_fewshot,terminologia
+Las lesbianas tienen relaciones románticas con otras mujeres.,Las mujeres lesbianas tienen relaciones románticas con otras mujeres.,GPT-3.5_fewshot,terminologia
+Las lesbianas celebran el orgullo LGBTQ+ con desfiles y eventos.,Las mujeres lesbianas celebran el orgullo LGBTQ+ con desfiles y eventos.,GPT-3.5_fewshot,terminologia
+Los gitanos preservan su cultura y tradiciones a lo largo de generaciones.,El pueblo gitano preserva su cultura y tradiciones a lo largo de generaciones.,GPT-3.5_fewshot,terminologia
+Los gitanos son conocidos por su música y baile flamenco.,El pueblo gitano es conocido por su música y baile flamenco.,GPT-3.5_fewshot,terminologia
+Los gitanos enfrentan discriminación y estigmatización en algunas comunidades.,El pueblo gitano enfrenta discriminación y estigmatización en algunas comunidades.,GPT-3.5_fewshot,terminologia
+El cojo subió las escaleras con dificultad.,La persona con discapacidad física subió las escaleras con dificultad.,GPT-3.5_fewshot,terminologia
+La coja tuvo problemas para caminar sobre el terreno irregular.,La persona con movilidad reducida tuvo problemas para caminar sobre el terreno irregular.,GPT-3.5_fewshot,terminologia
+No permitieron que el cojo participara en la carrera.,No permitieron que la persona con discapacidad física participara en la carrera.,GPT-3.5_fewshot,terminologia
+La coja utilizó un bastón para desplazarse por el parque.,La persona con movilidad reducida utilizó un bastón para desplazarse por el parque.,GPT-3.5_fewshot,terminologia
+El manco no pudo cargar las cajas pesadas.,La persona con discapacidad física no pudo cargar las cajas pesadas.,GPT-3.5_fewshot,terminologia
+La manca aprendió a escribir con su mano hábil.,La persona con movilidad reducida aprendió a escribir con su mano hábil.,GPT-3.5_fewshot,terminologia
+El manco necesitaba ayuda para abrir la puerta.,La persona con discapacidad física necesitaba ayuda para abrir la puerta.,GPT-3.5_fewshot,terminologia
+La manca practicaba deportes adaptados para mantenerse activa.,La persona con movilidad reducida practicaba deportes adaptados para mantenerse activa.,GPT-3.5_fewshot,terminologia
+El paralítico necesitaba una silla de ruedas para moverse.,La persona con discapacidad física necesitaba una silla de ruedas para moverse.,GPT-3.5_fewshot,terminologia
+La paralítica recibió terapia de rehabilitación para mejorar su movilidad.,La persona con movilidad reducida recibió terapia de rehabilitación para mejorar su movilidad.,GPT-3.5_fewshot,terminologia
+El paralítico tenía dificultades para acceder a lugares públicos sin rampas.,La persona con discapacidad física tenía dificultades para acceder a lugares públicos sin rampas.,GPT-3.5_fewshot,terminologia
+La paralítica requería asistencia para realizar actividades cotidianas.,La persona con movilidad reducida requería asistencia para realizar actividades cotidianas.,GPT-3.5_fewshot,terminologia
+El esquizofrénico necesita tomar medicación para controlar los síntomas.,La persona con diagnóstico de esquizofrenia necesita tomar medicación para controlar los síntomas.,GPT-3.5_fewshot,terminologia
+La esquizofrénica asiste a terapia regularmente para gestionar su condición.,La persona con diagnóstico de esquizofrenia asiste a terapia regularmente para gestionar su condición.,GPT-3.5_fewshot,terminologia
+El esquizofrénico experimenta episodios de alucinaciones y delirios.,La persona con diagnóstico de esquizofrenia experimenta episodios de alucinaciones y delirios.,GPT-3.5_fewshot,terminologia
+La esquizofrénica necesita apoyo y comprensión de su entorno cercano.,La persona con diagnóstico de esquizofrenia necesita apoyo y comprensión de su entorno cercano.,GPT-3.5_fewshot,terminologia
+El enfermo mental necesita tratamiento psicológico adecuado.,La persona con trastorno de salud mental necesita tratamiento psicológico adecuado.,GPT-3.5_fewshot,terminologia
+La enferma mental lucha contra el estigma asociado a su condición.,La persona con enfermedad mental lucha contra el estigma asociado a su condición.,GPT-3.5_fewshot,terminologia
+Los hermafroditas son personas con características sexuales ambiguas.,Las personas intersexuales pueden nacer con características sexuales ambiguas,GPT-3.5_fewshot,terminologia
+Los hermafroditas enfrentan estigmatización y discriminación en la sociedad.,"Las personas intersexuales enfrentan estigmatización y discriminación en la sociedad.""",GPT-3.5_fewshot,terminologia
+El tratamiento médico de los hermafroditas ha sido controvertido.,El tratamiento médico de las personas intersexuales ha sido controvertido.,GPT-3.5_fewshot,terminologia
+Hermafroditas han sido sometidos a cirugías genitales sin su consentimiento.,Las personas intersexuales han sido sometidas a cirugías genitales sin su consentimiento.,GPT-3.5_fewshot,terminologia
+El cambio de sexo es un proceso complejo que implica intervenciones médicas y sociales.,La transición es un proceso complejo que implica intervenciones médicas y sociales.,GPT-3.5_fewshot,terminologia
+Las personas que desean un cambio de sexo deben pasar por evaluaciones psicológicas y médicas.,Las personas que desean una transición deben pasar por evaluaciones psicológicas y médicas.,GPT-3.5_fewshot,terminologia
+El cambio de sexo puede implicar terapia hormonal y cirugía de reasignación genital.,La transición puede implicar terapia hormonal y cirugía de reasignación genital.,GPT-3.5_fewshot,terminologia
+El cambio de sexo puede ser un paso importante en el camino hacia la autenticidad de género.,La transición puede ser un paso importante en el camino hacia la autenticidad de género.,GPT-3.5_fewshot,terminologia
+Los países tercermundistas enfrentan numerosos desafíos económicos y sociales.,Los países empobrecidos enfrentan numerosos desafíos económicos y sociales.,GPT-3.5_fewshot,terminologia
+La ayuda internacional se dirige a los países del tercer mundo para combatir la pobreza.,La ayuda internacional se dirige a los países empobrecidos para combatir la pobreza.,GPT-3.5_fewshot,terminologia
+La infraestructura deficiente es común en los países tercermundistas.,La infraestructura deficiente es común en los países empobrecidos.,GPT-3.5_fewshot,terminologia
+La deuda externa es una carga significativa para muchos países del tercer mundo,La deuda externa es una carga significativa para muchos países empobrecidos.,GPT-3.5_fewshot,terminologia
+Los padres juegan un papel fundamental en la educación de sus hijos.,La familia juega un papel fundamental en la educación de sus hijos.,GPT-3.5_fewshot,terminologia
+Los padres deben estar presentes en la vida de sus hijos para brindar apoyo y orientación.,Las madres y los padres deben estar presentes en la vida de sus hijos para brindar apoyo y orientación.,GPT-3.5_fewshot,terminologia
+Los padres son responsables de inculcar valores y principios en sus hijos desde una edad temprana.,Las madres y los padres son responsables de inculcar valores y principios en sus hijos desde una edad temprana.,GPT-3.5_fewshot,terminologia
+Es importante que los padres participen activamente en la crianza y el cuidado de los niños.,s importante que las madres y los padres participen activamente en la crianza y el cuidado de los niños.,GPT-3.5_fewshot,terminologia
+"“la cultura nos pertenece a todos,
+y su construcción…” ","“la cultura le pertenece a toda la
+ciudadanía, y su construcción…”",guia_CL,persona_generica
+"“… que busca aumentar el universo
+de beneficiarios…” ","“… que busca aumentar el universo
+de la población beneficiaria…”",guia_CL,persona_generica
+"“fortalecimiento de la asociatividad
+cultural de los jóvenes chilenos.”","“fortalecimiento de la asociatividad
+cultural de la juventud chilena”",guia_CL,plural_neutro
+"“Seis de los estudios chilenos de diseño
+más innovadores del país, compuestos
+por jóvenes diseñadores…” ","“Seis de los estudios chilenos de diseño
+más innovadores del país, compuestos por
+jóvenes diseñadoras y diseñadores…”",guia_CL,plural_complejo
+"“que contó con la participación de
+más de 3 mil ciudadanos…”","“que contó con la participación de
+más de 3 mil personas…” ",guia_CL,persona_generica
+"“Se apoya la creación en arte y cultura de
+los chilenos residentes en el exterior”","“Se apoya la creación en arte y cultura de la
+población chilena residente en el exterior”",guia_CL,plural_complejo
+"“… sistema de relaciones laborales
+entre directivos y funcionarios…”","… sistema de relaciones laborales entre
+las personas pertenecientes al estamento
+directivo y personas funcionarias…”",guia_CL,persona_generica
+"“La protección de los derechos de autor, de
+imagen y de protección laboral que corresponde
+a los creadores, artistas e intérpretes”","“La protección de los derechos de autor y autora, de
+imagen y de protección laboral que corresponde a
+aquellas personas creadoras, artistas e intérpretes",guia_CL,dificultades_variadas
+"“… en caso de que sus proyectos sean
+seleccionados, los postulantes deberán…” ","“… en caso de que sus proyectos sean seleccionados,
+las personas postuladas deberán…”",guia_CL,persona_generica
+"“… los criterios con que se eligieron
+a los nueve ganadores”",“… los criterios con que se eligieron a cada persona ganadora”,guia_CL,persona_generica
+"“La cultura da al hombre la capacidad
+de reflexión sobre sí mismo.” ","“La cultura da a la humanidad la capacidad
+de reflexión sobre sí misma.”",guia_CL,persona_generica
+"“Potenciar y promover el rol de
+los agentes culturales.”","“Potenciar y promover el rol de las personas
+encargadas de la gestión cultural.” ",guia_CL,persona_generica
+"“Los asesores externos de este Consejo
+son profesionales relacionados con…” ","“La asesoría externa de este Consejo está compuesta
+por personas profesionales relacionadas con…” ",guia_CL,dificultades_variadas
+"“… diversos actores y representantes
+de los sectores artísticos…”","“… existiendo una diversidad de actrices y actores,
+como representantes de los sectores artísticos…”",guia_CL,plural_complejo
+“… las creaciones de trece coreógrafos chilenos” ,"“… las creaciones de trece coreógrafas
+y coreógrafos chilenas/os” ",guia_CL,dificultades_variadas
+"“En tanto, los nominados podrán ser elegidos
+o autoproclamados, para luego…” ","“En tanto, la gente nominada podrá ser
+elegida o autoproclamada, para luego…” ",guia_CL,persona_generica
+"“Se fomenta la asociatividad entre los creadores,
+productores, gestores e intermediarios”","“Se fomenta la asociatividad entre personas
+creadoras, productoras, gestoras e intermediarias”",guia_CL,persona_generica
+"“Se promueve la divulgación de los
+derechos laborales de los artistas”","“Se promueve la divulgación de los derechos
+laborales para profesionales de las artes”",guia_CL,omision
+"Se promueven procesos formativos para la
+creación destinado a niños y jóvenes…”","“Se promueven procesos formativos para la
+creación destinado a niños, niñas y jóvenes…” ",guia_CL,plural_complejo
+"“Se crean procesos formativos para la creación
+destinados a adultos mayores en…”","“Se crean procesos formativos para la creación
+destinados a adultas y adultos mayores en…”",guia_CL,plural_complejo
+"“… expresiones culturales de los pueblos originarios
+y las tradiciones culturales de los inmigrantes”. ","“… expresiones culturales de los pueblos originarios y
+las tradiciones culturales de la población inmigrante”",guia_CL,culturas
+Los desempleados enfrentan dificultades para encontrar trabajo en la actual economía.,Las personas en situación de desempleo enfrentan dificultades para encontrar trabajo en la actual economía.,GPT-3.5_fewshot,terminologia
+La desempleada recibió ayuda del gobierno para buscar empleo.,La persona en situación de desempleo recibió ayuda del gobierno para buscar empleo.,GPT-3.5_fewshot,terminologia
+Los desempleados pueden experimentar estrés financiero y emocional,Las personas en situación de desempleo pueden experimentar estrés financiero y emocional.,GPT-3.5_fewshot,terminologia
+El desempleado necesita actualizar sus habilidades para ser más competitivo en el mercado laboral.,La persona en situación de desempleo necesita actualizar sus habilidades para ser más competitiva en el mercado laboral.,GPT-3.5_fewshot,terminologia
+Los deudores deben pagar sus deudas a tiempo para evitar consecuencias financieras.,Las personas deudoras deben pagar sus deudas a tiempo para evitar consecuencias financieras.,GPT-3.5_fewshot,terminologia
+La deudora tiene dificultades para saldar sus préstamos debido a la falta de ingresos.,La persona deudora tiene dificultades para saldar sus préstamos debido a la falta de ingresos.,GPT-3.5_fewshot,terminologia
+Los deudores pueden solicitar un plan de pago adecuado a sus necesidades financieras.,Quienes adeudan pueden solicitar un plan de pago adecuado a sus necesidades financieras.,GPT-3.5_fewshot,terminologia
+El deudor debe cumplir con sus obligaciones financieras para mantener su crédito en buen estado.,La persona deudora debe cumplir con sus obligaciones financieras para mantener su crédito en buen estado.,GPT-3.5_fewshot,terminologia

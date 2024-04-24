@@ -1,0 +1,198 @@
+gender_exclusive,gender_inclusive,origin,difficulty
+El presidente Milei anunció nuevas políticas públicas.,El presidente Milei anunció nuevas políticas públicas.,GPT-3.5_fewshot,nombres_propios
+El presidente Fernández representó al país en la cumbre internacional.,El presidente Fernández representó al país en la cumbre internacional.,GPT-3.5_fewshot,nombres_propios
+El presidente Macri supervisó la implementación de reformas.,El presidente Macri supervisó la implementación de reformas.,GPT-3.5_fewshot,nombres_propios
+El presidente López nombró nuevos ministros en su gabinete.,El presidente López nombró nuevos ministros en su gabinete.,GPT-3.5_fewshot,nombres_propios
+El presidente Fernández promulgó leyes para la protección del medio ambiente.,El presidente Fernández promulgó leyes para la protección del medio ambiente.,GPT-3.5_fewshot,nombres_propios
+El presidente Martínez inauguró un nuevo hospital en la región.,El presidente Martínez inauguró un nuevo hospital en la región.,GPT-3.5_fewshot,nombres_propios
+El intendente González inauguró el nuevo centro comunitario.,El intendente González inauguró el nuevo centro comunitario.,GPT-3.5_fewshot,nombres_propios
+El intendente Martínez gestionó los servicios municipales.,El intendente Martínez gestionó los servicios municipales.,GPT-3.5_fewshot,nombres_propios
+El intendente Pérez coordinó la limpieza de la ciudad.,El intendente Pérez coordinó la limpieza de la ciudad.,GPT-3.5_fewshot,nombres_propios
+El intendente Rodríguez atendió las solicitudes de los ciudadanos.,El intendente Rodríguez atendió las solicitudes de los ciudadanos.,GPT-3.5_fewshot,nombres_propios
+El gobernador Rodríguez anunció medidas de seguridad.,El gobernador Rodríguez anunció medidas de seguridad.,GPT-3.5_fewshot,nombres_propios
+El gobernador Gómez implementó políticas de desarrollo económico.,El gobernador Gómez implementó políticas de desarrollo económico.,GPT-3.5_fewshot,nombres_propios
+El gobernador Pérez promovió la educación en la región.,El gobernador Pérez promovió la educación en la región.,GPT-3.5_fewshot,nombres_propios
+El gobernador Sánchez gestionó recursos para infraestructura.,El gobernador Sánchez gestionó recursos para infraestructura.,GPT-3.5_fewshot,nombres_propios
+El ministro López presentó el plan de salud.,El ministro López presentó el plan de salud.,GPT-3.5_fewshot,nombres_propios
+El ministro Pérez coordinó la entrega de ayudas sociales.,El ministro Pérez coordinó la entrega de ayudas sociales.,GPT-3.5_fewshot,nombres_propios
+El ministro García supervisó la implementación de políticas educativas.,El ministro García supervisó la implementación de políticas educativas.,GPT-3.5_fewshot,nombres_propios
+El ministro Rodríguez anunció cambios en el sistema judicial.,El ministro Rodríguez anunció cambios en el sistema judicial.,GPT-3.5_fewshot,nombres_propios
+El vicedirector González asumió temporalmente las responsabilidades del director.,El vicedirector González asumió temporalmente las responsabilidades del director.,GPT-3.5_fewshot,nombres_propios
+El vicedirector Pérez supervisó la implementación de nuevas políticas.,El vicedirector Pérez supervisó la implementación de nuevas políticas.,GPT-3.5_fewshot,nombres_propios
+El vicedirector Martínez lideró la reunión del equipo administrativo.,El vicedirector Martínez lideró la reunión del equipo administrativo.,GPT-3.5_fewshot,nombres_propios
+El vicedirector Sánchez colaboró estrechamente con el personal docente.,El vicedirector Sánchez colaboró estrechamente con el personal docente.,GPT-3.5_fewshot,nombres_propios
+El vicepresidente López presentó el informe financiero en la junta directiva.,El vicepresidente López presentó el informe financiero en la junta directiva.,GPT-3.5_fewshot,nombres_propios
+El vicepresidente Rodríguez participó en la planificación estratégica de la empresa.,El vicepresidente Rodríguez participó en la planificación estratégica de la empresa.,GPT-3.5_fewshot,nombres_propios
+El vicepresidente Martínez coordinó la campaña de responsabilidad social corporativa.,El vicepresidente Martínez coordinó la campaña de responsabilidad social corporativa.,GPT-3.5_fewshot,nombres_propios
+El vicepresidente González representó a la compañía en la conferencia internacional.,El vicepresidente González representó a la compañía en la conferencia internacional.,GPT-3.5_fewshot,nombres_propios
+Los alumnos Diego García y Alejandro Martínez asistieron a clases regularmente,Los alumnos Diego García y Alejandro Martínez asistieron a clases regularmente,GPT-3.5_fewshot,nombres_propios
+"Los alumnos Miguel López, José Rodríguez y Andrés Sánchez organizaron un evento cultural","Los alumnos Miguel López, José Rodríguez y Andrés Sánchez organizaron un evento cultural",GPT-3.5_fewshot,nombres_propios
+Los alumnos Wei Chen y Hiroshi Tanaka destacaron en sus estudios,Los alumnos Wei Chen y Hiroshi Tanaka destacaron en sus estudios,GPT-3.5_fewshot,nombres_propios
+"Los alumnos Ahmed Hassan, Muhammad Ali y Ali Ahmed recibieron reconocimiento por su trabajo","Los alumnos Ahmed Hassan, Muhammad Ali y Ali Ahmed recibieron reconocimiento por su trabajo",GPT-3.5_fewshot,nombres_propios
+Los ciudadanos Juan Pérez y Miguel Torres ejercieron su derecho al voto,Los ciudadanos Juan Pérez y Miguel Torres ejercieron su derecho al voto,GPT-3.5_fewshot,nombres_propios
+Los ciudadanos Wei Zhang y Li Wang protestaron por mejores servicios públicos,Los ciudadanos Wei Zhang y Li Wang protestaron por mejores servicios públicos,GPT-3.5_fewshot,nombres_propios
+Los ciudadanos Ahmed Mahmoud y Mohamed Ali contribuyeron al desarrollo de la comunidad,Los ciudadanos Ahmed Mahmoud y Mohamed Ali contribuyeron al desarrollo de la comunidad,GPT-3.5_fewshot,nombres_propios
+Los ciudadanos Abdul Rahman Khan y Muhammad Khan participaron en la manifestación,Los ciudadanos Abdul Rahman Khan y Muhammad Khan participaron en la manifestación,GPT-3.5_fewshot,nombres_propios
+Los coordinadores Carlos Sánchez y Javier Pérez organizaron el evento con éxito,Los coordinadores Carlos Sánchez y Javier Pérez organizaron el evento con éxito,GPT-3.5_fewshot,nombres_propios
+Los coordinadores Daniel Martínez y José García dirigieron el proyecto de manera eficiente,Los coordinadores Daniel Martínez y José García dirigieron el proyecto de manera eficiente,GPT-3.5_fewshot,nombres_propios
+Los coordinadores Ali Ahmed y Wei Zhang coordinaron las actividades del equipo,Los coordinadores Ali Ahmed y Wei Zhang coordinaron las actividades del equipo,GPT-3.5_fewshot,nombres_propios
+Los coordinadores Santiago García y Juan Martínez planificaron el cronograma del proyecto,Los coordinadores Santiago García y Juan Martínez planificaron el cronograma del proyecto,GPT-3.5_fewshot,nombres_propios
+Los directores Alberto Martínez y Rafael Gómez tomaron decisiones importantes para la escuela,Los directores Alberto Martínez y Rafael Gómez tomaron decisiones importantes para la escuela,GPT-3.5_fewshot,nombres_propios
+Los directores Ali Khan y Abdul Rahman Khan supervisaron el rendimiento del personal,Los directores Ali Khan y Abdul Rahman Khan supervisaron el rendimiento del personal,GPT-3.5_fewshot,nombres_propios
+Los directores Muhammad Khan y Wei Zhang establecieron las políticas de la institución,Los directores Muhammad Khan y Wei Zhang establecieron las políticas de la institución,GPT-3.5_fewshot,nombres_propios
+Los directores Li Wang y Miguel Torres lideraron la implementación del nuevo programa,Los directores Li Wang y Miguel Torres lideraron la implementación del nuevo programa,GPT-3.5_fewshot,nombres_propios
+Los asesores Fernando González y Javier Pérez brindaron orientación a los empleados nuevos,Los asesores Fernando González y Javier Pérez brindaron orientación a los empleados nuevos,GPT-3.5_fewshot,nombres_propios
+Los asesores José Sánchez y David Martínez ayudaron a resolver problemas de gestión,Los asesores José Sánchez y David Martínez ayudaron a resolver problemas de gestión,GPT-3.5_fewshot,nombres_propios
+Los asesores Wei Chen y Hiroshi Tanaka proporcionaron asistencia técnica a los clientes,Los asesores Wei Chen y Hiroshi Tanaka proporcionaron asistencia técnica a los clientes,GPT-3.5_fewshot,nombres_propios
+Los asesores Santiago García y Juan Martínez ofrecieron recomendaciones para mejorar el rendimiento,Los asesores Santiago García y Juan Martínez ofrecieron recomendaciones para mejorar el rendimiento,GPT-3.5_fewshot,nombres_propios
+Los legisladores Juan Pérez y Diego García debatieron la reforma fiscal,Los legisladores Juan Pérez y Diego García debatieron la reforma fiscal,GPT-3.5_fewshot,nombres_propios
+Los legisladores Manuel Sánchez y Francisco Gutiérrez aprobaron nuevas leyes de medio ambiente,Los legisladores Manuel Sánchez y Francisco Gutiérrez aprobaron nuevas leyes de medio ambiente,GPT-3.5_fewshot,nombres_propios
+Los legisladores Ali Ahmed y Wei Zhang promovieron políticas de inclusión social,Los legisladores Ali Ahmed y Wei Zhang promovieron políticas de inclusión social,GPT-3.5_fewshot,nombres_propios
+Los legisladores Santiago García y Juan Martínez revisaron el código penal,Los legisladores Santiago García y Juan Martínez revisaron el código penal,GPT-3.5_fewshot,nombres_propios
+Los senadores Carlos Pérez y Andrés Sánchez discutieron sobre la seguridad nacional,Los senadores Carlos Pérez y Andrés Sánchez discutieron sobre la seguridad nacional,GPT-3.5_fewshot,nombres_propios
+Los senadores Ahmed Mahmoud y Amir Khan votaron en contra de la reforma fiscal,Los senadores Ahmed Mahmoud y Amir Khan votaron en contra de la reforma fiscal,GPT-3.5_fewshot,nombres_propios
+Los senadores Muhammad Khan y Wei Zhang investigaron casos de corrupción,Los senadores Muhammad Khan y Wei Zhang investigaron casos de corrupción,GPT-3.5_fewshot,nombres_propios
+Los senadores Li Wang y Miguel Torres aprobaron el tratado internacional,Los senadores Li Wang y Miguel Torres aprobaron el tratado internacional,GPT-3.5_fewshot,nombres_propios
+Los organizadores Miguel Torres y Francisco Sánchez coordinaron la logística del evento,Los organizadores Miguel Torres y Francisco Sánchez coordinaron la logística del evento,GPT-3.5_fewshot,nombres_propios
+Los organizadores Juan Pérez y Alberto López planificaron la conferencia anual,Los organizadores Juan Pérez y Alberto López planificaron la conferencia anual,GPT-3.5_fewshot,nombres_propios
+Los organizadores David Rodríguez y Carlos Pérez reclutaron voluntarios para el evento,Los organizadores David Rodríguez y Carlos Pérez reclutaron voluntarios para el evento,GPT-3.5_fewshot,nombres_propios
+Los organizadores Santiago García y Juan Martínez aseguraron patrocinadores para el evento,Los organizadores Santiago García y Juan Martínez aseguraron patrocinadores para el evento,GPT-3.5_fewshot,nombres_propios
+Los estudiantes Pedro Martínez y Andrés López se reunieron en el aula para la clase,Los estudiantes Pedro Martínez y Andrés López se reunieron en el aula para la clase,GPT-3.5_fewshot,nombres_propios
+Los estudiantes Gabriel Pérez y José Sánchez demostraron su creatividad en el proyecto,Los estudiantes Gabriel Pérez y José Sánchez demostraron su creatividad en el proyecto,GPT-3.5_fewshot,nombres_propios
+Los estudiantes Ali Ahmed y Wei Zhang participaron en actividades extracurriculares,Los estudiantes Ali Ahmed y Wei Zhang participaron en actividades extracurriculares,GPT-3.5_fewshot,nombres_propios
+Los estudiantes Santiago García y Juan Martínez organizaron un evento benéfico para la comunidad,Los estudiantes Santiago García y Juan Martínez organizaron un evento benéfico para la comunidad,GPT-3.5_fewshot,nombres_propios
+Los secretarios Juan Pérez y David Martínez gestionaron la correspondencia del departamento,Los secretarios Juan Pérez y David Martínez gestionaron la correspondencia del departamento,GPT-3.5_fewshot,nombres_propios
+Los secretarios Carlos López y Andrés Sánchez organizaron los archivos de la oficina,Los secretarios Carlos López y Andrés Sánchez organizaron los archivos de la oficina,GPT-3.5_fewshot,nombres_propios
+Los secretarios Muhammad Khan y Wei Zhang atendieron las llamadas telefónicas,Los secretarios Muhammad Khan y Wei Zhang atendieron las llamadas telefónicas,GPT-3.5_fewshot,nombres_propios
+Los secretarios Li Wang y Miguel Torres programaron las reuniones del equipo,Los secretarios Li Wang y Miguel Torres programaron las reuniones del equipo,GPT-3.5_fewshot,nombres_propios
+Los consejeros Juan Pérez y David Martínez brindaron orientación a los empleados,Los consejeros Juan Pérez y David Martínez brindaron orientación a los empleados,GPT-3.5_fewshot,nombres_propios
+Los consejeros Carlos López y Andrés Sánchez participaron en la toma de decisiones,Los consejeros Carlos López y Andrés Sánchez participaron en la toma de decisiones,GPT-3.5_fewshot,nombres_propios
+Los consejeros Santiago García y Juan Martínez ofrecieron asesoramiento a los estudiantes,Los consejeros Santiago García y Juan Martínez ofrecieron asesoramiento a los estudiantes,GPT-3.5_fewshot,nombres_propios
+Los consejeros Li Wang y Miguel Torres gestionaron los recursos financieros,Los consejeros Li Wang y Miguel Torres gestionaron los recursos financieros,GPT-3.5_fewshot,nombres_propios
+Los delegados Luis Martínez y Mario García representaron a su país en la conferencia,Los delegados Luis Martínez y Mario García representaron a su país en la conferencia,GPT-3.5_fewshot,nombres_propios
+Los delegados Wei Chen y Hiroshi Tanaka negociaron acuerdos comerciales,Los delegados Wei Chen y Hiroshi Tanaka negociaron acuerdos comerciales,GPT-3.5_fewshot,nombres_propios
+Los delegados Ahmed Mahmoud y Mohamed Ali visitaron varias instituciones,Los delegados Ahmed Mahmoud y Mohamed Ali visitaron varias instituciones,GPT-3.5_fewshot,nombres_propios
+Los delegados Abdul Rahman Khan y Muhammad Khan discutieron temas de cooperación internacional,Los delegados Abdul Rahman Khan y Muhammad Khan discutieron temas de cooperación internacional,GPT-3.5_fewshot,nombres_propios
+Los funcionarios Santiago García y Juan Martínez realizaron inspecciones en la empresa,Los funcionarios Santiago García y Juan Martínez realizaron inspecciones en la empresa,GPT-3.5_fewshot,nombres_propios
+Los funcionarios Ahmed Mahmoud y Mohamed Ali administraron los recursos públicos,Los funcionarios Ahmed Mahmoud y Mohamed Ali administraron los recursos públicos,GPT-3.5_fewshot,nombres_propios
+Los funcionarios Abdul Rahman Khan y Muhammad Khan gestionaron trámites administrativos,Los funcionarios Abdul Rahman Khan y Muhammad Khan gestionaron trámites administrativos,GPT-3.5_fewshot,nombres_propios
+Los funcionarios Li Wang y Miguel Torres representaron al gobierno en la reunión,Los funcionarios Li Wang y Miguel Torres representaron al gobierno en la reunión,GPT-3.5_fewshot,nombres_propios
+Los ministros Wei Chen y Hiroshi Tanaka se reunieron para discutir presupuesto,Los ministros Wei Chen y Hiroshi Tanaka se reunieron para discutir presupuesto,GPT-3.5_fewshot,nombres_propios
+Los ministros Carlos López y Andrés Sánchez supervisaron la implementación de programas sociales,Los ministros Carlos López y Andrés Sánchez supervisaron la implementación de programas sociales,GPT-3.5_fewshot,nombres_propios
+Los ministros Muhammad Khan y Wei Zhang anunciaron medidas para proteger el medio ambiente,Los ministros Muhammad Khan y Wei Zhang anunciaron medidas para proteger el medio ambiente,GPT-3.5_fewshot,nombres_propios
+Los ministros Li Wang y Miguel Torres gestionaron fondos para proyectos de infraestructura,Los ministros Li Wang y Miguel Torres gestionaron fondos para proyectos de infraestructura,GPT-3.5_fewshot,nombres_propios
+Los profesores Santiago García y Juan Martínez impartieron clases de matemáticas avanzadas,Los profesores Santiago García y Juan Martínez impartieron clases de matemáticas avanzadas,GPT-3.5_fewshot,nombres_propios
+Los profesores Ahmed Mahmoud y Mohamed Ali organizaron talleres de desarrollo profesional,Los profesores Ahmed Mahmoud y Mohamed Ali organizaron talleres de desarrollo profesional,GPT-3.5_fewshot,nombres_propios
+Los profesores Abdul Rahman Khan y Muhammad Khan evaluaron el desempeño de los estudiantes,Los profesores Abdul Rahman Khan y Muhammad Khan evaluaron el desempeño de los estudiantes,GPT-3.5_fewshot,nombres_propios
+Los profesores Li Wang y Miguel Torres participaron en actividades extracurriculares,Los profesores Li Wang y Miguel Torres participaron en actividades extracurriculares,GPT-3.5_fewshot,nombres_propios
+Los vecinos Wei Chen y Hiroshi Tanaka se reunieron para discutir sobre la seguridad del barrio,Los vecinos Wei Chen y Hiroshi Tanaka se reunieron para discutir sobre la seguridad del barrio,GPT-3.5_fewshot,nombres_propios
+Los vecinos Carlos López y Andrés Sánchez organizaron una limpieza comunitaria,Los vecinos Carlos López y Andrés Sánchez organizaron una limpieza comunitaria,GPT-3.5_fewshot,nombres_propios
+Los vecinos Muhammad Khan y Wei Zhang compartieron recursos durante la emergencia,Los vecinos Muhammad Khan y Wei Zhang compartieron recursos durante la emergencia,GPT-3.5_fewshot,nombres_propios
+Los vecinos Santiago García y Juan Martínez participaron en la planificación de eventos locales,Los vecinos Santiago García y Juan Martínez participaron en la planificación de eventos locales,GPT-3.5_fewshot,nombres_propios
+Los jefes Ahmed Mahmoud y Mohamed Ali coordinaron la implementación del nuevo sistema,Los jefes Ahmed Mahmoud y Mohamed Ali coordinaron la implementación del nuevo sistema,GPT-3.5_fewshot,nombres_propios
+Los jefes Abdul Rahman Khan y Muhammad Khan establecieron las políticas de la compañía,Los jefes Abdul Rahman Khan y Muhammad Khan establecieron las políticas de la compañía,GPT-3.5_fewshot,nombres_propios
+Los jefes Li Wang y Miguel Torres motivaron al equipo a alcanzar objetivos,Los jefes Li Wang y Miguel Torres motivaron al equipo a alcanzar objetivos,GPT-3.5_fewshot,nombres_propios
+Los jefes Santiago García y Juan Martínez organizaron eventos de integración para el personal,Los jefes Santiago García y Juan Martínez organizaron eventos de integración para el personal,GPT-3.5_fewshot,nombres_propios
+Los jóvenes Wei Chen y Hiroshi Tanaka participaron en actividades deportivas.,Los jóvenes Wei Chen y Hiroshi Tanaka participaron en actividades deportivas.,GPT-3.5_fewshot,nombres_propios
+Los jóvenes Carlos López y Andrés Sánchez exploraron oportunidades de educación superior.,Los jóvenes Carlos López y Andrés Sánchez exploraron oportunidades de educación superior.,GPT-3.5_fewshot,nombres_propios
+Los jóvenes Muhammad Khan y Wei Zhang expresaron sus opiniones en el debate público.,Los jóvenes Muhammad Khan y Wei Zhang expresaron sus opiniones en el debate público.,GPT-3.5_fewshot,nombres_propios
+Los jóvenes Santiago García y Juan Martínez contribuyeron al desarrollo de la comunidad.,Los jóvenes Santiago García y Juan Martínez contribuyeron al desarrollo de la comunidad.,GPT-3.5_fewshot,nombres_propios
+La presidenta Pratt anunció nuevas políticas públicas.,La presidenta Patt anunció nuevas políticas públicas.,GPT-3.5_fewshot,nombres_propios
+La presidenta Fernández representó al país en la cumbre internacional.,La presidenta Fernández representó al país en la cumbre internacional.,GPT-3.5_fewshot,nombres_propios
+La presidenta Macri supervisó la implementación de reformas.,La presidenta Macri supervisó la implementación de reformas.,GPT-3.5_fewshot,nombres_propios
+La presidenta López nombró nuevos ministros en su gabinete.,La presidenta López nombró nuevos ministros en su gabinete.,GPT-3.5_fewshot,nombres_propios
+La presidenta Fernández promulgó leyes para la protección del medio ambiente.,La presidenta Fernández promulgó leyes para la protección del medio ambiente.,GPT-3.5_fewshot,nombres_propios
+La presidenta Martínez inauguró un nuevo hospital en la región.,La presidenta Martínez inauguró un nuevo hospital en la región.,GPT-3.5_fewshot,nombres_propios
+La intendenta González inauguró el nuevo centro comunitario.,La intendenta González inauguró el nuevo centro comunitario.,GPT-3.5_fewshot,nombres_propios
+La intendenta Martínez gestionó los servicios municipales.,La intendenta Martínez gestionó los servicios municipales.,GPT-3.5_fewshot,nombres_propios
+La intendenta Pérez coordinó la limpieza de la ciudad.,La intendenta Pérez coordinó la limpieza de la ciudad.,GPT-3.5_fewshot,nombres_propios
+La intendenta Rodríguez atendió las solicitudes de los ciudadanos.,La intendenta Rodríguez atendió las solicitudes de los ciudadanos.,GPT-3.5_fewshot,nombres_propios
+La gobernadora Rodríguez anunció medidas de seguridad.,La gobernadora Rodríguez anunció medidas de seguridad.,GPT-3.5_fewshot,nombres_propios
+La gobernadora Gómez implementó políticas de desarrollo económico.,La gobernadora Gómez implementó políticas de desarrollo económico.,GPT-3.5_fewshot,nombres_propios
+La gobernadora Pérez promovió la educación en la región.,La gobernadora Pérez promovió la educación en la región.,GPT-3.5_fewshot,nombres_propios
+La gobernadora Sánchez gestionó recursos para infraestructura.,La gobernadora Sánchez gestionó recursos para infraestructura.,GPT-3.5_fewshot,nombres_propios
+La ministra López presentó el plan de salud.,La ministra López presentó el plan de salud.,GPT-3.5_fewshot,nombres_propios
+La ministra Pérez coordinó la entrega de ayudas sociales.,La ministra Pérez coordinó la entrega de ayudas sociales.,GPT-3.5_fewshot,nombres_propios
+La ministra García supervisó la implementación de políticas educativas.,La ministra García supervisó la implementación de políticas educativas.,GPT-3.5_fewshot,nombres_propios
+La ministra Rodríguez anunció cambios en el sistema judicial.,La ministra Rodríguez anunció cambios en el sistema judicial.,GPT-3.5_fewshot,nombres_propios
+La vicedirectora González asumió temporalmente las responsabilidades del director.,La vicedirectora González asumió temporalmente las responsabilidades del director.,GPT-3.5_fewshot,nombres_propios
+La vicedirectora Pérez supervisó la implementación de nuevas políticas.,La vicedirectora Pérez supervisó la implementación de nuevas políticas.,GPT-3.5_fewshot,nombres_propios
+La vicedirectora Martínez lideró la reunión del equipo administrativo.,La vicedirectora Martínez lideró la reunión del equipo administrativo.,GPT-3.5_fewshot,nombres_propios
+La vicedirectora Sánchez colaboró estrechamente con el personal docente.,La vicedirectora Sánchez colaboró estrechamente con el personal docente.,GPT-3.5_fewshot,nombres_propios
+La vicepresidenta López presentó el informe financiero en la junta directiva.,La vicepresidenta López presentó el informe financiero en la junta directiva.,GPT-3.5_fewshot,nombres_propios
+La vicepresidenta Rodríguez participó en la planificación estratégica de la empresa.,La vicepresidenta Rodríguez participó en la planificación estratégica de la empresa.,GPT-3.5_fewshot,nombres_propios
+La vicepresidenta Martínez coordinó la campaña de responsabilidad social corporativa.,La vicepresidenta Martínez coordinó la campaña de responsabilidad social corporativa.,GPT-3.5_fewshot,nombres_propios
+La vicepresidenta González representó a la compañía en la conferencia internacional.,La vicepresidenta González representó a la compañía en la conferencia internacional.,GPT-3.5_fewshot,nombres_propios
+Las alumnas María Green y Alejandra Sosa asistieron a clases regularmente,Las alumnas María Green y Alejandra Sosa asistieron a clases regularmente,GPT-3.5_fewshot,nombres_propios
+Las alumnas Daniela López y Sofía Martínez asistieron a clases regularmente,Las alumnas Daniela López y Sofía Martínez asistieron a clases regularmente,GPT-3.5_fewshot,nombres_propios
+"Las alumnas María López, Paula Rodríguez y Andrea Sánchez organizaron un evento cultural","Las alumnas María López, Paula Rodríguez y Andrea Sánchez organizaron un evento cultural",GPT-3.5_fewshot,nombres_propios
+Las alumnas Wei Chen y Hiroshi Tanaka destacaron en sus estudios,Las alumnas Wei Chen y Hiroshi Tanaka destacaron en sus estudios,GPT-3.5_fewshot,nombres_propios
+"Las alumnas Aisha Hassan, Fatima Ali y Sara Ahmed recibieron reconocimiento por su trabajo","Las alumnas Aisha Hassan, Fatima Ali y Sara Ahmed recibieron reconocimiento por su trabajo",GPT-3.5_fewshot,nombres_propios
+Las ciudadanas Juana Pérez y Mónica Torres ejercieron su derecho al voto,Las ciudadanas Juana Pérez y Mónica Torres ejercieron su derecho al voto,GPT-3.5_fewshot,nombres_propios
+Las ciudadanas Wei Zhang y Lila Wang protestaron por mejores servicios públicos,Las ciudadanas Wei Zhang y Lila Wang protestaron por mejores servicios públicos,GPT-3.5_fewshot,nombres_propios
+Las ciudadanas Aisha Mahmoud y Mónica Ali contribuyeron al desarrollo de la comunidad,Las ciudadanas Aisha Mahmoud y Mónica Ali contribuyeron al desarrollo de la comunidad,GPT-3.5_fewshot,nombres_propios
+Las ciudadanas Adriana Khan y María Khan participaron en la manifestación,Las ciudadanas Adriana Khan y María Khan participaron en la manifestación,GPT-3.5_fewshot,nombres_propios
+Las coordinadoras Carla Sánchez y Julia Pérez organizaron el evento con éxito,Las coordinadoras Carla Sánchez y Julia Pérez organizaron el evento con éxito,GPT-3.5_fewshot,nombres_propios
+Las coordinadoras Daniela Martínez y Josefina García dirigieron el proyecto de manera eficiente,Las coordinadoras Daniela Martínez y Josefina García dirigieron el proyecto de manera eficiente,GPT-3.5_fewshot,nombres_propios
+Las coordinadoras Ana Ahmed y Wei Zhang coordinaron las actividades del equipo,Las coordinadoras Ana Ahmed y Wei Zhang coordinaron las actividades del equipo,GPT-3.5_fewshot,nombres_propios
+Las coordinadoras Sofía García y Juana Martínez planificaron el cronograma del proyecto,Las coordinadoras Sofía García y Juana Martínez planificaron el cronograma del proyecto,GPT-3.5_fewshot,nombres_propios
+Las directoras Albertina Martínez y Rafaela Gómez tomaron decisiones importantes para la escuela,Las directoras Albertina Martínez y Rafaela Gómez tomaron decisiones importantes para la escuela,GPT-3.5_fewshot,nombres_propios
+Las directoras Alicia Khan y Adriana Khan supervisaron el rendimiento del personal,Las directoras Alicia Khan y Adriana Khan supervisaron el rendimiento del personal,GPT-3.5_fewshot,nombres_propios
+Las directoras Mónica Khan y Wei Zhang establecieron las políticas de la institución,Las directoras Mónica Khan y Wei Zhang establecieron las políticas de la institución,GPT-3.5_fewshot,nombres_propios
+Las directoras Lila Wang y Mónica Torres lideraron la implementación del nuevo programa,Las directoras Lila Wang y Mónica Torres lideraron la implementación del nuevo programa,GPT-3.5_fewshot,nombres_propios
+Las asesoras Fernanda González y Julia Pérez brindaron orientación a los empleados nuevos,Las asesoras Fernanda González y Julia Pérez brindaron orientación a los empleados nuevos,GPT-3.5_fewshot,nombres_propios
+Las asesoras Josefina Sánchez y Daniela Martínez ayudaron a resolver problemas de gestión,Las asesoras Josefina Sánchez y Daniela Martínez ayudaron a resolver problemas de gestión,GPT-3.5_fewshot,nombres_propios
+Las asesoras Wei Chen y Hiroshi Tanaka proporcionaron asistencia técnica a los clientes,Las asesoras Wei Chen y Hiroshi Tanaka proporcionaron asistencia técnica a los clientes,GPT-3.5_fewshot,nombres_propios
+Las asesoras Sofía García y Juana Martínez ofrecieron recomendaciones para mejorar el rendimiento,Las asesoras Sofía García y Juana Martínez ofrecieron recomendaciones para mejorar el rendimiento,GPT-3.5_fewshot,nombres_propios
+Las legisladoras Juana Pérez y Daniela García debatieron la reforma fiscal,Las legisladoras Juana Pérez y Daniela García debatieron la reforma fiscal,GPT-3.5_fewshot,nombres_propios
+Las legisladoras Manuela Sánchez y Francisca Gutiérrez aprobaron nuevas leyes de medio ambiente,Las legisladoras Manuela Sánchez y Francisca Gutiérrez aprobaron nuevas leyes de medio ambiente,GPT-3.5_fewshot,nombres_propios
+Las legisladoras Ana Ahmed y Wei Zhang promovieron políticas de inclusión social,Las legisladoras Ana Ahmed y Wei Zhang promovieron políticas de inclusión social,GPT-3.5_fewshot,nombres_propios
+Las legisladoras Sofía García y Juana Martínez revisaron el código penal,Las legisladoras Sofía García y Juana Martínez revisaron el código penal,GPT-3.5_fewshot,nombres_propios
+Las senadoras Carla Pérez y Andrea Sánchez discutieron sobre la seguridad nacional,Las senadoras Carla Pérez y Andrea Sánchez discutieron sobre la seguridad nacional,GPT-3.5_fewshot,nombres_propios
+Las senadoras Aisha Mahmoud y Amira Khan votaron en contra de la reforma fiscal,Las senadoras Aisha Mahmoud y Amira Khan votaron en contra de la reforma fiscal,GPT-3.5_fewshot,nombres_propios
+Las senadoras Mónica Khan y Wei Zhang investigaron casos de corrupción,Las senadoras Mónica Khan y Wei Zhang investigaron casos de corrupción,GPT-3.5_fewshot,nombres_propios
+Las senadoras Lila Wang y Mónica Torres aprobaron el tratado internacional,Las senadoras Lila Wang y Mónica Torres aprobaron el tratado internacional,GPT-3.5_fewshot,nombres_propios
+Las organizadoras Mónica Torres y Francisca Sánchez coordinaron la logística del evento,Las organizadoras Mónica Torres y Francisca Sánchez coordinaron la logística del evento,GPT-3.5_fewshot,nombres_propios
+Las organizadoras Juana Pérez y Ana López planificaron la conferencia anual,Las organizadoras Juana Pérez y Ana López planificaron la conferencia anual,GPT-3.5_fewshot,nombres_propios
+Las organizadoras Diana Rodríguez y Carla Pérez reclutaron voluntarios para el evento,Las organizadoras Diana Rodríguez y Carla Pérez reclutaron voluntarios para el evento,GPT-3.5_fewshot,nombres_propios
+Las organizadoras Sofía García y Juana Martínez aseguraron patrocinadores para el evento,Las organizadoras Sofía García y Juana Martínez aseguraron patrocinadores para el evento,GPT-3.5_fewshot,nombres_propios
+Las estudiantes Petra Martínez y Andrea López se reunieron en el aula para la clase,Las estudiantes Petra Martínez y Andrea López se reunieron en el aula para la clase,GPT-3.5_fewshot,nombres_propios
+Las estudiantes Gabriela Pérez y Josefina Sánchez demostraron su creatividad en el proyecto,Las estudiantes Gabriela Pérez y Josefina Sánchez demostraron su creatividad en el proyecto,GPT-3.5_fewshot,nombres_propios
+Las estudiantes Ana Ahmed y Wei Zhang participaron en actividades extracurriculares,Las estudiantes Ana Ahmed y Wei Zhang participaron en actividades extracurriculares,GPT-3.5_fewshot,nombres_propios
+Las estudiantes Sofía García y Juana Martínez organizaron un evento benéfico para la comunidad,Las estudiantes Sofía García y Juana Martínez organizaron un evento benéfico para la comunidad,GPT-3.5_fewshot,nombres_propios
+Las secretarias Juana Pérez y Daniela Martínez gestionaron la correspondencia del departamento,Las secretarias Juana Pérez y Daniela Martínez gestionaron la correspondencia del departamento,GPT-3.5_fewshot,nombres_propios
+Las secretarias Carla López y Andrea Sánchez organizaron los archivos de la oficina,Las secretarias Carla López y Andrea Sánchez organizaron los archivos de la oficina,GPT-3.5_fewshot,nombres_propios
+Las secretarias Mónica Khan y Wei Zhang atendieron las llamadas telefónicas,Las secretarias Mónica Khan y Wei Zhang atendieron las llamadas telefónicas,GPT-3.5_fewshot,nombres_propios
+Las secretarias Lila Wang y Mónica Torres programaron las reuniones del equipo,Las secretarias Lila Wang y Mónica Torres programaron las reuniones del equipo,GPT-3.5_fewshot,nombres_propios
+Las consejeras Juana Pérez y Daniela Martínez brindaron orientación a los empleados,Las consejeras Juana Pérez y Daniela Martínez brindaron orientación a los empleados,GPT-3.5_fewshot,nombres_propios
+Las consejeras Carla López y Andrea Sánchez participaron en la toma de decisiones,Las consejeras Carla López y Andrea Sánchez participaron en la toma de decisiones,GPT-3.5_fewshot,nombres_propios
+Las consejeras Sofía García y Juana Martínez ofrecieron asesoramiento a las estudiantes,Las consejeras Sofía García y Juana Martínez ofrecieron asesoramiento a las estudiantes,GPT-3.5_fewshot,nombres_propios
+Las consejeras Lila Wang y Mónica Torres gestionaron los recursos financieros,Las consejeras Lila Wang y Mónica Torres gestionaron los recursos financieros,GPT-3.5_fewshot,nombres_propios
+Las delegadas Luisa Martínez y María García representaron a su país en la conferencia,Las delegadas Luisa Martínez y María García representaron a su país en la conferencia,GPT-3.5_fewshot,nombres_propios
+Las delegadas Wei Chen y Hiroshi Tanaka negociaron acuerdos comerciales,Las delegadas Wei Chen y Hiroshi Tanaka negociaron acuerdos comerciales,GPT-3.5_fewshot,nombres_propios
+Las delegadas Aisha Mahmoud y Mónica Ali visitaron varias instituciones,Las delegadas Aisha Mahmoud y Mónica Ali visitaron varias instituciones,GPT-3.5_fewshot,nombres_propios
+Las delegadas Adriana Khan y María Khan discutieron temas de cooperación internacional,Las delegadas Adriana Khan y María Khan discutieron temas de cooperación internacional,GPT-3.5_fewshot,nombres_propios
+Las funcionarias Sofía García y Juana Martínez realizaron inspecciones en la empresa,Las funcionarias Sofía García y Juana Martínez realizaron inspecciones en la empresa,GPT-3.5_fewshot,nombres_propios
+Las funcionarias Aisha Mahmoud y Mónica Ali administraron los recursos públicos,Las funcionarias Aisha Mahmoud y Mónica Ali administraron los recursos públicos,GPT-3.5_fewshot,nombres_propios
+Las funcionarias Adriana Khan y María Khan gestionaron trámites administrativos,Las funcionarias Adriana Khan y María Khan gestionaron trámites administrativos,GPT-3.5_fewshot,nombres_propios
+Las funcionarias Lila Wang y Mónica Torres representaron al gobierno en la reunión,Las funcionarias Lila Wang y Mónica Torres representaron al gobierno en la reunión,GPT-3.5_fewshot,nombres_propios
+Las ministras Wei Chen y Hiroshi Tanaka se reunieron para discutir presupuesto,Las ministras Wei Chen y Hiroshi Tanaka se reunieron para discutir presupuesto,GPT-3.5_fewshot,nombres_propios
+Las ministras Carla López y Andrea Sánchez supervisaron la implementación de programas sociales,Las ministras Carla López y Andrea Sánchez supervisaron la implementación de programas sociales,GPT-3.5_fewshot,nombres_propios
+Las ministras Mónica Khan y Wei Zhang anunciaron medidas para proteger el medio ambiente,Las ministras Mónica Khan y Wei Zhang anunciaron medidas para proteger el medio ambiente,GPT-3.5_fewshot,nombres_propios
+Las ministras Lila Wang y Mónica Torres gestionaron fondos para proyectos de infraestructura,Las ministras Lila Wang y Mónica Torres gestionaron fondos para proyectos de infraestructura,GPT-3.5_fewshot,nombres_propios
+Las profesoras Sofía García y Juana Martínez impartieron clases de matemáticas avanzadas,Las profesoras Sofía García y Juana Martínez impartieron clases de matemáticas avanzadas,GPT-3.5_fewshot,nombres_propios
+Las profesoras Aisha Mahmoud y Mónica Ali organizaron talleres de desarrollo profesional,Las profesoras Aisha Mahmoud y Mónica Ali organizaron talleres de desarrollo profesional,GPT-3.5_fewshot,nombres_propios
+Las profesoras Adriana Khan y María Khan evaluaron el desempeño de las estudiantes,Las profesoras Adriana Khan y María Khan evaluaron el desempeño de las estudiantes,GPT-3.5_fewshot,nombres_propios
+Las profesoras Lila Wang y Mónica Torres participaron en actividades extracurriculares,Las profesoras Lila Wang y Mónica Torres participaron en actividades extracurriculares,GPT-3.5_fewshot,nombres_propios
+Las vecinas Wei Chen y Hiroshi Tanaka se reunieron para discutir sobre la seguridad del barrio,Las vecinas Wei Chen y Hiroshi Tanaka se reunieron para discutir sobre la seguridad del barrio,GPT-3.5_fewshot,nombres_propios
+Las vecinas Carla López y Andrea Sánchez organizaron una limpieza comunitaria,Las vecinas Carla López y Andrea Sánchez organizaron una limpieza comunitaria,GPT-3.5_fewshot,nombres_propios
+Las vecinas Mónica Khan y Wei Zhang compartieron recursos durante la emergencia,Las vecinas Mónica Khan y Wei Zhang compartieron recursos durante la emergencia,GPT-3.5_fewshot,nombres_propios
+Las vecinas Sofía García y Juana Martínez participaron en la planificación de eventos locales,Las vecinas Sofía García y Juana Martínez participaron en la planificación de eventos locales,GPT-3.5_fewshot,nombres_propios
+Las jefas Aisha Mahmoud y Mónica Ali coordinaron la implementación del nuevo sistema,Las jefas Aisha Mahmoud y Mónica Ali coordinaron la implementación del nuevo sistema,GPT-3.5_fewshot,nombres_propios
+Las jefas Adriana Khan y María Khan establecieron las políticas de la compañía,Las jefas Adriana Khan y María Khan establecieron las políticas de la compañía,GPT-3.5_fewshot,nombres_propios
+Las jefas Lila Wang y Mónica Torres motivaron al equipo a alcanzar objetivos,Las jefas Lila Wang y Mónica Torres motivaron al equipo a alcanzar objetivos,GPT-3.5_fewshot,nombres_propios
+Las jefas Sofía García y Juana Martínez organizaron eventos de integración para el personal,Las jefas Sofía García y Juana Martínez organizaron eventos de integración para el personal,GPT-3.5_fewshot,nombres_propios
+Las jóvenes Wei Chen y Hiroshi Tanaka participaron en actividades deportivas.,Las jóvenes Wei Chen y Hiroshi Tanaka participaron en actividades deportivas.,GPT-3.5_fewshot,nombres_propios
+Las jóvenes Carla López y Andrea Sánchez exploraron oportunidades de educación superior.,Las jóvenes Carla López y Andrea Sánchez exploraron oportunidades de educación superior.,GPT-3.5_fewshot,nombres_propios
+Las jóvenes Mónica Khan y Wei Zhang expresaron sus opiniones en el debate público.,Las jóvenes Mónica Khan y Wei Zhang expresaron sus opiniones en el debate público.,GPT-3.5_fewshot,nombres_propios
+Las jóvenes Sofía García y Juana Martínez contribuyeron al desarrollo de la comunidad.,Las jóvenes Sofía García y Juana Martínez contribuyeron al desarrollo de la comunidad.,GPT-3.5_fewshot,nombres_propios

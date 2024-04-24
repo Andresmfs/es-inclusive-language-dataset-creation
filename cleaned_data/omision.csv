@@ -1,0 +1,90 @@
+gender_exclusive,gender_inclusive,origin,difficulty
+Los estudiantes universitarios deben estudiar para los exámenes.,Estudiantes universitarios deben estudiar para los exámenes.,GPT-3.5_fewshot,omision
+Los profesionales de diversas áreas colaborarán en el proyecto de investigación.,Profesionales de diversas áreas colaborarán en el proyecto de investigación.,GPT-3.5_fewshot,omision
+Los artistas locales exhibirán sus obras en la galería de arte.,Artistas locales exhibirán sus obras en la galería de arte.,GPT-3.5_fewshot,omision
+Los estudiantes de la universidad organizarán un evento cultural.,Estudiantes de la universidad organizarán un evento cultural.,GPT-3.5_fewshot,omision
+Los recepcionistas del hotel atenderán a los huéspedes con amabilidad.,Recepcionistas del hotel atenderán a los huéspedes con amabilidad.,GPT-3.5_fewshot,omision
+Los periodistas del periódico local investigarán el caso a fondo.,Periodistas del periódico local investigarán el caso a fondo.,GPT-3.5_fewshot,omision
+Los policías patrullarán las calles durante la noche.,Policías patrullarán las calles durante la noche.,GPT-3.5_fewshot,omision
+Los diseñadores de moda presentarán sus nuevas colecciones en la pasarela.,Diseñadores de moda presentarán sus nuevas colecciones en la pasarela.,GPT-3.5_fewshot,omision
+Los modelos de la agencia desfilarán en la pasarela de moda.,Modelos de la agencia desfilarán en la pasarela de moda.,GPT-3.5_fewshot,omision
+Los socorristas de la playa rescatarán a los bañistas en peligro.,Socorristas de la playa rescatarán a los bañistas en peligro.,GPT-3.5_fewshot,omision
+Los electricistas del edificio revisarán la instalación eléctrica.,Electricistas del edificio revisarán la instalación eléctrica.,GPT-3.5_fewshot,omision
+Los chefs del restaurante elaborarán nuevos platos para el menú.,Chefs del restaurante elaborarán nuevos platos para el menú.,GPT-3.5_fewshot,omision
+Se solicita a los empleados que completen el formulario de evaluación.,Se solicita completar el formulario de evaluación.,GPT-3.5_fewshot,omision
+Se informa a los estudiantes sobre la fecha límite de inscripción.,Se informa sobre la fecha límite de inscripción.,GPT-3.5_fewshot,omision
+Se advierte a los conductores sobre el cierre temporal de la autopista.,Se advierte sobre el cierre temporal de la autopista.,GPT-3.5_fewshot,omision
+Se recomienda a los clientes que revisen sus cuentas bancarias regularmente.,Se recomienda revisar las cuentas bancarias regularmente.,GPT-3.5_fewshot,omision
+Se invita a los residentes a participar en la limpieza comunitaria.,Se invita a participar en la limpieza comunitaria.,GPT-3.5_fewshot,omision
+Se comunica a los empleados que la oficina estará cerrada por mantenimiento.,Se comunica que la oficina estará cerrada por mantenimiento.,GPT-3.5_fewshot,omision
+Se recuerda a los espectadores que apaguen sus teléfonos celulares durante la función.,Se recuerda apagar los teléfonos celulares durante la función.,GPT-3.5_fewshot,omision
+Se aconseja a los clientes que revisen sus correos electrónicos con regularidad para recibir actualizaciones importantes.,Se aconseja revisar los correos electrónicos con regularidad para recibir actualizaciones importantes.,GPT-3.5_fewshot,omision
+Se advierte a los excursionistas sobre el riesgo de incendios forestales durante la temporada seca.,Se advierte sobre el riesgo de incendios forestales durante la temporada seca.,GPT-3.5_fewshot,omision
+Se informa a los usuarios que la contraseña debe tener al menos ocho caracteres.,Se informa que la contraseña debe tener al menos ocho caracteres.,GPT-3.5_fewshot,omision
+Se pide a los clientes que mantengan limpio el área de comedor después de usarla.,Se pide mantener limpio el área de comedor después de usarla.,GPT-3.5_fewshot,omision
+Se recomienda a los estudiantes que consulten con su tutor antes de realizar cambios en su plan de estudios.,Se recomienda consultar con el tutor antes de realizar cambios en el plan de estudios.,GPT-3.5_fewshot,omision
+Se agradece a los asistentes su participación en el evento benéfico.,Se agradece la participación en el evento benéfico.,GPT-3.5_fewshot,omision
+Se anuncia a los pasajeros que el vuelo ha sido retrasado debido a condiciones climáticas adversas.,Se anuncia que el vuelo ha sido retrasado debido a condiciones climáticas adversas.,GPT-3.5_fewshot,omision
+Se pide a los padres que firmen el formulario de autorización antes de la excursión.,Se pide firmar el formulario de autorización antes de la excursión.,GPT-3.5_fewshot,omision
+Se recomienda a los viajeros que consulten las restricciones de viaje antes de planificar su itinerario.,Se recomienda consultar las restricciones de viaje antes de planificar el itinerario.,GPT-3.5_fewshot,omision
+Se sugiere a los nuevos empleados que completen el proceso de incorporación antes de comenzar sus funciones.,Se sugiere completar el proceso de incorporación antes de comenzar las funciones.,GPT-3.5_fewshot,omision
+Se informa a los clientes que el horario de atención se ha modificado debido a días festivos.,Se informa que el horario de atención se ha modificado debido a días festivos.,GPT-3.5_fewshot,omision
+Se avisa a los residentes que el suministro de agua estará suspendido temporalmente por trabajos de mantenimiento.,Se avisa que el suministro de agua estará suspendido temporalmente por trabajos de mantenimiento.,GPT-3.5_fewshot,omision
+Se comunica a los estudiantes que la fecha límite para la entrega de proyectos se ha extendido hasta el próximo martes.,Se comunica que la fecha límite para la entrega de proyectos se ha extendido hasta el próximo martes.,GPT-3.5_fewshot,omision
+Se solicita a los participantes que completen una breve encuesta de satisfacción al finalizar el evento.,Se solicita completar una breve encuesta de satisfacción al finalizar el evento.,GPT-3.5_fewshot,omision
+Se recuerda a los empleados que la empresa celebrará su aniversario el próximo mes.,Se recuerda que la empresa celebrará su aniversario el próximo mes.,GPT-3.5_fewshot,omision
+Se espera que los clientes respeten las normas de conducta en el establecimiento.,Se espera respetar las normas de conducta en el establecimiento.,GPT-3.5_fewshot,omision
+Se notifica a los suscriptores que la edición impresa del periódico se entregará más tarde de lo habitual debido a un retraso en la impresión.,Se notifica que la edición impresa del periódico se entregará más tarde de lo habitual debido a un retraso en la impresión.,GPT-3.5_fewshot,omision
+Se ruega a los pasajeros que mantengan despejadas las salidas de emergencia durante el vuelo.,Se ruega mantener despejadas las salidas de emergencia durante el vuelo.,GPT-3.5_fewshot,omision
+Se aconseja a los conductores que revisen el estado del tráfico antes de salir de casa.,Se aconseja revisar el estado del tráfico antes de salir de casa.,GPT-3.5_fewshot,omision
+Se insta a los clientes a utilizar medios de pago electrónicos para reducir el contacto físico durante las transacciones.,Se insta a utilizar medios de pago electrónicos para reducir el contacto físico durante las transacciones.,GPT-3.5_fewshot,omision
+Se recuerda a los empleados que la empresa ofrecerá un curso de primeros auxilios el próximo mes.,Se recuerda que la empresa ofrecerá un curso de primeros auxilios el próximo mes.,GPT-3.5_fewshot,omision
+Se agradece a los vecinos su colaboración en la limpieza del vecindario.,Se agradece la colaboración en la limpieza del vecindario.,GPT-3.5_fewshot,omision
+Se solicita a los estudiantes que mantengan limpios los pupitres y las áreas comunes.,Se solicita mantener limpios los pupitres y las áreas comunes.,GPT-3.5_fewshot,omision
+Los voluntarios limpiaron la playa el fin de semana pasado.,Se limpió la playa el fin de semana pasado.,GPT-3.5_fewshot,omision
+Los científicos descubrieron una nueva especie de insecto en la selva.,Se descubrió una nueva especie de insecto en la selva.,GPT-3.5_fewshot,omision
+Los profesores explicaron el tema con ejemplos prácticos.,Se explicó el tema con ejemplos prácticos.,GPT-3.5_fewshot,omision
+Los ingenieros diseñaron un nuevo puente para la ciudad.,Se diseñó un nuevo puente para la ciudad.,GPT-3.5_fewshot,omision
+Los artistas pintaron un mural en la plaza principal.,Se pintó un mural en la plaza principal.,GPT-3.5_fewshot,omision
+Los jardineros podaron los árboles del parque para mantener su forma.,Se podaron los árboles del parque para mantener su forma.,GPT-3.5_fewshot,omision
+Los médicos recetaron medicamentos para tratar la enfermedad.,Se recetaron medicamentos para tratar la enfermedad.,GPT-3.5_fewshot,omision
+Los bomberos apagaron el incendio en el edificio residencial.,Se apagó el incendio en el edificio residencial.,GPT-3.5_fewshot,omision
+Los estudiantes organizaron una protesta contra la contaminación.,Se organizó una protesta contra la contaminación.,GPT-3.5_fewshot,omision
+Los empleados prepararon informes detallados sobre el proyecto.,Se prepararon informes detallados sobre el proyecto.,GPT-3.5_fewshot,omision
+Los chefs cocinaron platos exquisitos para el banquete.,Se cocinaron platos exquisitos para el banquete.,GPT-3.5_fewshot,omision
+Los obreros construyeron el puente en tiempo récord.,Se construyó el puente en tiempo récord.,GPT-3.5_fewshot,omision
+Los músicos interpretaron piezas clásicas durante el concierto.,Se interpretaron piezas clásicas durante el concierto.,GPT-3.5_fewshot,omision
+Los científicos descubrieron una nueva galaxia en el universo.,Se descubrió una nueva galaxia en el universo.,GPT-3.5_fewshot,omision
+Los empleados completaron el informe financiero antes del plazo establecido.,Se completó el informe financiero antes del plazo establecido.,GPT-3.5_fewshot,omision
+Los artistas crearon esculturas impresionantes para la exhibición de arte.,Se crearon esculturas impresionantes para la exhibición de arte.,GPT-3.5_fewshot,omision
+Los estudiantes organizaron una campaña de concientización sobre el reciclaje.,Se organizó una campaña de concientización sobre el reciclaje.,GPT-3.5_fewshot,omision
+Los cocineros prepararon una variedad de platos para el banquete de la boda.,Se preparó una variedad de platos para el banquete de la boda.,GPT-3.5_fewshot,omision
+Los diseñadores crearon una nueva línea de moda para la temporada de primavera.,Se creó una nueva línea de moda para la temporada de primavera.,GPT-3.5_fewshot,omision
+Los médicos realizaron cirugías de emergencia durante toda la noche.,Se realizaron cirugías de emergencia durante toda la noche.,GPT-3.5_fewshot,omision
+"Si los estudiantes estudian con atención, mejorarán sus resultados académicos.","Estudiando con atención, mejorarán sus resultados académicos.",GPT-3.5_fewshot,omision
+"Si los trabajadores cumplen con sus responsabilidades, la empresa prosperará.","Cumpliendo con sus responsabilidades, la empresa prosperará.",GPT-3.5_fewshot,omision
+"Si los ciudadanos respetan las normas de convivencia, habrá armonía en la sociedad.","Respetando las normas de convivencia, habrá armonía en la sociedad.",GPT-3.5_fewshot,omision
+"Si los voluntarios colaboran con entusiasmo, se alcanzarán las metas del proyecto.","Colaborando con entusiasmo, se alcanzarán las metas del proyecto.",GPT-3.5_fewshot,omision
+Los empleados asistirán a una reunión de equipo,Habrá una reunión de equipo,GPT-3.5_fewshot,omision
+Los estudiantes realizarán una presentación,Habrá una presentación,GPT-3.5_fewshot,omision
+Los miembros del comité votarán sobre el plan propuesto,Habrá una votación sobre el plan propuesto,GPT-3.5_fewshot,omision
+Los profesionales participarán en un taller de desarrollo profesional,Habrá un taller de desarrollo profesional para profesionales,GPT-3.5_fewshot,omision
+Los científicos discutirán los resultados de su investigación,Habrá una discusión de los resultados de la investigación,GPT-3.5_fewshot,omision
+Los atletas competirán en el torneo regional,Habrá una competencia en el torneo regional,GPT-3.5_fewshot,omision
+Los estudiantes participarán en un debate sobre el cambio climático,Habrá un debate sobre el cambio climático para estudiantes,GPT-3.5_fewshot,omision
+Los artistas mostrarán sus obras en una galería de arte,Habrá una exhibición de obras de artistas en una galería de arte,GPT-3.5_fewshot,omision
+Los profesionales de la salud ofrecerán charlas sobre prevención de enfermedades,Habrá charlas sobre prevención de enfermedades ofrecidas por profesionales de la salud,GPT-3.5_fewshot,omision
+Los músicos tocarán en el concierto de beneficencia,Habrá una actuación musical en el concierto de beneficencia,GPT-3.5_fewshot,omision
+Los estudiantes participarán en una sesión de tutoría,Habrá una sesión de tutoría para estudiantes,GPT-3.5_fewshot,omision
+Los estudiantes participarán en una excursión al museo de ciencias,Habrá una excursión al museo de ciencias para estudiantes,GPT-3.5_fewshot,omision
+Los profesionales de recursos humanos impartirán una charla sobre empleabilidad,Habrá una charla sobre empleabilidad impartida por profesionales de recursos humanos,GPT-3.5_fewshot,omision
+Los estudiantes participarán en una competencia de robótica,Habrá una competencia de robótica para estudiantes,GPT-3.5_fewshot,omision
+Los profesionales del marketing presentarán estrategias de publicidad,Habrá presentación de estrategias de publicidad por parte de profesionales del marketing,GPT-3.5_fewshot,omision
+Los estudiantes participarán en un taller de escritura creativa,Habrá un taller de escritura creativa para estudiantes,GPT-3.5_fewshot,omision
+Los atletas competirán en el torneo deportivo anual,Habrá una competencia en el torneo deportivo anual para atletas,GPT-3.5_fewshot,omision
+Los profesionales de la educación impartirán un seminario sobre inclusión,Habrá un seminario sobre inclusión impartido por profesionales de la educación,GPT-3.5_fewshot,omision
+Los científicos presentarán sus investigaciones en un simposio internacional,Habrá una presentación de investigaciones en un simposio internacional,GPT-3.5_fewshot,omision
+Los estudiantes participarán en una competencia de debate intercolegial,Habrá una competencia de debate intercolegial para estudiantes,GPT-3.5_fewshot,omision
+Los profesionales de la salud ofrecerán una charla sobre prevención de enfermedades,Habrá una charla sobre prevención de enfermedades ofrecida por profesionales de la salud,GPT-3.5_fewshot,omision
+Los artistas realizarán una intervención artística en el parque público,Habrá una intervención artística en el parque público,GPT-3.5_fewshot,omision
+Los profesionales de recursos humanos impartirán un taller sobre liderazgo,Habrá un taller sobre liderazgo impartido por profesionales de recursos humanos,GPT-3.5_fewshot,omision

@@ -1,0 +1,159 @@
+gender_exclusive,gender_inclusive,origin,difficulty
+Inspectoras y Jefes de Obra concluyeron el proyecto a tiempo.,El equipo de Obra concluyó el proyecto a tiempo.,guia_TAI,colectivos
+La inspector relevo el territorio.,La inspectora relevo el territorio.,guia_TAI,feminizar_profesiones
+"Trabajamos en un espacio de cuidado, enseñanza y crianza para los hijos de los trabajadores de TAI.","Trabajamos en un espacio de cuidado, enseñanza y crianza para hijas e hijos de las trabajadoras y los trabajadores.",guia_TAI,plural_complejo
+Los empleados cuentan con este beneficio disponible.,Las empleadas y los empleados cuentan con este beneficio disponible.,guia_TAI,plural_complejo
+Los empleados cuentan con este beneficio disponible.,Las personas empleadas cuentan con este beneficio disponible.,guia_TAI,persona_generica
+Los alumnos deberán presentar formulario completo para el ingreso a obra.,El alumnado deberá presentar formulario completo para el ingreso a obra.,guia_TAI,plural_neutro
+Decidieron algunos Gerentes del comité.,Decidieron autoridades del comité.,guia_TAI,colectivos
+Los coordinadores participaron de la capacitación.,El equipo de coordinación participo de la capacitación.,guia_TAI,colectivos
+Los trabajadores modifican sus tareas.,El personal modifica sus tareas.,guia_TAI,plural_complejo
+Derechos del hombre,Derechos de las personas,guia_TAI,persona_generica
+Todos los arquitectos,Los profesionales de la arquitectura,guia_TAI,colectivos
+Todos los ingenieros,Los profesionales de la ingeniería,guia_TAI,colectivos
+Todos los abogados,Los profesionales de la abogacía,guia_TAI,colectivos
+Todos los administrativos,Las personas que desempeñan tareas administrativas,guia_TAI,colectivos
+Todos los cuidadores,Las personas que desempeñan tareas de cuidado,guia_TAI,colectivos
+Todos los relevadores,Las personas que desempeñan tareas de relevo,guia_TAI,colectivos
+Todos los coordinadores,Las personas que desempeñan tareas de coordinación,guia_TAI,colectivos
+El acceso a derechos es básico para el hombre.,El acceso a derechos es básicos para el ser humano.,guia_CONICET,persona_generica
+El acceso a derechos es básico para el hombre.,El acceso a derechos es básico para las personas.,guia_CONICET,persona_generica
+Los investigadores de los diferentes institutos.,Investigadores de diferentes institutos.,guia_CONICET,omision
+Los que firman manifiestan haber leído el acta.,"Quienes firman abajo, manifiestan haber leído el acta.",guia_CONICET,persona_generica
+Los trabajadores,El personal,guia_CONICET,plural_complejo
+Los miembros de la academia,La comunidad académica,guia_CONICET,colectivos
+Dirigido a los estudiantes,Dirigido a cualquier estudiante,guia_CONICET,persona_generica
+Los directores,La dirección,guia_CONICET,colectivos
+Dirigido a los estudiantes,Dirigido a estudiantes,guia_CONICET,colectivos
+Los redactores del proyecto de investigación,Quienes redactaron el proyecto de investigación,guia_CONICET,persona_generica
+Los trabajadores de la institución,Quienes trabajan en la institución,guia_CONICET,persona_generica
+Los beneficiarios de la beca,Quienes se beneficien de la subvención,guia_CONICET,persona_generica
+El solicitante del material,Quien solicite el material,guia_CONICET,persona_generica
+Los interesados,Quienes estén interesados,guia_CONICET,persona_generica
+Los miembros deben presentar la solicitud a través del SIGEVA.,La solicitud se debe presentar a través del SIGEVA.,guia_CONICET,omision
+Los que firman manifiestan haber leído el acta.,"Quienes firman abajo, manifiestan haber leído el acta.",guia_CONICET,persona_generica
+Los miembros del Consejo Directivo,Quienes conforman el Consejo Directivo,guia_CONICET,persona_generica
+Cuando uno lee las noticias,Cuando alguien lee las noticias,guia_CONICET,persona_generica
+Nosotros queremos promover la ciencia pública.,Queremos promover la ciencia pública.,guia_CONICET,omision
+"Si los científicos trabajan adecuadamente, se puede lograr un cambio.","Trabajando adecuadamente desde la ciencia, se puede lograr un cambio.",guia_CONICET,omision
+Los nombres de los interesados,Los nombres de las personas interesadas,guia_CONICET,persona_generica
+Saludos a todos los biólogos en su día.,Saludos a biólogos y biólogas en su día.,guia_CONICET,plural_complejo
+Los interesados deben cumplir con los requisitos establecidos.,Las personas interesadas deben cumplir con los requisitos establecidos.,guia_CONICET,persona_generica
+¿Hay alguna empleada de limpieza en el organismo?,¿Hay personal de limpieza en este sitio?,guia_INAES,plural_complejo
+Enfermeras y médicos acudieron al llamado.,Personal sanitario acudió al llamado.,guia_INAES,plural_complejo
+La mayoría de los empleados tienen experiencia.,La mayoría del personal tiene experiencia.,guia_INAES,plural_complejo
+Los trabajadores y sus esposas están presentes.,"Las trabajadoras, los trabajadores y sus cónyuges están presentes.",guia_INAES,plural_complejo
+Los trabajadores y sus esposas están presentes.,"Las trabajadoras, los trabajadores y sus compañeros/compañeras están presentes.",guia_INAES,plural_complejo
+Hay nuevas políticas destinadas a los niños.,Hay nuevas políticas destinadas a niños y niñas.,guia_INAES,plural_complejo
+Hay nuevas políticas destinadas a los niños.,Hay nuevas políticas destinadas a las infancias.,guia_INAES,plural_neutro
+: Los trabajadores optimizaron los recursos disponibles.,Las trabajadoras y los trabajadores optimizaron los recursos disponibles.,guia_INAES,plural_complejo
+Los hombres han sido siempre así.,La humanidad ha sido siempre así.,guia_INAES,persona_generica
+Los adultos mayores estarán presentes.,Las personas mayores estarán presentes.,guia_INAES,persona_generica
+Nueve de cada diez ciudadanos respiran aire contaminado.,Nueve de cada diez personas respiran aire contaminado.,guia_CHRYSALLIS,persona_generica
+Todos tenemos derecho a un sistema de justicia.,Todas las personas tenemos derecho a un sistema de justicia.,guia_CHRYSALLIS,persona_generica
+Los asistentes obtendrán un Certificado.,Todas las personas asistentes obtendrán un certificado.,guia_CHRYSALLIS,persona_generica
+Hay algunos que opinan...,Hay quienes opinan...,guia_CHRYSALLIS,persona_generica
+Todos los representantes recibirán una copia del Acta.,Cada representante recibirá una copia del acta.,guia_CHRYSALLIS,persona_generica
+Uno dijo...,Alguien dijo...,guia_CHRYSALLIS,persona_generica
+Ninguno sabia...,Nadie sabía...,guia_CHRYSALLIS,persona_generica
+Los que quieran participar en.…,Quien quiera participar en.…,guia_CHRYSALLIS,persona_generica
+El que suscribe,Quien suscribe,guia_CHRYSALLIS,persona_generica
+Los participantes mantendrán un debate,Habrá un debate,guia_CHRYSALLIS,omision
+Se recuerda a los representantes que han de presentar sus proyectos de resolución,Se recuerda que los proyectos de resolución han de presentarse,guia_CHRYSALLIS,omision
+Los encuestadores llegaron a la conclusión de...,La encuesta revela la conclusión de...,guia_CHRYSALLIS,omision
+Cuando el usuario solicite información…,Cuando se solicite la información…,guia_CHRYSALLIS,omision
+Como todos vemos...,Como vemos…,guia_CHRYSALLIS,omision
+Como todos vemos...,Como podemos ver…,guia_CHRYSALLIS,omision
+Algunos llegaron demasiado pronto a clase,Algunas personas llegaron demasiado pronto a clase,guia_CHRYSALLIS,persona_generica
+Es necesario que el usuario tenga en cuenta...,Es necesario tener en cuenta...,guia_CHRYSALLIS,omision
+¿Quién puede ser candidato?,¿Quién se puede presentar a la candidatura?,guia_CHRYSALLIS,omision
+Si todos trabajamos con dedicación lograremos...,Trabajando con dedicación lograremos...,guia_CHRYSALLIS,omision
+Es importante que los interesados acudan personalmente,Es importante acudir personalmente,guia_CHRYSALLIS,omision
+Bienvenidos a clase,Os damos la bienvenida,guia_CHRYSALLIS,omision
+Bienvenidos a clase,Os doy la bienvenida,guia_CHRYSALLIS,omision
+Los trabajadores propusieron soluciones alternativas,Se propusieron soluciones alternativas,guia_CHRYSALLIS,omision
+las limpiadoras,el personal de limpieza,guia_CHRYSALLIS,plural_complejo
+las cocineras,el equipo de cocina,guia_CHRYSALLIS,colectivos
+las secretarias,el personal de secretaría,guia_CHRYSALLIS,plural_complejo
+las secretarias,el personal administrativo,guia_CHRYSALLIS,plural_complejo
+Es un gran logro para el hombre,Es un gran logro para la humanidad,guia_ONU,persona_generica
+Los profesores en huelga,El profesorado en huelga,guia_ONU,colectivos
+Los trabajadores del centro,La plantilla del centro,guia_ONU,colectivos
+Las enfermeras,El personal auxiliar sanitario,guia_ONU,plural_complejo
+En la manifestación estaban los policías y los activistas,En la manifestación había policías y activistas,guia_ONU,omision
+Los agricultores,Quienes se dedican a la agricultura,guia_ONU,persona_generica
+Los participantes no aprobaron el resultado,Ningún participante aprobó el resultado,guia_ONU,persona_generica
+Los participantes aprobaron el resultado,Nadie aprobó el resultado,guia_ONU,persona_generica
+Los participantes aprobaron el resultado,La mayoría aprobó el resultado,guia_ONU,persona_generica
+Los participantes no aprobaron el resultado,Nadie aprobó el resultado,guia_ONU,persona_generica
+Los participantes no aprobaron el resultado,La mayoría aprobó el resultado,guia_ONU,persona_generica
+Los derechos del hombre,Los derechos humanos,guia_ONU,persona_generica
+Los derechos del hombre,los derechos fundamentales,guia_ONU,persona_generica
+Los hombres de negocios,Las mujeres y hombres de negocios,guia_ONU,plural_complejo
+"Aumenta el número de parados en el país: los jóvenes y los inmigrantes, los más afectados.",El desempleo aumenta: la juventud y las personas inmigrantes son quienes más lo sufren.,guia_ONU,plural_neutro
+Los ciudadanos votaron por candidatos en las elecciones a alcalde celebradas ayer,"En las elecciones a la alcaldía celebradas ayer, la ciudadanía votó candidaturas con fuerte respaldo de sus partidos",guia_ONU,plural_neutro
+Rogamos a los asistentes que desalojen la sala,Se ruega desalojar la sala,guia_ONU,omision
+Los trabajadores reivindican sus derechos,Las trabajadoras y los trabajadores reivindican sus derechos,guia_ONU,plural_complejo
+Los participantes de la conferencia y sus esposas asistieron al almuerzo.,Los participantes de la conferencia y sus cónyuges asistieron al almuerzo.,guia_ONU,plural_neutro
+Los participantes de la conferencia y sus esposas asistieron al almuerzo.,Los participantes de la conferencia y sus parejas asistieron al almuerzo.,guia_ONU,plural_neutro
+Los participantes de la conferencia y sus esposas asistieron al almuerzo.,Los participantes de la conferencia y sus invitados asistieron al almuerzo.,guia_ONU,otros
+Pueden participar de la convocatoria los profesionales,"Pueden participar de las convocatorias, profesionales",guia_MX,omision
+"Aquellos que sepan firmar, que lo hagan al final de la hoja",Quienes sepan firmar que lo hagan al final de la hoja.,guia_MX,omision
+Aquel que quiera comer gratis deberá acreditarse.,Quien quiera comer gratis deberá acreditarse,guia_MX,omision
+"Cuando uno no tiene salud, todo es más difícil","Cuando alguien no tiene salud, todo es más difícil",guia_MX,persona_generica
+Si uno escucha la radio se anima un poco,Si alguien escucha la radio se anima un poco,guia_MX,persona_generica
+Cuando uno se confunde al hacer algo,Cuando nos confundimos al hacer algo,guia_MX,omision
+"En Navidad, siempre va a visitar a los suyos","En Navidad, siempre va a visitar a su familia",guia_MX,persona_generica
+Tú debes defender a los tuyos,Tú debes defender a tu gente,guia_MX,persona_generica
+Siempre trabajó cuidando a los otros,Siempre trabajó cuidando a otras personas,guia_MX,persona_generica
+Muchos dudan si votarán o no,Muchas personas dudan si votarán o no,guia_MX,persona_generica
+Muchos dudan si votarán o no,La mayoría duda si votará o no,guia_MX,persona_generica
+Pocos son los premiados en el Melate,Una minoría es premiada en el Melate,guia_MX,persona_generica
+Todos los trabajadores podrán acudir a la cena con sus esposas.,El personal podrá acudir a la cena con su pareja,guia_MX,plural_complejo
+Los estudiantes no podrán recibir visitas femeninas en los dormitorios,No se permiten visitas en los dormitorios.,guia_MX,omision
+Los poblanos tienen un nivel de vida bueno,El nivel de vida en Puebla es bueno,guia_MX,culturas
+Los habitantes nunca están conformes con el transporte,La población no está conforme con el transporte,guia_MX,persona_generica
+Los defeños ahorran bastante,En el D.F. se ahorra bastante,guia_MX,culturas
+Esos nunca colaboran,Ese grupo nunca colabora,guia_MX,persona_generica
+"El que quiera peces, que se moje","Quien quiera peces, que se moje",guia_MX,persona_generica
+Los indígenas tendrán créditos,La población indígena tendrá créditos,guia_MX,culturas
+Los jóvenes que deseen estudiar,La juventud que desee estudiar,guia_MX,plural_neutro
+Los votantes del D.F. tienden a,El electorado del D.F. tiende a,guia_MX,plural_neutro
+Los ciudadanos se manifestaron,La ciudadanía se manifestó,guia_MX,plural_neutro
+Los michoacanos no quieren que,La población michoacana no quiere que,guia_MX,culturas
+Los interesados en participar,Las personas interesadas en participar,guia_MX,persona_generica
+Los mayores de edad recibirán una,Las personas mayores de edad recibirán una,guia_MX,persona_generica
+Los niños tendrán servicio médico,La infancia tendrá servicios de salud,guia_MX,plural_neutro
+Se convoca a los Coordinadores,Se convoca a la Coordinación,guia_MX,plural_neutro
+El director del centro comunica,La dirección del centro comunica,guia_MX,plural_neutro
+Los asesores recomendaron que,La asesoría recomendó que,guia_MX,plural_neutro
+Los legisladores establecieron,La actual legislación establece,guia_MX,plural_neutro
+Se ha pedido a los jueces,Se ha pedido al poder judicial,guia_MX,plural_neutro
+Se necesitan licenciados en,Se necesitan personas licenciadas,guia_MX,persona_generica
+Hace 2000 años el hombre vivía de la caza,Hace 2000 años se vivía de la caza,guia_MX,omision
+En la época prehispánica los hombres escribían mediante jeroglíficos,En la época prehispánica escribíamos mediante jeroglíficos,guia_MX,omision
+El trabajo del hombre mejora su vida,El trabajo de la humanidad mejora la vida,guia_MX,persona_generica
+Es beneficioso para el hombre,Es beneficioso para la sociedad,guia_MX,plural_neutro
+Es beneficioso para el hombre,Es beneficioso para las personas,guia_MX,persona_generica
+El abonado del metrobús solo deberá introducirlo en la máquina ...,Si posees un abono de metrobús solo deberás introducirlo en la máquina...,guia_MX,omision
+Los lectores del periódico podrán participar en el sorteo,Si Usted lee el periódico podrá participar en el sorteo,guia_MX,omision
+El consumidor estará más seguro si comprueba el precinto del envase,Usted sentirá mayor seguridad al comprobar el precinto del envase,guia_MX,omision
+"Si los diplomáticos tuviéramos más competencias, mejoraría la gestión","Teniendo más competencias, mejoraría la gestión diplomática",guia_MX,omision
+Si los policías trabajaran con mejores condiciones habría más seguridad.,Trabajando con mejores condiciones la seguridad policial aumentaría,guia_MX,omision
+"Si los votantes optan por ese partido, ganaremos poco","Votando por ese partido, ganaremos poco.",guia_MX,omision
+Los veracruzanos tienen muchas plantaciones de café,En Veracruz hay muchas plantaciones de café.,guia_MX,culturas
+Los costeños comen mucho pescado,En la costa se come mucho pescado.,guia_MX,culturas
+Los representantes del barrio,Representantes del barrio,guia_MX,omision
+Es el portavoz del sector empresarial,Es portavoz del sector empresarial,guia_MX,omision
+Es el cantante del grupo,Es cantante del grupo,guia_MX,omision
+Ellos eran inteligentes y amables,Eran inteligentes y amables,guia_MX,omision
+El acusado puede elegir su abogado,Usted puede elegir su defensa,guia_MX,omision
+Nosotros queremos garantizar la equidad,Queremos garantizar la equidad,guia_MX,omision
+Ellos buscaban mejores condiciones,Buscaban mejores condiciones,guia_MX,omision
+Él dijo que vendría más tarde,Dijo que vendría más tarde,guia_MX,omision
+Ellos pensaban que todo saldría bien,Pensaban que todo saldría bien,guia_MX,omision
+Nosotros ganaremos el partido,Ganaremos el partido,guia_MX,omision
+Los diputados están buscando soluciones,El Congreso está buscando soluciones,guia_MX,plural_neutro
+Los integrantes de la mesa directiva decidirán,Se decidirá en la mesa directiva,guia_MX,omision
+Los dirigentes del sector debatirán el tema,El tema será debatido en la dirección del sector,guia_MX,omision
+Los miembros del partido darán alternativas,Se darán alternativas desde el partido,guia_MX,omision
